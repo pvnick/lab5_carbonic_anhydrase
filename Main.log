@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  14 JUN 2014 17:26
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  14 JUN 2014 17:32
 entering extended mode
 **Main.tex
 
@@ -15,11 +15,6 @@ german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
 ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
-
-(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\elsarticle\elsarti
-cle.cls
-Document Class: elsarticle 2009/09/17, 1.2.0: Elsevier Ltd
-\@bls=\dimen102
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\base\article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\base\size10.clo
@@ -35,8 +30,81 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \c@table=\count86
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
-\bibindent=\dimen103
+\bibindent=\dimen102
 )
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\amsmath\amsmath.st
+y
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\amsmath\amstext.st
+y
+Package: amstext 2000/06/29 v2.01
+
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\amsmath\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks15
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\amsfonts\amssymb.s
+ty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\amsfonts\amsfonts.
+sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\graphics\graphicx.
 sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
@@ -44,7 +112,7 @@ Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\graphics\keyval.st
 y
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
-\KV@toks@=\toks14
+\KV@toks@=\toks19
 )
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\graphics\graphics.
 sty
@@ -71,136 +139,22 @@ Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 .sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
-\Gread@gobject=\count87
+\Gread@gobject=\count99
 ))
-\Gin@req@height=\dimen104
-\Gin@req@width=\dimen105
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
 )
-(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\psnfss\pifont.sty
-Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
-LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
-
-(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\psnfss\upzd.fd
-File: upzd.fd 2001/06/04 font definitions for U/pzd.
-)
-LaTeX Font Info:    Try loading font information for U+psy on input line 64.
-
-(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\psnfss\upsy.fd
-File: upsy.fd 2001/06/04 font definitions for U/psy.
-))
-\c@tnote=\count88
-\c@fnote=\count89
-\c@cnote=\count90
-\c@ead=\count91
-\c@author=\count92
-\@eadauthor=\toks15
-\c@affn=\count93
-\absbox=\box26
-\keybox=\box27
-\Columnwidth=\dimen106
-\space@left=\dimen107
-\els@boxa=\box28
-\els@boxb=\box29
-\leftMargin=\dimen108
-\@enLab=\toks16
-\@sep=\skip43
-\@@sep=\skip44
-
-("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Main
-.spl")
-(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\natbib\natbib.sty
-Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip45
-\bibsep=\skip46
-LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count94
-)
-\splwrite=\write3
-)
-(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\amsmath\amsmath.st
-y
-Package: amsmath 2013/01/14 v2.14 AMS math features
-\@mathmargin=\skip47
-
-For additional information on amsmath, use the `?' option.
-
-(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\amsmath\amstext.st
-y
-Package: amstext 2000/06/29 v2.01
-
-(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\amsmath\amsgen.sty
-File: amsgen.sty 1999/11/30 v2.0
-\@emptytoks=\toks17
-\ex@=\dimen109
-))
-(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\amsmath\amsbsy.sty
-Package: amsbsy 1999/11/29 v1.2d
-\pmbraise@=\dimen110
-)
-(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\amsmath\amsopn.sty
-Package: amsopn 1999/12/14 v2.01 operator names
-)
-\inf@bad=\count95
-LaTeX Info: Redefining \frac on input line 210.
-\uproot@=\count96
-\leftroot@=\count97
-LaTeX Info: Redefining \overline on input line 306.
-\classnum@=\count98
-\DOTSCASE@=\count99
-LaTeX Info: Redefining \ldots on input line 378.
-LaTeX Info: Redefining \dots on input line 381.
-LaTeX Info: Redefining \cdots on input line 466.
-\Mathstrutbox@=\box30
-\strutbox@=\box31
-\big@size=\dimen111
-LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
-\macc@depth=\count100
-\c@MaxMatrixCols=\count101
-\dotsspace@=\muskip10
-\c@parentequation=\count102
-\dspbrk@lvl=\count103
-\tag@help=\toks18
-\row@=\count104
-\column@=\count105
-\maxfields@=\count106
-\andhelp@=\toks19
-\eqnshift@=\dimen112
-\alignsep@=\dimen113
-\tagshift@=\dimen114
-\tagwidth@=\dimen115
-\totwidth@=\dimen116
-\lineht@=\dimen117
-\@envbody=\toks20
-\multlinegap=\skip48
-\multlinetaggap=\skip49
-\mathdisplay@stack=\toks21
-LaTeX Info: Redefining \[ on input line 2665.
-LaTeX Info: Redefining \] on input line 2666.
-)
-(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\amsfonts\amssymb.s
-ty
-Package: amssymb 2013/01/14 v3.01 AMS font symbols
-
-(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\amsfonts\amsfonts.
-sty
-Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\symAMSa=\mathgroup4
-\symAMSb=\mathgroup5
-LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
-(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-))
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\colortbl\colortbl.
 sty
 Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
 
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\tools\array.sty
 Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
-\col@sep=\dimen118
-\extrarowheight=\dimen119
-\NC@list=\toks22
-\extratabsurround=\skip50
-\backup@length=\skip51
+\col@sep=\dimen114
+\extrarowheight=\dimen115
+\NC@list=\toks20
+\extratabsurround=\skip46
+\backup@length=\skip47
 )
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\graphics\color.sty
 Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
@@ -210,8 +164,8 @@ File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 130.
 )
-\everycr=\toks23
-\minrowclearance=\skip52
+\everycr=\toks21
+\minrowclearance=\skip48
 ) (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\url\url.sty
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
@@ -224,15 +178,15 @@ tikz.sty
 cs.sty
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\utilities\pg
 futil-common.tex
-\pgfutil@everybye=\toks24
-\pgfutil@tempdima=\dimen120
-\pgfutil@tempdimb=\dimen121
+\pgfutil@everybye=\toks22
+\pgfutil@tempdima=\dimen116
+\pgfutil@tempdimb=\dimen117
 
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\utilities\pg
 futil-common-lists.tex))
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\utilities\pg
 futil-latex.def
-\pgfutil@abb=\box32
+\pgfutil@abb=\box28
 
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\ms\everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
@@ -253,30 +207,30 @@ Package: pgfsys 2013/11/30 v3.0.0 (rcs-revision 1.47)
 
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\utilities\pg
 fkeys.code.tex
-\pgfkeys@pathtoks=\toks25
-\pgfkeys@temptoks=\toks26
+\pgfkeys@pathtoks=\toks23
+\pgfkeys@temptoks=\toks24
 
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\utilities\pg
 fkeysfiltered.code.tex
-\pgfkeys@tmptoks=\toks27
+\pgfkeys@tmptoks=\toks25
 ))
-\pgf@x=\dimen122
-\pgf@y=\dimen123
-\pgf@xa=\dimen124
-\pgf@ya=\dimen125
-\pgf@xb=\dimen126
-\pgf@yb=\dimen127
-\pgf@xc=\dimen128
-\pgf@yc=\dimen129
-\w@pgf@writea=\write4
+\pgf@x=\dimen118
+\pgf@y=\dimen119
+\pgf@xa=\dimen120
+\pgf@ya=\dimen121
+\pgf@xb=\dimen122
+\pgf@yb=\dimen123
+\pgf@xc=\dimen124
+\pgf@yc=\dimen125
+\w@pgf@writea=\write3
 \r@pgf@reada=\read1
-\c@pgf@counta=\count107
-\c@pgf@countb=\count108
-\c@pgf@countc=\count109
-\c@pgf@countd=\count110
-\t@pgf@toka=\toks28
-\t@pgf@tokb=\toks29
-\t@pgf@tokc=\toks30
+\c@pgf@counta=\count100
+\c@pgf@countb=\count101
+\c@pgf@countc=\count102
+\c@pgf@countd=\count103
+\t@pgf@toka=\toks26
+\t@pgf@tokb=\toks27
+\t@pgf@tokc=\toks28
 
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\systemlayer\
 pgf.cfg
@@ -295,8 +249,8 @@ File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\systemlayer\
 pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
-\pgfsyssoftpath@smallbuffer@items=\count111
-\pgfsyssoftpath@bigbuffer@items=\count112
+\pgfsyssoftpath@smallbuffer@items=\count104
+\pgfsyssoftpath@bigbuffer@items=\count105
 )
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\systemlayer\
 pgfsysprotocol.code.tex
@@ -332,12 +286,12 @@ calc.code.tex
 util.code.tex)
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\math\pgfmath
 parser.code.tex
-\pgfmath@dimen=\dimen130
-\pgfmath@count=\count113
-\pgfmath@box=\box33
-\pgfmath@toks=\toks31
-\pgfmath@stack@operand=\toks32
-\pgfmath@stack@operation=\toks33
+\pgfmath@dimen=\dimen126
+\pgfmath@count=\count106
+\pgfmath@box=\box29
+\pgfmath@toks=\toks29
+\pgfmath@stack@operand=\toks30
+\pgfmath@stack@operation=\toks31
 )
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\math\pgfmath
 functions.code.tex
@@ -359,57 +313,57 @@ functions.misc.code.tex)
 functions.integerarithmetics.code.tex)))
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\math\pgfmath
 float.code.tex
-\c@pgfmathroundto@lastzeros=\count114
+\c@pgfmathroundto@lastzeros=\count107
 ))
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\basiclayer\p
 gfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
-\pgf@picminx=\dimen131
-\pgf@picmaxx=\dimen132
-\pgf@picminy=\dimen133
-\pgf@picmaxy=\dimen134
-\pgf@pathminx=\dimen135
-\pgf@pathmaxx=\dimen136
-\pgf@pathminy=\dimen137
-\pgf@pathmaxy=\dimen138
-\pgf@xx=\dimen139
-\pgf@xy=\dimen140
-\pgf@yx=\dimen141
-\pgf@yy=\dimen142
-\pgf@zx=\dimen143
-\pgf@zy=\dimen144
+\pgf@picminx=\dimen127
+\pgf@picmaxx=\dimen128
+\pgf@picminy=\dimen129
+\pgf@picmaxy=\dimen130
+\pgf@pathminx=\dimen131
+\pgf@pathmaxx=\dimen132
+\pgf@pathminy=\dimen133
+\pgf@pathmaxy=\dimen134
+\pgf@xx=\dimen135
+\pgf@xy=\dimen136
+\pgf@yx=\dimen137
+\pgf@yy=\dimen138
+\pgf@zx=\dimen139
+\pgf@zy=\dimen140
 )
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\basiclayer\p
 gfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
-\pgf@path@lastx=\dimen145
-\pgf@path@lasty=\dimen146
+\pgf@path@lastx=\dimen141
+\pgf@path@lasty=\dimen142
 )
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\basiclayer\p
 gfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2013/12/13  (rcs-revision 1.23)
-\pgf@shorten@end@additional=\dimen147
-\pgf@shorten@start@additional=\dimen148
+\pgf@shorten@end@additional=\dimen143
+\pgf@shorten@start@additional=\dimen144
 )
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\basiclayer\p
 gfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2013/10/09  (rcs-revision 1.44)
-\pgfpic=\box34
-\pgf@hbox=\box35
-\pgf@layerbox@main=\box36
-\pgf@picture@serial@count=\count115
+\pgfpic=\box30
+\pgf@hbox=\box31
+\pgf@layerbox@main=\box32
+\pgf@picture@serial@count=\count108
 )
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\basiclayer\p
 gfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2013/09/19  (rcs-revision 1.11)
-\pgflinewidth=\dimen149
+\pgflinewidth=\dimen145
 )
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\basiclayer\p
 gfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2013/10/10  (rcs-revision 1.17)
-\pgf@pt@x=\dimen150
-\pgf@pt@y=\dimen151
-\pgf@pt@temp=\dimen152
+\pgf@pt@x=\dimen146
+\pgf@pt@y=\dimen147
+\pgf@pt@temp=\dimen148
 )
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\basiclayer\p
 gfcorequick.code.tex
@@ -426,13 +380,13 @@ File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\basiclayer\p
 gfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2013/11/07  (rcs-revision 1.40)
-\pgfarrowsep=\dimen153
+\pgfarrowsep=\dimen149
 )
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\basiclayer\p
 gfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
-\pgf@max=\dimen154
-\pgf@sys@shading@range@num=\count116
+\pgf@max=\dimen150
+\pgf@sys@shading@range@num=\count109
 )
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\basiclayer\p
 gfcoreimage.code.tex
@@ -441,7 +395,7 @@ File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\basiclayer\p
 gfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2013/07/15  (rcs-revision 1.20)
-\pgfexternal@startupbox=\box37
+\pgfexternal@startupbox=\box33
 ))
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\basiclayer\p
 gfcorelayers.code.tex
@@ -458,7 +412,7 @@ File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\modules\pgfm
 oduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2013/10/31  (rcs-revision 1.34)
-\pgfnodeparttextbox=\box38
+\pgfnodeparttextbox=\box34
 )
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\modules\pgfm
 oduleplot.code.tex
@@ -467,8 +421,8 @@ File: pgfmoduleplot.code.tex 2013/07/31  (rcs-revision 1.12)
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\pgf\compatibility\
 pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2007/07/03 v3.0.0 (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen155
-\pgf@nodesepend=\dimen156
+\pgf@nodesepstart=\dimen151
+\pgf@nodesepend=\dimen152
 )
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\pgf\compatibility\
 pgfcomp-version-1-18.sty
@@ -490,10 +444,10 @@ Package: pgffor 2013/12/13 v3.0.0 (rcs-revision 1.25)
 
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\math\pgfmath
 .code.tex)
-\pgffor@iter=\dimen157
-\pgffor@skip=\dimen158
-\pgffor@stack=\toks34
-\pgffor@toks=\toks35
+\pgffor@iter=\dimen153
+\pgffor@skip=\dimen154
+\pgffor@stack=\toks32
+\pgffor@toks=\toks33
 ))
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\frontendlaye
 r\tikz\tikz.code.tex
@@ -502,32 +456,32 @@ Package: tikz 2013/12/13 v3.0.0 (rcs-revision 1.142)
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\libraries\pg
 flibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.0 (rcs-revision 1.20)
-\pgf@plot@mark@count=\count117
-\pgfplotmarksize=\dimen159
+\pgf@plot@mark@count=\count110
+\pgfplotmarksize=\dimen155
 )
-\tikz@lastx=\dimen160
-\tikz@lasty=\dimen161
-\tikz@lastxsaved=\dimen162
-\tikz@lastysaved=\dimen163
-\tikzleveldistance=\dimen164
-\tikzsiblingdistance=\dimen165
-\tikz@figbox=\box39
-\tikz@figbox@bg=\box40
-\tikz@tempbox=\box41
-\tikz@tempbox@bg=\box42
-\tikztreelevel=\count118
-\tikznumberofchildren=\count119
-\tikznumberofcurrentchild=\count120
-\tikz@fig@count=\count121
+\tikz@lastx=\dimen156
+\tikz@lasty=\dimen157
+\tikz@lastxsaved=\dimen158
+\tikz@lastysaved=\dimen159
+\tikzleveldistance=\dimen160
+\tikzsiblingdistance=\dimen161
+\tikz@figbox=\box35
+\tikz@figbox@bg=\box36
+\tikz@tempbox=\box37
+\tikz@tempbox@bg=\box38
+\tikztreelevel=\count111
+\tikznumberofchildren=\count112
+\tikznumberofcurrentchild=\count113
+\tikz@fig@count=\count114
 
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\modules\pgfm
 odulematrix.code.tex
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-\pgfmatrixcurrentrow=\count122
-\pgfmatrixcurrentcolumn=\count123
-\pgf@matrix@numberofcolumns=\count124
+\pgfmatrixcurrentrow=\count115
+\pgfmatrixcurrentcolumn=\count116
+\pgf@matrix@numberofcolumns=\count117
 )
-\tikz@expandcount=\count125
+\tikz@expandcount=\count118
 
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\frontendlaye
 r\tikz\libraries\tikzlibrarytopaths.code.tex
@@ -536,7 +490,7 @@ File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.0 (rcs-revision 1.2)
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\algorithm2e\algori
 thm2e.sty
 Package: algorithm2e 2013/01/06 v5.00 algorithms environments
-\c@AlgoLine=\count126
+\c@AlgoLine=\count119
 
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\base\ifthen.sty
 Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
@@ -555,79 +509,79 @@ Package `algorithm2e' Release 5.0 -- january 06 2013 --
 subscribe by emailing sympa@lirmm.fr with 'subscribe <list> <firstname name>'
 - Author: Christophe Fiorio (cfiorio@um2.fr)
 ********************************************************
-\skiptotal=\skip53
-\skiplinenumber=\skip54
-\skiprule=\skip55
-\skiphlne=\skip56
-\skiptext=\skip57
-\skiplength=\skip58
-\algomargin=\skip59
-\skipalgocfslide=\skip60
-\algowidth=\dimen166
-\inoutsize=\dimen167
-\inoutindent=\dimen168
-\interspacetitleruled=\dimen169
-\interspacealgoruled=\dimen170
-\interspacetitleboxruled=\dimen171
-\algocf@inoutbox=\box43
-\algocf@inputbox=\box44
-\AlCapSkip=\skip61
-\AlCapHSkip=\skip62
-\algoskipindent=\skip63
-\algocf@nlbox=\box45
-\algocf@hangingbox=\box46
-\algocf@untilbox=\box47
-\algocf@skipuntil=\skip64
-\algocf@capbox=\box48
-\algoheightruledefault=\skip65
-\algoheightrule=\skip66
-\algotitleheightruledefault=\skip67
-\algotitleheightrule=\skip68
-\c@algocfline=\count127
-\c@algocfproc=\count128
-\c@algocf=\count129
-\algocf@algoframe=\box49
-\algocf@algobox=\box50
+\skiptotal=\skip49
+\skiplinenumber=\skip50
+\skiprule=\skip51
+\skiphlne=\skip52
+\skiptext=\skip53
+\skiplength=\skip54
+\algomargin=\skip55
+\skipalgocfslide=\skip56
+\algowidth=\dimen162
+\inoutsize=\dimen163
+\inoutindent=\dimen164
+\interspacetitleruled=\dimen165
+\interspacealgoruled=\dimen166
+\interspacetitleboxruled=\dimen167
+\algocf@inoutbox=\box39
+\algocf@inputbox=\box40
+\AlCapSkip=\skip57
+\AlCapHSkip=\skip58
+\algoskipindent=\skip59
+\algocf@nlbox=\box41
+\algocf@hangingbox=\box42
+\algocf@untilbox=\box43
+\algocf@skipuntil=\skip60
+\algocf@capbox=\box44
+\algoheightruledefault=\skip61
+\algoheightrule=\skip62
+\algotitleheightruledefault=\skip63
+\algotitleheightrule=\skip64
+\c@algocfline=\count120
+\c@algocfproc=\count121
+\c@algocf=\count122
+\algocf@algoframe=\box45
+\algocf@algobox=\box46
 )
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\sttools\flushend.s
 ty
 Package: flushend 2014/04/24 v2.2 Balancing columns in twocolumn mode
-\flushend@@lastskip@a=\skip69
-\flushend@@lastskip@b=\skip70
-\flushend@@lastskip@c=\skip71
-\flushend@@penalty@a=\count130
-\flushend@@lastkern@a=\dimen172
-\var@@temp@spread=\dimen173
-\var@@temp@a=\dimen174
-\flushend@@page@rule=\dimen175
-\flushend@@varbox@a=\box51
-\flushend@@varbox@c=\box52
-\flushend@@tempbox@a=\box53
-\flushend@@tempbox@c=\box54
-\@viper=\box55
-\hold@viper=\box56
-\atColsBreak=\toks36
-\atColsEnd=\toks37
+\flushend@@lastskip@a=\skip65
+\flushend@@lastskip@b=\skip66
+\flushend@@lastskip@c=\skip67
+\flushend@@penalty@a=\count123
+\flushend@@lastkern@a=\dimen168
+\var@@temp@spread=\dimen169
+\var@@temp@a=\dimen170
+\flushend@@page@rule=\dimen171
+\flushend@@varbox@a=\box47
+\flushend@@varbox@c=\box48
+\flushend@@tempbox@a=\box49
+\flushend@@tempbox@c=\box50
+\@viper=\box51
+\hold@viper=\box52
+\atColsBreak=\toks34
+\atColsEnd=\toks35
 
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\etoolbox\etoolbox.
 sty
 Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
  (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\misc\etex.sty
 Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
-\et@xins=\count131
+\et@xins=\count124
 )
-\etb@tempcnta=\count132
+\etb@tempcnta=\count125
 ))
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\mdwtools\footnote.
 sty
 Package: footnote 1997/01/28 1.13 Save footnotes around boxes
-\fn@notes=\box57
-\fn@width=\dimen176
+\fn@notes=\box53
+\fn@width=\dimen172
 )
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\threeparttable\thr
 eeparttable.sty
 Package: threeparttable 2003/06/13  v 3.0
-\@tempboxb=\box58
+\@tempboxb=\box54
 )
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\caption\caption.st
 y
@@ -637,45 +591,44 @@ Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
 ty
 Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 57.
-\captionmargin=\dimen177
-\captionmargin@=\dimen178
-\captionwidth=\dimen179
-\caption@tempdima=\dimen180
-\caption@indent=\dimen181
-\caption@parindent=\dimen182
-\caption@hangindent=\dimen183
+\captionmargin=\dimen173
+\captionmargin@=\dimen174
+\captionwidth=\dimen175
+\caption@tempdima=\dimen176
+\caption@indent=\dimen177
+\caption@parindent=\dimen178
+\caption@hangindent=\dimen179
 )
-\c@ContinuedFloat=\count133
+\c@ContinuedFloat=\count126
 Package caption Info: threeparttable package is loaded.
 )
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\caption\subcaption
 .sty
 Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
-\c@subfigure=\count134
-\c@subtable=\count135
+\c@subfigure=\count127
+\c@subtable=\count128
 )
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\subfig\subfig.sty
 Package: subfig 2005/06/28 ver: 1.3 subfig package
-\c@KVtest=\count136
-\sf@farskip=\skip72
-\sf@captopadj=\dimen184
-\sf@capskip=\skip73
-\sf@nearskip=\skip74
-\sf@top=\skip75
-\sf@bottom=\skip76
+\c@KVtest=\count129
+\sf@farskip=\skip68
+\sf@captopadj=\dimen180
+\sf@capskip=\skip69
+\sf@nearskip=\skip70
+\sf@top=\skip71
+\sf@bottom=\skip72
 ) (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\amscls\amsthm.st
 y
 Package: amsthm 2004/08/06 v2.20
-\thm@style=\toks38
-\thm@bodyfont=\toks39
-\thm@headfont=\toks40
-\thm@notefont=\toks41
-\thm@headpunct=\toks42
-\thm@preskip=\skip77
-\thm@postskip=\skip78
-\thm@headsep=\skip79
-\dth@everypar=\toks43
-LaTeX Info: Redefining \qed on input line 283.
+\thm@style=\toks36
+\thm@bodyfont=\toks37
+\thm@headfont=\toks38
+\thm@notefont=\toks39
+\thm@headpunct=\toks40
+\thm@preskip=\skip73
+\thm@postskip=\skip74
+\thm@headsep=\skip75
+\dth@everypar=\toks41
 )
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\setspace\setspace.
 sty
@@ -686,16 +639,16 @@ Package: mhchem 2014/03/27 v3.17 for typesetting chemical formulae
 
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\tools\calc.sty
 Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count137
-\calc@Bcount=\count138
-\calc@Adimen=\dimen185
-\calc@Bdimen=\dimen186
-\calc@Askip=\skip80
-\calc@Bskip=\skip81
+\calc@Acount=\count130
+\calc@Bcount=\count131
+\calc@Adimen=\dimen181
+\calc@Bdimen=\dimen182
+\calc@Askip=\skip76
+\calc@Bskip=\skip77
 LaTeX Info: Redefining \setlength on input line 76.
 LaTeX Info: Redefining \addtolength on input line 77.
-\calc@Ccount=\count139
-\calc@Cskip=\skip82
+\calc@Ccount=\count132
+\calc@Cskip=\skip78
 )
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\oberdiek\twoopt.st
 y
@@ -734,37 +687,37 @@ L3 Module: l3expan 2014/04/30 v4712 L3 Argument expansion
 L3 Module: l3tl 2014/05/04 v4728 L3 Token lists
 L3 Module: l3seq 2014/04/30 v4712 L3 Sequences and stacks
 L3 Module: l3int 2014/05/16 v4776 L3 Integers
-\c_max_int=\count140
-\l_tmpa_int=\count141
-\l_tmpb_int=\count142
-\g_tmpa_int=\count143
-\g_tmpb_int=\count144
+\c_max_int=\count133
+\l_tmpa_int=\count134
+\l_tmpb_int=\count135
+\g_tmpa_int=\count136
+\g_tmpb_int=\count137
 L3 Module: l3quark 2014/05/04 v4728 L3 Quarks
 L3 Module: l3prg 2014/05/04 v4728 L3 Control structures
-\g__prg_map_int=\count145
+\g__prg_map_int=\count138
 L3 Module: l3clist 2014/05/04 v4728 L3 Comma separated lists
 L3 Module: l3token 2014/05/04 v4728 L3 Experimental token manipulation
 L3 Module: l3prop 2014/04/30 v4712 L3 Property lists
 L3 Module: l3msg 2014/05/04 v4728 L3 Messages
 L3 Module: l3file 2014/05/05 v4737 L3 File and I/O operations
-\l_iow_line_count_int=\count146
-\l__iow_target_count_int=\count147
-\l__iow_current_line_int=\count148
-\l__iow_current_word_int=\count149
-\l__iow_current_indentation_int=\count150
+\l_iow_line_count_int=\count139
+\l__iow_target_count_int=\count140
+\l__iow_current_line_int=\count141
+\l__iow_current_word_int=\count142
+\l__iow_current_indentation_int=\count143
 L3 Module: l3skip 2014/05/05 v4738 L3 Dimensions and skips
-\c_zero_dim=\dimen187
-\c_max_dim=\dimen188
-\l_tmpa_dim=\dimen189
-\l_tmpb_dim=\dimen190
-\g_tmpa_dim=\dimen191
-\g_tmpb_dim=\dimen192
-\c_zero_skip=\skip83
-\c_max_skip=\skip84
-\l_tmpa_skip=\skip85
-\l_tmpb_skip=\skip86
-\g_tmpa_skip=\skip87
-\g_tmpb_skip=\skip88
+\c_zero_dim=\dimen183
+\c_max_dim=\dimen184
+\l_tmpa_dim=\dimen185
+\l_tmpb_dim=\dimen186
+\g_tmpa_dim=\dimen187
+\g_tmpb_dim=\dimen188
+\c_zero_skip=\skip79
+\c_max_skip=\skip80
+\l_tmpa_skip=\skip81
+\l_tmpb_skip=\skip82
+\g_tmpa_skip=\skip83
+\g_tmpb_skip=\skip84
 \c_zero_muskip=\muskip12
 \c_max_muskip=\muskip13
 \l_tmpa_muskip=\muskip14
@@ -772,85 +725,85 @@ L3 Module: l3skip 2014/05/05 v4738 L3 Dimensions and skips
 \g_tmpa_muskip=\muskip16
 \g_tmpb_muskip=\muskip17
 L3 Module: l3keys 2014/05/08 v4753 L3 Key-value interfaces
-\g__keyval_level_int=\count151
-\l_keys_choice_int=\count152
+\g__keyval_level_int=\count144
+\l_keys_choice_int=\count145
 L3 Module: l3fp 2014/04/30 v4712 L3 Floating points
-\c__fp_leading_shift_int=\count153
-\c__fp_middle_shift_int=\count154
-\c__fp_trailing_shift_int=\count155
-\c__fp_big_leading_shift_int=\count156
-\c__fp_big_middle_shift_int=\count157
-\c__fp_big_trailing_shift_int=\count158
-\c__fp_Bigg_leading_shift_int=\count159
-\c__fp_Bigg_middle_shift_int=\count160
-\c__fp_Bigg_trailing_shift_int=\count161
+\c__fp_leading_shift_int=\count146
+\c__fp_middle_shift_int=\count147
+\c__fp_trailing_shift_int=\count148
+\c__fp_big_leading_shift_int=\count149
+\c__fp_big_middle_shift_int=\count150
+\c__fp_big_trailing_shift_int=\count151
+\c__fp_Bigg_leading_shift_int=\count152
+\c__fp_Bigg_middle_shift_int=\count153
+\c__fp_Bigg_trailing_shift_int=\count154
 L3 Module: l3box 2014/05/04 v4728 L3 Experimental boxes
-\c_empty_box=\box59
-\l_tmpa_box=\box60
-\l_tmpb_box=\box61
-\g_tmpa_box=\box62
-\g_tmpb_box=\box63
+\c_empty_box=\box55
+\l_tmpa_box=\box56
+\l_tmpb_box=\box57
+\g_tmpa_box=\box58
+\g_tmpb_box=\box59
 L3 Module: l3coffins 2014/05/04 v4728 L3 Coffin code layer
-\l__coffin_internal_box=\box64
-\l__coffin_internal_dim=\dimen193
-\l__coffin_offset_x_dim=\dimen194
-\l__coffin_offset_y_dim=\dimen195
-\l__coffin_x_dim=\dimen196
-\l__coffin_y_dim=\dimen197
-\l__coffin_x_prime_dim=\dimen198
-\l__coffin_y_prime_dim=\dimen199
-\c_empty_coffin=\box65
-\l__coffin_aligned_coffin=\box66
-\l__coffin_aligned_internal_coffin=\box67
-\l_tmpa_coffin=\box68
-\l_tmpb_coffin=\box69
-\l__coffin_display_coffin=\box70
-\l__coffin_display_coord_coffin=\box71
-\l__coffin_display_pole_coffin=\box72
-\l__coffin_display_offset_dim=\dimen200
-\l__coffin_display_x_dim=\dimen201
-Normal \dimen register pool exhausted, switching to extended pool.
-\l__coffin_display_y_dim=\dimen256
+\l__coffin_internal_box=\box60
+\l__coffin_internal_dim=\dimen189
+\l__coffin_offset_x_dim=\dimen190
+\l__coffin_offset_y_dim=\dimen191
+\l__coffin_x_dim=\dimen192
+\l__coffin_y_dim=\dimen193
+\l__coffin_x_prime_dim=\dimen194
+\l__coffin_y_prime_dim=\dimen195
+\c_empty_coffin=\box61
+\l__coffin_aligned_coffin=\box62
+\l__coffin_aligned_internal_coffin=\box63
+\l_tmpa_coffin=\box64
+\l_tmpb_coffin=\box65
+\l__coffin_display_coffin=\box66
+\l__coffin_display_coord_coffin=\box67
+\l__coffin_display_pole_coffin=\box68
+\l__coffin_display_offset_dim=\dimen196
+\l__coffin_display_x_dim=\dimen197
+\l__coffin_display_y_dim=\dimen198
 L3 Module: l3color 2014/04/30 v4712 L3 Experimental color support
 L3 Module: l3luatex 2014/04/30 v4712 L3 Experimental LuaTeX-specific functions
-\g__cctab_allocate_int=\count162
-\g__cctab_stack_int=\count163
+\g__cctab_allocate_int=\count155
+\g__cctab_stack_int=\count156
 L3 Module: l3candidates 2014/05/04 v4734 L3 Experimental additions to l3kernel
-\l__box_top_dim=\dimen257
-\l__box_bottom_dim=\dimen258
-\l__box_left_dim=\dimen259
-\l__box_right_dim=\dimen260
-\l__box_top_new_dim=\dimen261
-\l__box_bottom_new_dim=\dimen262
-\l__box_left_new_dim=\dimen263
-\l__box_right_new_dim=\dimen264
-\l__box_internal_box=\box73
-\l__coffin_bounding_shift_dim=\dimen265
-\l__coffin_left_corner_dim=\dimen266
-\l__coffin_right_corner_dim=\dimen267
-\l__coffin_bottom_corner_dim=\dimen268
-\l__coffin_top_corner_dim=\dimen269
-\l__coffin_scaled_total_height_dim=\dimen270
-\l__coffin_scaled_width_dim=\dimen271
+\l__box_top_dim=\dimen199
+\l__box_bottom_dim=\dimen200
+\l__box_left_dim=\dimen201
+Normal \dimen register pool exhausted, switching to extended pool.
+\l__box_right_dim=\dimen256
+\l__box_top_new_dim=\dimen257
+\l__box_bottom_new_dim=\dimen258
+\l__box_left_new_dim=\dimen259
+\l__box_right_new_dim=\dimen260
+\l__box_internal_box=\box69
+\l__coffin_bounding_shift_dim=\dimen261
+\l__coffin_left_corner_dim=\dimen262
+\l__coffin_right_corner_dim=\dimen263
+\l__coffin_bottom_corner_dim=\dimen264
+\l__coffin_top_corner_dim=\dimen265
+\l__coffin_scaled_total_height_dim=\dimen266
+\l__coffin_scaled_width_dim=\dimen267
 ))
-\mhchem@ce@result=\toks44
-\mhchem@ce@part=\toks45
-\mhchem@arrow@deployType=\toks46
-\mhchem@arrow@params=\toks47
-\mhchem@arrowlength@pgf=\skip89
-\mhchem@bondwidth=\skip90
-\mhchem@bondheight=\skip91
-\mhchem@smallbondwidth@tmpA=\skip92
-\mhchem@smallbondwidth@tmpB=\skip93
-\mhchem@smallbondwidth=\skip94
-\__mhchem_option_version_int=\count164
-\mhchem@prepostscript@tmp@i=\skip95
-\mhchem@prepostscript@tmp@ii=\skip96
-\mhchem@mathbox@tmp@i=\skip97
-\mhchem@mathbox@tmp@ii=\skip98
-\mhchem@minispace@tmp=\skip99
-\mhchem@option@minussidebearingleft=\skip100
-\mhchem@option@minussidebearingright=\skip101
+\mhchem@ce@result=\toks42
+\mhchem@ce@part=\toks43
+\mhchem@arrow@deployType=\toks44
+\mhchem@arrow@params=\toks45
+\mhchem@arrowlength@pgf=\skip85
+\mhchem@bondwidth=\skip86
+\mhchem@bondheight=\skip87
+\mhchem@smallbondwidth@tmpA=\skip88
+\mhchem@smallbondwidth@tmpB=\skip89
+\mhchem@smallbondwidth=\skip90
+\__mhchem_option_version_int=\count157
+\mhchem@prepostscript@tmp@i=\skip91
+\mhchem@prepostscript@tmp@ii=\skip92
+\mhchem@mathbox@tmp@i=\skip93
+\mhchem@mathbox@tmp@ii=\skip94
+\mhchem@minispace@tmp=\skip95
+\mhchem@option@minussidebearingleft=\skip96
+\mhchem@option@minussidebearingright=\skip97
 
 
 Package mhchem Warning: You did not specify a 'version' option for the mhchem
@@ -860,66 +813,81 @@ Package mhchem Warning: You did not specify a 'version' option for the mhchem
 (mhchem)                mhchem.
 
 )
-\c@mydef=\count165
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\apacite\apacite.st
+y
+Package: apacite 2013/07/21 v6.03 APA citation
+\c@BibCnt=\count158
+\bibleftmargin=\skip98
+\bibindent=\skip99
+\bibparsep=\skip100
+\bibitemsep=\skip101
+\biblabelsep=\skip102
+)
+\c@mydef=\count159
 
 ("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Main
-.aux"
-("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Intr
-oduction.aux")
-("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Resu
-lts.aux"))
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
+.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
 
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\context\base\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count166
-\scratchdimen=\dimen272
-\scratchbox=\box74
-\nofMPsegments=\count167
-\nofMParguments=\count168
-\everyMPshowfont=\toks48
-\MPscratchCnt=\count169
-\MPscratchDim=\dimen273
-\MPnumerator=\count170
-\makeMPintoPDFobject=\count171
-\everyMPtoPDFconversion=\toks49
+\scratchcounter=\count160
+\scratchdimen=\dimen268
+\scratchbox=\box70
+\nofMPsegments=\count161
+\nofMParguments=\count162
+\everyMPshowfont=\toks46
+\MPscratchCnt=\count163
+\MPscratchDim=\dimen269
+\MPnumerator=\count164
+\makeMPintoPDFobject=\count165
+\everyMPtoPDFconversion=\toks47
 ) ABD: EveryShipout initializing macros
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Try loading font information for U+msa on input line 56.
+\c@maskedRefs=\count166
+
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\apacite\english.ap
+c
+File: english.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 129.
+LaTeX Info: Redefining \BHBI on input line 130.
+) [1
+
+{Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/pdftex/config/pdftex.map}]
+
+LaTeX Warning: Citation `Dirac1953888' undefined on input line 48.
+
+[2]
+("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Intr
+oduction.tex"
+LaTeX Font Info:    Try loading font information for U+msa on input line 3.
 
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 56.
+LaTeX Font Info:    Try loading font information for U+msb on input line 3.
 
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-[1
 
+LaTeX Warning: Reference `fig:dipic' on page 3 undefined on input line 8.
 
-{Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/pdftex/config/pdftex.map}]
-
-Package natbib Warning: Citation `Dirac1953888' on page 2 undefined on input li
-ne 59.
-
-[2]
-("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Intr
-oduction.tex" <./Figures/dipic.jpg, id=18, 569.12625pt x 323.2075pt>
+<./Figures/dipic.jpg, id=15, 569.12625pt x 323.2075pt>
 File: ./Figures/dipic.jpg Graphic file (type jpg)
 
 <use ./Figures/dipic.jpg>
@@ -935,7 +903,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--11
  <Z:/home/pvnick/Downloads/Google Drive/pchem labs/lab5_carbonic_anhydrase/Figu
 res/dipic.jpg>]
 ("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Resu
-lts.tex" <./Figures/20M_dipic_readings.png, id=25, 471.7625pt x 276.03125pt>
+lts.tex" <./Figures/20M_dipic_readings.png, id=24, 471.7625pt x 276.03125pt>
 File: ./Figures/20M_dipic_readings.png Graphic file (type png)
 
 <use ./Figures/20M_dipic_readings.png>
@@ -947,7 +915,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
 
-<./Figures/10M_dipic_readings.png, id=26, 473.77pt x 276.03125pt>
+<./Figures/10M_dipic_readings.png, id=25, 473.77pt x 276.03125pt>
 File: ./Figures/10M_dipic_readings.png Graphic file (type png)
 
 <use ./Figures/10M_dipic_readings.png>
@@ -962,7 +930,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--12
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./Figures/05M_dipic_readings.png, id=27, 472.76625pt x 280.04625pt>
+<./Figures/05M_dipic_readings.png, id=26, 472.76625pt x 280.04625pt>
 File: ./Figures/05M_dipic_readings.png Graphic file (type png)
 
 <use ./Figures/05M_dipic_readings.png>
@@ -977,7 +945,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--17
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./Figures/032M_dipic_readings.png, id=28, 476.78125pt x 282.05376pt>
+<./Figures/032M_dipic_readings.png, id=27, 476.78125pt x 282.05376pt>
 File: ./Figures/032M_dipic_readings.png Graphic file (type png)
 
 <use ./Figures/032M_dipic_readings.png>
@@ -992,7 +960,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--22
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./Figures/016M_dipic_readings.png, id=29, 470.75874pt x 280.04625pt>
+<./Figures/016M_dipic_readings.png, id=28, 470.75874pt x 280.04625pt>
 File: ./Figures/016M_dipic_readings.png Graphic file (type png)
 
 <use ./Figures/016M_dipic_readings.png>
@@ -1017,10 +985,8 @@ loads/Google Drive/pchem labs/lab5_carbonic_anhydrase/Figures/05M_dipic_reading
 s.png> <Z:/home/pvnick/Downloads/Google Drive/pchem labs/lab5_carbonic_anhydras
 e/Figures/032M_dipic_readings.png>] [6 <Z:/home/pvnick/Downloads/Google Drive/p
 chem labs/lab5_carbonic_anhydrase/Figures/016M_dipic_readings.png>]
-
-Package natbib Warning: There were undefined citations.
-
-[7
+("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Main
+.bbl") [7
 
 ]
 ("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Main
@@ -1028,31 +994,37 @@ Package natbib Warning: There were undefined citations.
 ("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Intr
 oduction.aux")
 ("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Resu
-lts.aux")) ) 
+lts.aux"))
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 21147 strings out of 493921
- 408951 string characters out of 3138437
- 448174 words of memory out of 3000000
- 24096 multiletter control sequences out of 15000+200000
- 10950 words of font info for 42 fonts, out of 3000000 for 9000
+ 20967 strings out of 493921
+ 407144 string characters out of 3138437
+ 449695 words of memory out of 3000000
+ 23938 multiletter control sequences out of 15000+200000
+ 7550 words of font info for 29 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 55i,23n,54p,10321b,340s stack positions out of 5000i,500n,10000p,200000b,50000s
-<Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/publ
-ic/amsfonts/cm/cmbx10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fo
-nts/type1/public/amsfonts/cm/cmmi10.pfb><Z:/home/pvnick/Downloads/miktex-portab
-le-2.9.5105/fonts/type1/public/amsfonts/cm/cmr10.pfb><Z:/home/pvnick/Downloads/
-miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmr12.pfb><Z:/home/pvni
-ck/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmr7.pfb><
-Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/c
-m/cmr8.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/publi
-c/amsfonts/cm/cmsy10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fon
-ts/type1/public/amsfonts/cm/cmti10.pfb><Z:/home/pvnick/Downloads/miktex-portabl
-e-2.9.5105/fonts/type1/public/amsfonts/cm/cmti7.pfb><Z:/home/pvnick/Downloads/m
-iktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmti8.pfb><Z:/home/pvnic
-k/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on Main.pdf (7 pages, 197594 bytes).
+ 55i,23n,54p,10341b,304s stack positions out of 5000i,500n,10000p,200000b,50000s
+<Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfont
+s/cm/cmbx10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/
+public/amsfonts/cm/cmbx12.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.510
+5/fonts/type1/public/amsfonts/cm/cmbx9.pfb><Z:/home/pvnick/Downloads/miktex-por
+table-2.9.5105/fonts/type1/public/amsfonts/cm/cmmi10.pfb><Z:/home/pvnick/Downlo
+ads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmr10.pfb><Z:/home/
+pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmr7.p
+fb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfon
+ts/cm/cmr9.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/p
+ublic/amsfonts/cm/cmsy10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105
+/fonts/type1/public/amsfonts/cm/cmti10.pfb><Z:/home/pvnick/Downloads/miktex-por
+table-2.9.5105/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on Main.pdf (7 pages, 179365 bytes).
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
+ 75 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  43 words of extra memory for PDF output out of 10000 (max. 10000000)
 
