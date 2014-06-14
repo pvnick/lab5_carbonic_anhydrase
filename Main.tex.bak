@@ -1,15 +1,8 @@
-\documentclass{elsarticle}
+\documentclass[journal=jcisd8,manuscript=article]{achemso}
 
-\makeatletter
-\def\ps@pprintTitle{%
-  \let\@oddhead\@empty
-  \let\@evenhead\@empty
-  \let\@oddfoot\@empty
-  \let\@evenfoot\@oddfoot
-}
-\makeatother
 
 %=============== Packages ===================%
+
 \usepackage{amsmath}
 \usepackage{amssymb}
 \usepackage{amsfonts}
@@ -25,26 +18,18 @@
 \usepackage{subcaption}
 \usepackage[caption=false,font=footnotesize]{subfig}
 \usepackage{amsthm}
-\usepackage{floatrow}
 \usepackage{setspace}
 \usepackage{mhchem}
 
-\newtheorem{mydef}{Definition}
-\theoremstyle{definition}
+\title{CARBONIC ANHYDRASE: KINETICS OF REMOVAL OF Zn(II) By 2,6-PYRIDINECARBOXYLATE}
+\author{Paul Nickerson}
+\email{pvnick@ufl.edu}
+\affiliation[University of Florida]
+{Department of Chemistry, University of Florida, Gainesville, FL, US}
 
 \doublespacing
 
-%=============== Preamble ===================%
-%\journal{CHM4413L: Biophysical Chemistry Laboratory}
-
 \begin{document}
-\begin{frontmatter}
-
-\title{CARBONIC ANHYDRASE: KINETICS OF REMOVAL OF Zn(II) By 2,6-PYRIDINECARBOXYLATE}
-
-\author{Paul Nickerson}
-\ead{pvnick@ufl.edu}
-\address{Chemistry Department, \\ University of Florida, \\ Gainesville, FL, US}
 
 %=============== Abstract ==================%
 \begin{abstract}
@@ -53,17 +38,22 @@ In the past decade, supervised activity recognition methods have been studied by
 }
 \end{abstract}
 
-\end{frontmatter}
-\newpage
 %=============== Content ===================%
-
 \include{Introduction}
 \include{Results}
 
 %=============== Reference ===================%
 \newpage
-\section*{References}
-\bibliographystyle{elsarticle-harv}
-\bibliography{mybibfile}
+\begin{thebibliography}{9}
+
+\bibitem{bib:lab_manual}
+  Killian, B. J. 
+  \emph{Experiments for Physical Chemistry Laboratory}, 
+  Summer 2014, 
+  Target Copy: Gainesville, 
+  \textbf{2014}. 
+  45 - 50.
+
+\end{thebibliography}
 
 \end{document} 
