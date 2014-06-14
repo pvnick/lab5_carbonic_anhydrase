@@ -1,7 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  10 JUN 2014 21:33
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  14 JUN 2014 12:52
 entering extended mode
 **Main.tex
-("C:\users\pvnick\My Documents\Downloads\Paper\Main.tex"
+
+("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Main
+.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -104,7 +106,8 @@ File: upsy.fd 2001/06/04 font definitions for U/psy.
 \@sep=\skip43
 \@@sep=\skip44
 
-("C:\users\pvnick\My Documents\Downloads\Paper\Main.spl")
+("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Main
+.spl")
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\natbib\natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip45
@@ -714,7 +717,9 @@ Package floatrow Info: Modified rotfloat package code loaded on input line 473.
 \flrow@types=\toks46
 )
 \c@mydef=\count144
- ("C:\users\pvnick\My Documents\Downloads\Paper\Main.aux")
+
+("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Main
+.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
 LaTeX Font Info:    ... okay on input line 27.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
@@ -756,208 +761,42 @@ Package: fr-subfig 2007/12/24 v0.1g (beta) floatrow: additions for subfig
 \FBsc@max=\skip94
 \FBso@max=\skip95
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 42.
+LaTeX Font Info:    Try loading font information for U+msa on input line 41.
 
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 42.
+LaTeX Font Info:    Try loading font information for U+msb on input line 41.
 
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-("C:\users\pvnick\My Documents\Downloads\Paper\Methods.tex"
-("C:\users\pvnick\My Documents\Downloads\Paper\Methods_StandardizingStartTimes.
-tex" <Figures/pain_score_start_times.png, id=4, 393.47pt x 278.03876pt>
-File: Figures/pain_score_start_times.png Graphic file (type png)
-
-<use Figures/pain_score_start_times.png>
-Package pdftex.def Info: Figures/pain_score_start_times.png used on input line 
-6.
-(pdftex.def)             Requested size: 172.5pt x 121.89195pt.
-
-<Figures/pain_score_start_times_log.png, id=6, 387.4475pt x 278.03876pt>
-File: Figures/pain_score_start_times_log.png Graphic file (type png)
-
-<use Figures/pain_score_start_times_log.png>
-Package pdftex.def Info: Figures/pain_score_start_times_log.png used on input l
-ine 10.
-(pdftex.def)             Requested size: 172.5pt x 123.78836pt.
- [1
+[1
 
 
-{Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/pdftex/config/pdftex.map} <C
-:/users/pvnick/My Documents/Downloads/Paper/Figures/pain_score_start_times.png>
- <C:/users/pvnick/My Documents/Downloads/Paper/Figures/pain_score_start_times_l
-og.png>]
-<Figures/pain_score_start_times_lte2hours.png, id=20, 386.44376pt x 278.03876pt
->
-File: Figures/pain_score_start_times_lte2hours.png Graphic file (type png)
- <use Figures/pain_score_start_times_lte2hours.png>
-Package pdftex.def Info: Figures/pain_score_start_times_lte2hours.png used on i
-nput line 21.
-(pdftex.def)             Requested size: 172.5pt x 124.1108pt.
-
-<Figures/pain_score_start_times_lte2hours_log.png, id=21, 420.57124pt x 278.038
-76pt>
-File: Figures/pain_score_start_times_lte2hours_log.png Graphic file (type png)
- <use Figures/pain_score_start_times_lte2hours_log.png>
-Package pdftex.def Info: Figures/pain_score_start_times_lte2hours_log.png used 
-on input line 25.
-(pdftex.def)             Requested size: 172.5pt x 114.03905pt.
-)
-("C:\users\pvnick\My Documents\Downloads\Paper\Methods_Interpolation.tex"
-<./Figures/interpolation.png, id=22, 364.36125pt x 256.96pt>
-File: ./Figures/interpolation.png Graphic file (type png)
-
-<use ./Figures/interpolation.png>
-Package pdftex.def Info: ./Figures/interpolation.png used on input line 18.
-(pdftex.def)             Requested size: 145.74191pt x 102.78217pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) ("C:\users\pvnick\My Documents\Downloads\Paper\Methods_CalcMotifOccurences.te
-x"
-Overfull \hbox (3.68086pt too wide) in paragraph at lines 22--1
-\OT1/cmr/m/n/10 ex-am-ple in-ter-po-lated val-ues in [], $[] = (4\OML/cmm/m/it/
-10 :\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 5\OML/cmm/m/it/10 :\OT1
-/cmr/m/n/10 9\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 7\OML/cmm/m/it/10 :\OT1/cmr/m/n
-/10 8\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 6\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 3\OM
-L/cmm/m/it/10 ; \OT1/cmr/m/n/10 4\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 4\OML/cmm/m/
-it/10 ; \OT1/cmr/m/n/10 3\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 7\OML/cmm/m/it/10 ; 
-\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 ; \OT1/cmr
-/m/n/10 3\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 
-2\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 6\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 2\OML/cm
-m/m/it/10 :\OT1/cmr/m/n/10 3)$.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 22--1
-
- []
-
-[2 <C:/users/pvnick/My Documents/Downloads/Paper/Figures/pain_score_start_times
-_lte2hours.png> <C:/users/pvnick/My Documents/Downloads/Paper/Figures/pain_scor
-e_start_times_lte2hours_log.png>])
-("C:\users\pvnick\My Documents\Downloads\Paper\Methods_Clustering.tex")
-("C:\users\pvnick\My Documents\Downloads\Paper\Methods_Normalizing.tex"
-[3 <C:/users/pvnick/My Documents/Downloads/Paper/Figures/interpolation.png>]
-<./Figures/5x5hist.png, id=40, 890.32625pt x 899.36pt>
-File: ./Figures/5x5hist.png Graphic file (type png)
-
-<use ./Figures/5x5hist.png>
-Package pdftex.def Info: ./Figures/5x5hist.png used on input line 11.
-(pdftex.def)             Requested size: 311.61885pt x 314.78072pt.
-
-<./Figures/10x10hist_ck100.png, id=41, 882.29625pt x 1177.39874pt>
-File: ./Figures/10x10hist_ck100.png Graphic file (type png)
-
-<use ./Figures/10x10hist_ck100.png>
-Package pdftex.def Info: ./Figures/10x10hist_ck100.png used on input line 15.
-(pdftex.def)             Requested size: 308.80832pt x 412.09573pt.
-
-<./Figures/10x10hist_ck2.png, id=42, 882.29625pt x 1177.39874pt>
-File: ./Figures/10x10hist_ck2.png Graphic file (type png)
-
-<use ./Figures/10x10hist_ck2.png>
-Package pdftex.def Info: ./Figures/10x10hist_ck2.png used on input line 19.
-(pdftex.def)             Requested size: 308.80832pt x 412.09573pt.
- [4]
-<./Figures/5x5hist_standardscore.png, id=46, 889.3225pt x 900.36375pt>
-File: ./Figures/5x5hist_standardscore.png Graphic file (type png)
-
-<use ./Figures/5x5hist_standardscore.png>
-Package pdftex.def Info: ./Figures/5x5hist_standardscore.png used on input line
- 31.
-(pdftex.def)             Requested size: 311.26753pt x 315.13203pt.
-)
-("C:\users\pvnick\My Documents\Downloads\Paper\Methods_GenIntelIcon.tex"
-[5 <C:/users/pvnick/My Documents/Downloads/Paper/Figures/5x5hist.png>] [6 <C:/u
-sers/pvnick/My Documents/Downloads/Paper/Figures/10x10hist_ck100.png>] [7 <C:/u
-sers/pvnick/My Documents/Downloads/Paper/Figures/10x10hist_ck2.png>] [8 <C:/use
-rs/pvnick/My Documents/Downloads/Paper/Figures/5x5hist_standardscore.png>]
-<./Figures/example_icon.png, id=67, 671.50874pt x 715.67375pt>
-File: ./Figures/example_icon.png Graphic file (type png)
-
-<use ./Figures/example_icon.png>
-Package pdftex.def Info: ./Figures/example_icon.png used on input line 5.
-(pdftex.def)             Requested size: 235.03159pt x 250.48956pt.
-)
-("C:\users\pvnick\My Documents\Downloads\Paper\Methods_SortBySimilarity.tex"
-[9 <C:/users/pvnick/My Documents/Downloads/Paper/Figures/example_icon.png>]))
-("C:\users\pvnick\My Documents\Downloads\Paper\Examples.tex"
-<./Figures/surgerytype_beta2.pdf, id=73, 722.7pt x 722.7pt>
-File: ./Figures/surgerytype_beta2.pdf Graphic file (type pdf)
-
-<use ./Figures/surgerytype_beta2.pdf>
-Package pdftex.def Info: ./Figures/surgerytype_beta2.pdf used on input line 6.
-(pdftex.def)             Requested size: 289.07487pt x 289.07487pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<./Figures/surgerytype_beta5.pdf, id=74, 722.7pt x 722.7pt>
-File: ./Figures/surgerytype_beta5.pdf Graphic file (type pdf)
-
-<use ./Figures/surgerytype_beta5.pdf>
-Package pdftex.def Info: ./Figures/surgerytype_beta5.pdf used on input line 11.
-
-(pdftex.def)             Requested size: 289.07487pt x 289.07487pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<./Figures/surgerytype_beta10.pdf, id=75, 722.7pt x 722.7pt>
-File: ./Figures/surgerytype_beta10.pdf Graphic file (type pdf)
-
-<use ./Figures/surgerytype_beta10.pdf>
-Package pdftex.def Info: ./Figures/surgerytype_beta10.pdf used on input line 16
-.
-(pdftex.def)             Requested size: 289.07487pt x 289.07487pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) [10] [11 <C:/users/pvnick/My Documents/Downloads/Paper/Figures/surgerytype_be
-ta2.pdf>] [12 <C:/users/pvnick/My Documents/Downloads/Paper/Figures/surgerytype
-_beta5.pdf>] [13 <C:/users/pvnick/My Documents/Downloads/Paper/Figures/surgeryt
-ype_beta10.pdf>] ("C:\users\pvnick\My Documents\Downloads\Paper\Main.aux") ) 
+{Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/pdftex/config/pdftex.map}]
+("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Main
+.aux") ) 
 Here is how much of TeX's memory you used:
- 16357 strings out of 493921
- 307756 string characters out of 3138437
- 370303 words of memory out of 3000000
- 19309 multiletter control sequences out of 15000+200000
- 10910 words of font info for 42 fonts, out of 3000000 for 9000
+ 16249 strings out of 493921
+ 304114 string characters out of 3138437
+ 363303 words of memory out of 3000000
+ 19245 multiletter control sequences out of 15000+200000
+ 10601 words of font info for 41 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 55i,17n,54p,1946b,502s stack positions out of 5000i,500n,10000p,200000b,50000s
-<Z:
-/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/
-cmbx10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/publi
-c/amsfonts/cm/cmbx8.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/font
-s/type1/public/amsfonts/cm/cmex10.pfb><Z:/home/pvnick/Downloads/miktex-portable
--2.9.5105/fonts/type1/public/amsfonts/cm/cmmi10.pfb><Z:/home/pvnick/Downloads/m
-iktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmmi5.pfb><Z:/home/pvnic
-k/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmmi6.pfb><
-Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/c
-m/cmmi7.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/publ
-ic/amsfonts/cm/cmmi8.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fon
-ts/type1/public/amsfonts/cm/cmr10.pfb><Z:/home/pvnick/Downloads/miktex-portable
--2.9.5105/fonts/type1/public/amsfonts/cm/cmr12.pfb><Z:/home/pvnick/Downloads/mi
-ktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmr5.pfb><Z:/home/pvnick/
-Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmr7.pfb><Z:/
-home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/c
-mr8.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/a
-msfonts/cm/cmsy10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/
-type1/public/amsfonts/cm/cmsy7.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.
-9.5105/fonts/type1/public/amsfonts/cm/cmsy8.pfb><Z:/home/pvnick/Downloads/mikte
-x-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmti10.pfb><Z:/home/pvnick/D
-ownloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmti8.pfb><Z:/
-home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/c
-mtt8.pfb>
-Output written on Main.pdf (13 pages, 2501061 bytes).
+ 55i,7n,54p,960b,192s stack positions out of 5000i,500n,10000p,200000b,50000s
+<Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/a
+msfonts/cm/cmbx10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/
+type1/public/amsfonts/cm/cmr10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.
+9.5105/fonts/type1/public/amsfonts/cm/cmr12.pfb><Z:/home/pvnick/Downloads/mikte
+x-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmr8.pfb><Z:/home/pvnick/Dow
+nloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmti10.pfb><Z:/h
+ome/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cm
+ti8.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/a
+msfonts/cm/cmtt8.pfb>
+Output written on Main.pdf (1 page, 87683 bytes).
 PDF statistics:
- 6586 PDF objects out of 7423 (max. 8388607)
+ 37 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 78 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,9 +1,0 @@
-
-\subsection{Clustering}
-Define multiple clusters of patients $\left(C_{\kappa_1},...,C_{\kappa_n}\right)$ such that $p \in C_{\kappa_i}$, $iif$ criterion $\kappa_i$ describes patient $p$. A given criterion $\kappa$ may specify the patient's gender, age group, surgery type, etc. or include a set of multiple criteria. The relative importance $x_{C_{\kappa},m}$ of motif $m$ to a given cluster $C_{\kappa}$ can therefore be calculated as follows:
-\begin{equation}\label{eqn:motif_importance}
-    x_{C_\kappa,m} = \frac{\sum\limits_{p \in C_\kappa} M_{p,m}}{\sum\limits_{p \in C_\kappa} \sum\limits_{m} M_{p,m}}
-\end{equation}
-In other words, the relative importance is equal to the occurence count for motif $m$ within the recoveries of all patients in the cluster divided by the total occurence count for all motifs within those recoveries.
-
-Note that a patient could hypothetically be assigned to multiple clusters if, for example, the analysis looked at a feature whose value changed during the course of data collection (such as the patient started on a new medication during the course of his/her recovery). While this is potentially an area where the procedure could be improved, the data file does not appear to exhibit this behavior. Feature values were static for any given patient, and thus there would be no duplication between clusters.
