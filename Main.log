@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  14 JUN 2014 14:35
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  14 JUN 2014 14:36
 entering extended mode
 **Main.tex
 
@@ -796,15 +796,15 @@ Package pdftex.def Info: ./Figures/20M_dipic_readings.png used on input line 4.
 File: ./Figures/10M_dipic_readings.png Graphic file (type png)
 
 <use ./Figures/10M_dipic_readings.png>
-Package pdftex.def Info: ./Figures/10M_dipic_readings.png used on input line 9.
-
+Package pdftex.def Info: ./Figures/10M_dipic_readings.png used on input line 11
+.
 (pdftex.def)             Requested size: 236.88441pt x 138.01527pt.
 
 <./Figures/05M_dipic_readings.png, id=20, 472.76625pt x 280.04625pt>
 File: ./Figures/05M_dipic_readings.png Graphic file (type png)
 
 <use ./Figures/05M_dipic_readings.png>
-Package pdftex.def Info: ./Figures/05M_dipic_readings.png used on input line 14
+Package pdftex.def Info: ./Figures/05M_dipic_readings.png used on input line 16
 .
 (pdftex.def)             Requested size: 236.38254pt x 140.02277pt.
 
@@ -815,8 +815,8 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: ./Figures/032M_dipic_readings.png Graphic file (type png)
 
 <use ./Figures/032M_dipic_readings.png>
-Package pdftex.def Info: ./Figures/032M_dipic_readings.png used on input line 1
-9.
+Package pdftex.def Info: ./Figures/032M_dipic_readings.png used on input line 2
+1.
 (pdftex.def)             Requested size: 238.39003pt x 141.02652pt.
 
 
@@ -827,7 +827,7 @@ File: ./Figures/016M_dipic_readings.png Graphic file (type png)
 
 <use ./Figures/016M_dipic_readings.png>
 Package pdftex.def Info: ./Figures/016M_dipic_readings.png used on input line 2
-4.
+6.
 (pdftex.def)             Requested size: 235.3788pt x 140.02277pt.
 
 
@@ -852,11 +852,11 @@ lts.aux")) )
 Here is how much of TeX's memory you used:
  16277 strings out of 493921
  305677 string characters out of 3138437
- 364443 words of memory out of 3000000
+ 365443 words of memory out of 3000000
  19252 multiletter control sequences out of 15000+200000
  10601 words of font info for 41 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 55i,7n,54p,960b,414s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 55i,7n,54p,978b,414s stack positions out of 5000i,500n,10000p,200000b,50000s
 <Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/publ
 ic/amsfonts/cm/cmbx10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fo
 nts/type1/public/amsfonts/cm/cmr10.pfb><Z:/home/pvnick/Downloads/miktex-portabl
@@ -866,7 +866,7 @@ iktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmr8.pfb><Z:/home/pvnick
 Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/c
 m/cmti8.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/publ
 ic/amsfonts/cm/cmtt8.pfb>
-Output written on Main.pdf (4 pages, 125512 bytes).
+Output written on Main.pdf (4 pages, 126396 bytes).
 PDF statistics:
  51 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
