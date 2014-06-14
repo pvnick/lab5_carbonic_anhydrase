@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  14 JUN 2014 19:47
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  14 JUN 2014 19:49
 entering extended mode
 **Main.tex
 
@@ -915,23 +915,19 @@ Package mhchem Warning: You did not specify a 'version' option for the mhchem
 
 )
 ("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Main
-.aux"
-("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Intr
-oduction.aux")
-("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Resu
-lts.aux"))
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
+.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -988,12 +984,12 @@ ii
 \makeMPintoPDFobject=\count182
 \everyMPtoPDFconversion=\toks58
 ) ABD: EveryShipout initializing macros
-LaTeX Font Info:    Try loading font information for U+msa on input line 34.
+LaTeX Font Info:    Try loading font information for U+msa on input line 32.
 
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 34.
+LaTeX Font Info:    Try loading font information for U+msb on input line 32.
 
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1002,13 +998,26 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 {Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/pdftex/config/pdftex.map}]
 ("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Intr
-oduction.tex" <./Figures/dipic.jpg, id=17, 569.12625pt x 323.2075pt>
+oduction.tex"
+
+LaTeX Warning: Reference `fig:dipic' on page 2 undefined on input line 8.
+
+<./Figures/dipic.jpg, id=17, 569.12625pt x 323.2075pt>
 File: ./Figures/dipic.jpg Graphic file (type jpg)
 
 <use ./Figures/dipic.jpg>
 Package pdftex.def Info: ./Figures/dipic.jpg used on input line 10.
 (pdftex.def)             Requested size: 284.56242pt x 161.60335pt.
- [2
+
+
+Package natbib Warning: Citation `bib:lab_manual' on page 2 undefined on input 
+line 11.
+
+
+Package natbib Warning: Citation `bib:lab_manual' on page 2 undefined on input 
+line 11.
+
+[2
 
  <Z:/home/pvnick/Downloads/Google Drive/pchem labs/lab5_carbonic_anhydrase/Figu
 res/dipic.jpg>]) [3]
@@ -1075,6 +1084,9 @@ loads/Google Drive/pchem labs/lab5_carbonic_anhydrase/Figures/05M_dipic_reading
 s.png> <Z:/home/pvnick/Downloads/Google Drive/pchem labs/lab5_carbonic_anhydras
 e/Figures/032M_dipic_readings.png>] [6 <Z:/home/pvnick/Downloads/Google Drive/p
 chem labs/lab5_carbonic_anhydrase/Figures/016M_dipic_readings.png>]
+
+Package natbib Warning: There were undefined citations.
+
 [7
 
 ]
@@ -1083,34 +1095,46 @@ chem labs/lab5_carbonic_anhydrase/Figures/016M_dipic_readings.png>]
 ("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Intr
 oduction.aux")
 ("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Resu
-lts.aux")) ) 
+lts.aux")
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 22297 strings out of 493921
- 429064 string characters out of 3138437
- 475670 words of memory out of 3000000
- 25223 multiletter control sequences out of 15000+200000
- 15557 words of font info for 59 fonts, out of 3000000 for 9000
+ 22292 strings out of 493921
+ 428709 string characters out of 3138437
+ 474505 words of memory out of 3000000
+ 25221 multiletter control sequences out of 15000+200000
+ 15866 words of font info for 60 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 60i,28n,94p,10321b,507s stack positions out of 5000i,500n,10000p,200000b,50000s
-<Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/publ
-ic/amsfonts/cm/cmbx10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fo
-nts/type1/public/amsfonts/cm/cmbx12.pfb><Z:/home/pvnick/Downloads/miktex-portab
-le-2.9.5105/fonts/type1/public/amsfonts/cm/cmmi12.pfb><Z:/home/pvnick/Downloads
-/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmmi8.pfb><Z:/home/pvn
-ick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmr10.pfb
-><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts
-/cm/cmr12.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/pu
-blic/amsfonts/cm/cmr6.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fo
-nts/type1/public/amsfonts/cm/cmr8.pfb><Z:/home/pvnick/Downloads/miktex-portable
--2.9.5105/fonts/type1/public/amsfonts/cm/cmss12.pfb><Z:/home/pvnick/Downloads/m
-iktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><Z:/home/pv
-nick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmsy10.p
-fb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfon
-ts/cm/cmsy7.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/
-public/amsfonts/cm/cmti10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.510
-5/fonts/type1/public/amsfonts/cm/cmti12.pfb><Z:/home/pvnick/Downloads/miktex-po
-rtable-2.9.5105/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb>
-Output written on Main.pdf (7 pages, 237924 bytes).
+ 60i,28n,94p,10321b,504s stack positions out of 5000i,500n,10000p,200000b,50000s
+<Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfont
+s/cm/cmbx10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/
+public/amsfonts/cm/cmbx12.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.510
+5/fonts/type1/public/amsfonts/cm/cmbx8.pfb><Z:/home/pvnick/Downloads/miktex-por
+table-2.9.5105/fonts/type1/public/amsfonts/cm/cmmi12.pfb><Z:/home/pvnick/Downlo
+ads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmmi8.pfb><Z:/home/
+pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmr10.
+pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfo
+nts/cm/cmr12.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1
+/public/amsfonts/cm/cmr6.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105
+/fonts/type1/public/amsfonts/cm/cmr8.pfb><Z:/home/pvnick/Downloads/miktex-porta
+ble-2.9.5105/fonts/type1/public/amsfonts/cm/cmss12.pfb><Z:/home/pvnick/Download
+s/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><Z:/home
+/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmsy1
+0.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/ams
+fonts/cm/cmsy7.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/typ
+e1/public/amsfonts/cm/cmti10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.
+5105/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Main.pdf (7 pages, 243442 bytes).
 PDF statistics:
  95 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
