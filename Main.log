@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  14 JUN 2014 17:42
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  14 JUN 2014 17:49
 entering extended mode
 **Main.tex
 
@@ -175,9 +175,9 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \acs@tocentry@height=\skip49
 \acs@tocentry@width=\skip50
 
-(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\achemso\config\jac
-sat.cfg
-File: jacsat.cfg 2014/05/14 v3.8i achemso configuration: J. Am. Chem. Soc.
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\achemso\config\jci
+sd8.cfg
+File: jcisd8.cfg 2014/05/14 v3.8i achemso configuration: J. Chem. Inf. Model.
 )
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\natbib\natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
@@ -915,21 +915,19 @@ Package mhchem Warning: You did not specify a 'version' option for the mhchem
 
 )
 ("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Main
-.aux"
-("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Intr
-oduction.aux"))
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
+.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -986,12 +984,12 @@ ii
 \makeMPintoPDFobject=\count182
 \everyMPtoPDFconversion=\toks58
 ) ABD: EveryShipout initializing macros
-LaTeX Font Info:    Try loading font information for U+msa on input line 43.
+LaTeX Font Info:    Try loading font information for U+msa on input line 35.
 
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 43.
+LaTeX Font Info:    Try loading font information for U+msb on input line 35.
 
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1001,7 +999,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 {Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/pdftex/config/pdftex.map}]
 
 Package natbib Warning: Citation `Dirac1953888' on page 2 undefined on input li
-ne 54.
+ne 46.
 
 [2]
 ("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Intr
@@ -1107,10 +1105,10 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 22295 strings out of 493921
- 428874 string characters out of 3138437
- 474464 words of memory out of 3000000
- 25221 multiletter control sequences out of 15000+200000
+ 22292 strings out of 493921
+ 428682 string characters out of 3138437
+ 474505 words of memory out of 3000000
+ 25220 multiletter control sequences out of 15000+200000
  16218 words of font info for 61 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  60i,23n,94p,10321b,462s stack positions out of 5000i,500n,10000p,200000b,50000s
