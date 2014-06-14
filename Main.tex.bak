@@ -60,5 +60,10 @@ In the past decade, supervised activity recognition methods have been studied by
 \include{Introduction}
 \include{Results}
 
+%=============== Reference ===================%
+\newpage
+\section*{References}
+\bibliographystyle{elsarticle-harv}
+\bibliography{mybibfile}
 
 \end{document} 
