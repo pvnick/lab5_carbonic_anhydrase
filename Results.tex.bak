@@ -1,0 +1,11 @@
+\section{Data and Results}
+\begin{figure}[h]
+  \includegraphics[scale=0.4]{./Figures/0.016M_dipic_readings.png}\\
+  \caption{blahblah.}\label{fig:0.016M_dipic_readings}
+\end{figure}
+
+
+0.032M_dipic_readings.png
+0.05M_dipic_readings.png
+0.10M_dipic_readings.png
+0.20M_dipic_readings.png
