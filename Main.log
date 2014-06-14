@@ -1038,11 +1038,11 @@ lts.aux")) )
 Here is how much of TeX's memory you used:
  21657 strings out of 493921
  416568 string characters out of 3138437
- 461076 words of memory out of 3000000
+ 460076 words of memory out of 3000000
  24601 multiletter control sequences out of 15000+200000
  10601 words of font info for 41 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 55i,16n,54p,10321b,422s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 55i,23n,54p,10321b,422s stack positions out of 5000i,500n,10000p,200000b,50000s
 <Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/publ
 ic/amsfonts/cm/cmbx10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fo
 nts/type1/public/amsfonts/cm/cmmi10.pfb><Z:/home/pvnick/Downloads/miktex-portab
@@ -1055,7 +1055,7 @@ c/amsfonts/cm/cmsy10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fon
 ts/type1/public/amsfonts/cm/cmti10.pfb><Z:/home/pvnick/Downloads/miktex-portabl
 e-2.9.5105/fonts/type1/public/amsfonts/cm/cmti8.pfb><Z:/home/pvnick/Downloads/m
 iktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on Main.pdf (5 pages, 150336 bytes).
+Output written on Main.pdf (5 pages, 150795 bytes).
 PDF statistics:
  66 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
