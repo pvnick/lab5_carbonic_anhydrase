@@ -3,16 +3,11 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Main.aux
 A level-1 auxiliary file: Introduction.aux
 A level-1 auxiliary file: Results.aux
-I couldn't open style file .bst
----line 9 of file Main.aux
- : \bibstyle{
- :           }
-I'm skipping whatever remains of this command
-I found no \citation commands---while reading file Main.aux
-I found no style file---while reading file Main.aux
-You've used 0 entries,
+I found no \bibdata command---while reading file Main.aux
+I found no \bibstyle command---while reading file Main.aux
+You've used 1 entry,
             0 wiz_defined-function locations,
-            86 strings with 518 characters,
+            87 strings with 533 characters,
 and the built_in function-call counts, 0 in all, are:
 = -- 0
 > -- 0
@@ -51,4 +46,4 @@ warning$ -- 0
 while$ -- 0
 width$ -- 0
 write$ -- 0
-(There were 3 error messages)
+(There were 2 error messages)

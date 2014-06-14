@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  14 JUN 2014 17:18
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  14 JUN 2014 17:26
 entering extended mode
 **Main.tex
 
@@ -677,45 +677,6 @@ Package: amsthm 2004/08/06 v2.20
 \dth@everypar=\toks43
 LaTeX Info: Redefining \qed on input line 283.
 )
-(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\floatrow\floatrow.
-sty
-Package: floatrow 2008/08/02 v0.3b floatrow: float package extension
-\c@float@type=\count137
-\float@exts=\toks44
-\float@box=\box59
-\@floatcapt=\box60
-Package floatrow Info: Modified float package code loaded on input line 455.
-Package floatrow Info: Modified rotfloat package code loaded on input line 473.
-
-\FR@everyfloat=\toks45
-\flrow@foot=\insert233
-\FB@wd=\dimen185
-\FBo@wd=\dimen186
-\FBc@wd=\dimen187
-\FBo@ht=\skip80
-\FBc@ht=\skip81
-\FBf@ht=\skip82
-\FBo@max=\skip83
-\FBc@max=\skip84
-\FBf@max=\skip85
-\c@FBl@b=\count138
-\floatbox@depth=\count139
-\c@FRobj=\count140
-\c@FRsobj=\count141
-\Xhsize=\skip86
-\sXhsize=\skip87
-\Zhsize=\skip88
-\sZhsize=\skip89
-\flrow@rowbox=\box61
-\FR@Zunitlength=\dimen188
-\c@FBcnt=\count142
-\FPOScnt=\count143
-\LTleft=\skip90
-\LTright=\skip91
-\LTleft=\skip92
-\LTright=\skip93
-\flrow@types=\toks46
-)
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\setspace\setspace.
 sty
 Package: setspace 2011/12/19 v6.7a set line spacing
@@ -725,16 +686,16 @@ Package: mhchem 2014/03/27 v3.17 for typesetting chemical formulae
 
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\tools\calc.sty
 Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count144
-\calc@Bcount=\count145
-\calc@Adimen=\dimen189
-\calc@Bdimen=\dimen190
-\calc@Askip=\skip94
-\calc@Bskip=\skip95
+\calc@Acount=\count137
+\calc@Bcount=\count138
+\calc@Adimen=\dimen185
+\calc@Bdimen=\dimen186
+\calc@Askip=\skip80
+\calc@Bskip=\skip81
 LaTeX Info: Redefining \setlength on input line 76.
 LaTeX Info: Redefining \addtolength on input line 77.
-\calc@Ccount=\count146
-\calc@Cskip=\skip96
+\calc@Ccount=\count139
+\calc@Cskip=\skip82
 )
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\oberdiek\twoopt.st
 y
@@ -773,37 +734,37 @@ L3 Module: l3expan 2014/04/30 v4712 L3 Argument expansion
 L3 Module: l3tl 2014/05/04 v4728 L3 Token lists
 L3 Module: l3seq 2014/04/30 v4712 L3 Sequences and stacks
 L3 Module: l3int 2014/05/16 v4776 L3 Integers
-\c_max_int=\count147
-\l_tmpa_int=\count148
-\l_tmpb_int=\count149
-\g_tmpa_int=\count150
-\g_tmpb_int=\count151
+\c_max_int=\count140
+\l_tmpa_int=\count141
+\l_tmpb_int=\count142
+\g_tmpa_int=\count143
+\g_tmpb_int=\count144
 L3 Module: l3quark 2014/05/04 v4728 L3 Quarks
 L3 Module: l3prg 2014/05/04 v4728 L3 Control structures
-\g__prg_map_int=\count152
+\g__prg_map_int=\count145
 L3 Module: l3clist 2014/05/04 v4728 L3 Comma separated lists
 L3 Module: l3token 2014/05/04 v4728 L3 Experimental token manipulation
 L3 Module: l3prop 2014/04/30 v4712 L3 Property lists
 L3 Module: l3msg 2014/05/04 v4728 L3 Messages
 L3 Module: l3file 2014/05/05 v4737 L3 File and I/O operations
-\l_iow_line_count_int=\count153
-\l__iow_target_count_int=\count154
-\l__iow_current_line_int=\count155
-\l__iow_current_word_int=\count156
-\l__iow_current_indentation_int=\count157
+\l_iow_line_count_int=\count146
+\l__iow_target_count_int=\count147
+\l__iow_current_line_int=\count148
+\l__iow_current_word_int=\count149
+\l__iow_current_indentation_int=\count150
 L3 Module: l3skip 2014/05/05 v4738 L3 Dimensions and skips
-\c_zero_dim=\dimen191
-\c_max_dim=\dimen192
-\l_tmpa_dim=\dimen193
-\l_tmpb_dim=\dimen194
-\g_tmpa_dim=\dimen195
-\g_tmpb_dim=\dimen196
-\c_zero_skip=\skip97
-\c_max_skip=\skip98
-\l_tmpa_skip=\skip99
-\l_tmpb_skip=\skip100
-\g_tmpa_skip=\skip101
-\g_tmpb_skip=\skip102
+\c_zero_dim=\dimen187
+\c_max_dim=\dimen188
+\l_tmpa_dim=\dimen189
+\l_tmpb_dim=\dimen190
+\g_tmpa_dim=\dimen191
+\g_tmpb_dim=\dimen192
+\c_zero_skip=\skip83
+\c_max_skip=\skip84
+\l_tmpa_skip=\skip85
+\l_tmpb_skip=\skip86
+\g_tmpa_skip=\skip87
+\g_tmpb_skip=\skip88
 \c_zero_muskip=\muskip12
 \c_max_muskip=\muskip13
 \l_tmpa_muskip=\muskip14
@@ -811,85 +772,85 @@ L3 Module: l3skip 2014/05/05 v4738 L3 Dimensions and skips
 \g_tmpa_muskip=\muskip16
 \g_tmpb_muskip=\muskip17
 L3 Module: l3keys 2014/05/08 v4753 L3 Key-value interfaces
-\g__keyval_level_int=\count158
-\l_keys_choice_int=\count159
+\g__keyval_level_int=\count151
+\l_keys_choice_int=\count152
 L3 Module: l3fp 2014/04/30 v4712 L3 Floating points
-\c__fp_leading_shift_int=\count160
-\c__fp_middle_shift_int=\count161
-\c__fp_trailing_shift_int=\count162
-\c__fp_big_leading_shift_int=\count163
-\c__fp_big_middle_shift_int=\count164
-\c__fp_big_trailing_shift_int=\count165
-\c__fp_Bigg_leading_shift_int=\count166
-\c__fp_Bigg_middle_shift_int=\count167
-\c__fp_Bigg_trailing_shift_int=\count168
+\c__fp_leading_shift_int=\count153
+\c__fp_middle_shift_int=\count154
+\c__fp_trailing_shift_int=\count155
+\c__fp_big_leading_shift_int=\count156
+\c__fp_big_middle_shift_int=\count157
+\c__fp_big_trailing_shift_int=\count158
+\c__fp_Bigg_leading_shift_int=\count159
+\c__fp_Bigg_middle_shift_int=\count160
+\c__fp_Bigg_trailing_shift_int=\count161
 L3 Module: l3box 2014/05/04 v4728 L3 Experimental boxes
-\c_empty_box=\box62
-\l_tmpa_box=\box63
-\l_tmpb_box=\box64
-\g_tmpa_box=\box65
-\g_tmpb_box=\box66
+\c_empty_box=\box59
+\l_tmpa_box=\box60
+\l_tmpb_box=\box61
+\g_tmpa_box=\box62
+\g_tmpb_box=\box63
 L3 Module: l3coffins 2014/05/04 v4728 L3 Coffin code layer
-\l__coffin_internal_box=\box67
-\l__coffin_internal_dim=\dimen197
-\l__coffin_offset_x_dim=\dimen198
-\l__coffin_offset_y_dim=\dimen199
-\l__coffin_x_dim=\dimen200
+\l__coffin_internal_box=\box64
+\l__coffin_internal_dim=\dimen193
+\l__coffin_offset_x_dim=\dimen194
+\l__coffin_offset_y_dim=\dimen195
+\l__coffin_x_dim=\dimen196
+\l__coffin_y_dim=\dimen197
+\l__coffin_x_prime_dim=\dimen198
+\l__coffin_y_prime_dim=\dimen199
+\c_empty_coffin=\box65
+\l__coffin_aligned_coffin=\box66
+\l__coffin_aligned_internal_coffin=\box67
+\l_tmpa_coffin=\box68
+\l_tmpb_coffin=\box69
+\l__coffin_display_coffin=\box70
+\l__coffin_display_coord_coffin=\box71
+\l__coffin_display_pole_coffin=\box72
+\l__coffin_display_offset_dim=\dimen200
+\l__coffin_display_x_dim=\dimen201
 Normal \dimen register pool exhausted, switching to extended pool.
-\l__coffin_y_dim=\dimen256
-\l__coffin_x_prime_dim=\dimen257
-\l__coffin_y_prime_dim=\dimen258
-\c_empty_coffin=\box68
-\l__coffin_aligned_coffin=\box69
-\l__coffin_aligned_internal_coffin=\box70
-\l_tmpa_coffin=\box71
-\l_tmpb_coffin=\box72
-\l__coffin_display_coffin=\box73
-\l__coffin_display_coord_coffin=\box74
-\l__coffin_display_pole_coffin=\box75
-\l__coffin_display_offset_dim=\dimen259
-\l__coffin_display_x_dim=\dimen260
-\l__coffin_display_y_dim=\dimen261
+\l__coffin_display_y_dim=\dimen256
 L3 Module: l3color 2014/04/30 v4712 L3 Experimental color support
 L3 Module: l3luatex 2014/04/30 v4712 L3 Experimental LuaTeX-specific functions
-\g__cctab_allocate_int=\count169
-\g__cctab_stack_int=\count170
+\g__cctab_allocate_int=\count162
+\g__cctab_stack_int=\count163
 L3 Module: l3candidates 2014/05/04 v4734 L3 Experimental additions to l3kernel
-\l__box_top_dim=\dimen262
-\l__box_bottom_dim=\dimen263
-\l__box_left_dim=\dimen264
-\l__box_right_dim=\dimen265
-\l__box_top_new_dim=\dimen266
-\l__box_bottom_new_dim=\dimen267
-\l__box_left_new_dim=\dimen268
-\l__box_right_new_dim=\dimen269
-\l__box_internal_box=\box76
-\l__coffin_bounding_shift_dim=\dimen270
-\l__coffin_left_corner_dim=\dimen271
-\l__coffin_right_corner_dim=\dimen272
-\l__coffin_bottom_corner_dim=\dimen273
-\l__coffin_top_corner_dim=\dimen274
-\l__coffin_scaled_total_height_dim=\dimen275
-\l__coffin_scaled_width_dim=\dimen276
+\l__box_top_dim=\dimen257
+\l__box_bottom_dim=\dimen258
+\l__box_left_dim=\dimen259
+\l__box_right_dim=\dimen260
+\l__box_top_new_dim=\dimen261
+\l__box_bottom_new_dim=\dimen262
+\l__box_left_new_dim=\dimen263
+\l__box_right_new_dim=\dimen264
+\l__box_internal_box=\box73
+\l__coffin_bounding_shift_dim=\dimen265
+\l__coffin_left_corner_dim=\dimen266
+\l__coffin_right_corner_dim=\dimen267
+\l__coffin_bottom_corner_dim=\dimen268
+\l__coffin_top_corner_dim=\dimen269
+\l__coffin_scaled_total_height_dim=\dimen270
+\l__coffin_scaled_width_dim=\dimen271
 ))
-\mhchem@ce@result=\toks47
-\mhchem@ce@part=\toks48
-\mhchem@arrow@deployType=\toks49
-\mhchem@arrow@params=\toks50
-\mhchem@arrowlength@pgf=\skip103
-\mhchem@bondwidth=\skip104
-\mhchem@bondheight=\skip105
-\mhchem@smallbondwidth@tmpA=\skip106
-\mhchem@smallbondwidth@tmpB=\skip107
-\mhchem@smallbondwidth=\skip108
-\__mhchem_option_version_int=\count171
-\mhchem@prepostscript@tmp@i=\skip109
-\mhchem@prepostscript@tmp@ii=\skip110
-\mhchem@mathbox@tmp@i=\skip111
-\mhchem@mathbox@tmp@ii=\skip112
-\mhchem@minispace@tmp=\skip113
-\mhchem@option@minussidebearingleft=\skip114
-\mhchem@option@minussidebearingright=\skip115
+\mhchem@ce@result=\toks44
+\mhchem@ce@part=\toks45
+\mhchem@arrow@deployType=\toks46
+\mhchem@arrow@params=\toks47
+\mhchem@arrowlength@pgf=\skip89
+\mhchem@bondwidth=\skip90
+\mhchem@bondheight=\skip91
+\mhchem@smallbondwidth@tmpA=\skip92
+\mhchem@smallbondwidth@tmpB=\skip93
+\mhchem@smallbondwidth=\skip94
+\__mhchem_option_version_int=\count164
+\mhchem@prepostscript@tmp@i=\skip95
+\mhchem@prepostscript@tmp@ii=\skip96
+\mhchem@mathbox@tmp@i=\skip97
+\mhchem@mathbox@tmp@ii=\skip98
+\mhchem@minispace@tmp=\skip99
+\mhchem@option@minussidebearingleft=\skip100
+\mhchem@option@minussidebearingright=\skip101
 
 
 Package mhchem Warning: You did not specify a 'version' option for the mhchem
@@ -899,7 +860,7 @@ Package mhchem Warning: You did not specify a 'version' option for the mhchem
 (mhchem)                mhchem.
 
 )
-\c@mydef=\count172
+\c@mydef=\count165
 
 ("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Main
 .aux"
@@ -923,31 +884,21 @@ LaTeX Font Info:    ... okay on input line 40.
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\context\base\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count173
-\scratchdimen=\dimen277
-\scratchbox=\box77
-\nofMPsegments=\count174
-\nofMParguments=\count175
-\everyMPshowfont=\toks51
-\MPscratchCnt=\count176
-\MPscratchDim=\dimen278
-\MPnumerator=\count177
-\makeMPintoPDFobject=\count178
-\everyMPtoPDFconversion=\toks52
+\scratchcounter=\count166
+\scratchdimen=\dimen272
+\scratchbox=\box74
+\nofMPsegments=\count167
+\nofMParguments=\count168
+\everyMPshowfont=\toks48
+\MPscratchCnt=\count169
+\MPscratchDim=\dimen273
+\MPnumerator=\count170
+\makeMPintoPDFobject=\count171
+\everyMPtoPDFconversion=\toks49
 ) ABD: EveryShipout initializing macros
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
-Package caption Info: floatrow package is loaded.
-Package caption Info: float package is loaded.
-Package caption Info: floatrow package is loaded.
 Package caption Info: End \AtBeginDocument code.
-
-(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\floatrow\fr-subfig
-.sty
-Package: fr-subfig 2007/12/24 v0.1g (beta) floatrow: additions for subfig
-\FBsc@max=\skip116
-\FBso@max=\skip117
-)
 LaTeX Font Info:    Try loading font information for U+msa on input line 56.
 
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\amsfonts\umsa.fd
@@ -974,6 +925,11 @@ File: ./Figures/dipic.jpg Graphic file (type jpg)
 <use ./Figures/dipic.jpg>
 Package pdftex.def Info: ./Figures/dipic.jpg used on input line 10.
 (pdftex.def)             Requested size: 284.56242pt x 161.60335pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+ []
+
 ) [3
 
  <Z:/home/pvnick/Downloads/Google Drive/pchem labs/lab5_carbonic_anhydrase/Figu
@@ -987,6 +943,10 @@ Package pdftex.def Info: ./Figures/20M_dipic_readings.png used on input line 4.
 
 (pdftex.def)             Requested size: 235.88066pt x 138.01527pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
 <./Figures/10M_dipic_readings.png, id=26, 473.77pt x 276.03125pt>
 File: ./Figures/10M_dipic_readings.png Graphic file (type png)
 
@@ -994,6 +954,10 @@ File: ./Figures/10M_dipic_readings.png Graphic file (type png)
 Package pdftex.def Info: ./Figures/10M_dipic_readings.png used on input line 11
 .
 (pdftex.def)             Requested size: 236.88441pt x 138.01527pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -1006,6 +970,10 @@ Package pdftex.def Info: ./Figures/05M_dipic_readings.png used on input line 16
 .
 (pdftex.def)             Requested size: 236.38254pt x 140.02277pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1017,6 +985,10 @@ Package pdftex.def Info: ./Figures/032M_dipic_readings.png used on input line 2
 1.
 (pdftex.def)             Requested size: 238.39003pt x 141.02652pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1027,6 +999,10 @@ File: ./Figures/016M_dipic_readings.png Graphic file (type png)
 Package pdftex.def Info: ./Figures/016M_dipic_readings.png used on input line 2
 6.
 (pdftex.def)             Requested size: 235.3788pt x 140.02277pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -1052,34 +1028,29 @@ Package natbib Warning: There were undefined citations.
 ("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Intr
 oduction.aux")
 ("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Resu
-lts.aux")
-
-Package natbib Warning: Citation(s) may have changed.
-(natbib)                Rerun to get citations correct.
-
-) ) 
+lts.aux")) ) 
 Here is how much of TeX's memory you used:
- 21671 strings out of 493921
- 416788 string characters out of 3138437
- 461092 words of memory out of 3000000
- 24612 multiletter control sequences out of 15000+200000
+ 21147 strings out of 493921
+ 408951 string characters out of 3138437
+ 448174 words of memory out of 3000000
+ 24096 multiletter control sequences out of 15000+200000
  10950 words of font info for 42 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 55i,23n,54p,10321b,425s stack positions out of 5000i,500n,10000p,200000b,50000s
-<Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfon
-ts/cm/cmbx10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1
-/public/amsfonts/cm/cmmi10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.51
-05/fonts/type1/public/amsfonts/cm/cmr10.pfb><Z:/home/pvnick/Downloads/miktex-po
-rtable-2.9.5105/fonts/type1/public/amsfonts/cm/cmr12.pfb><Z:/home/pvnick/Downlo
-ads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmr7.pfb><Z:/home/p
-vnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmr8.pf
-b><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfont
-s/cm/cmsy10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/
-public/amsfonts/cm/cmti10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.510
-5/fonts/type1/public/amsfonts/cm/cmti7.pfb><Z:/home/pvnick/Downloads/miktex-por
-table-2.9.5105/fonts/type1/public/amsfonts/cm/cmti8.pfb><Z:/home/pvnick/Downloa
-ds/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on Main.pdf (7 pages, 197625 bytes).
+ 55i,23n,54p,10321b,340s stack positions out of 5000i,500n,10000p,200000b,50000s
+<Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/publ
+ic/amsfonts/cm/cmbx10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fo
+nts/type1/public/amsfonts/cm/cmmi10.pfb><Z:/home/pvnick/Downloads/miktex-portab
+le-2.9.5105/fonts/type1/public/amsfonts/cm/cmr10.pfb><Z:/home/pvnick/Downloads/
+miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmr12.pfb><Z:/home/pvni
+ck/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmr7.pfb><
+Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/c
+m/cmr8.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/publi
+c/amsfonts/cm/cmsy10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fon
+ts/type1/public/amsfonts/cm/cmti10.pfb><Z:/home/pvnick/Downloads/miktex-portabl
+e-2.9.5105/fonts/type1/public/amsfonts/cm/cmti7.pfb><Z:/home/pvnick/Downloads/m
+iktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmti8.pfb><Z:/home/pvnic
+k/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
+Output written on Main.pdf (7 pages, 197594 bytes).
 PDF statistics:
  79 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
