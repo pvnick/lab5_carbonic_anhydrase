@@ -1,5 +1,13 @@
-\documentclass{article}
+\documentclass{achemso}
 
+\makeatletter
+\def\ps@pprintTitle{%
+  \let\@oddhead\@empty
+  \let\@evenhead\@empty
+  \let\@oddfoot\@empty
+  \let\@evenfoot\@oddfoot
+}
+\makeatother
 
 %=============== Packages ===================%
 
@@ -20,10 +28,12 @@
 \usepackage{amsthm}
 \usepackage{setspace}
 \usepackage{mhchem}
-\usepackage{apacite}
 
-\newtheorem{mydef}{Definition}
-\theoremstyle{definition}
+\title{CARBONIC ANHYDRASE: KINETICS OF REMOVAL OF Zn(II) By 2,6-PYRIDINECARBOXYLATE}
+\author{Paul Nickerson}
+\email{pvnick@ufl.edu}
+\affiliation[University of Florida]
+{Department of Chemistry, University of Florida, Gainesville, FL, US}
 
 \doublespacing
 
@@ -31,10 +41,6 @@
 %\journal{CHM4413L: Biophysical Chemistry Laboratory}
 
 \begin{document}
-
-\title{CARBONIC ANHYDRASE: KINETICS OF REMOVAL OF Zn(II) By 2,6-PYRIDINECARBOXYLATE}
-
-\author{Paul Nickerson}
 
 %=============== Abstract ==================%
 \begin{abstract}
@@ -52,7 +58,16 @@ In the past decade, supervised activity recognition methods have been studied by
 %=============== Reference ===================%
 \newpage
 \section*{References}
-\bibliographystyle{apacite}
-\bibliography{mybibfile.bib}
+
+\begin{thebibliography}{9}
+
+\bibitem{lamport94}
+  Leslie Lamport,
+  \emph{\LaTeX: a document preparation system}.
+  Addison Wesley, Massachusetts,
+  2nd edition,
+  1994.
+
+\end{thebibliography}
 
 \end{document} 
