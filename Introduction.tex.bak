@@ -1,5 +1,7 @@
 \section{Introduction}
-hello world
+Carbonic anhydrase (CA) catalyzes the following reaction:
 \begin{align}
-\ce{CO2 + C <=> 2CO}
+\ce{CO_2 + H_2O 
+<=>[\ce{CA}] 
+H_2CO_3}
 \end{align}
