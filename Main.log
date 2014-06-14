@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  14 JUN 2014 12:52
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  14 JUN 2014 12:53
 entering extended mode
 **Main.tex
 
@@ -774,14 +774,15 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 [1
 
 
-{Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/pdftex/config/pdftex.map}]
+{Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/pdftex/config/pdftex.map}] [
+2]
 ("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Main
 .aux") ) 
 Here is how much of TeX's memory you used:
- 16249 strings out of 493921
- 304114 string characters out of 3138437
+ 16224 strings out of 493921
+ 303516 string characters out of 3138437
  363303 words of memory out of 3000000
- 19245 multiletter control sequences out of 15000+200000
+ 19220 multiletter control sequences out of 15000+200000
  10601 words of font info for 41 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  55i,7n,54p,960b,192s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -794,9 +795,9 @@ nloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmti10.pfb><Z:/h
 ome/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cm
 ti8.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/a
 msfonts/cm/cmtt8.pfb>
-Output written on Main.pdf (1 page, 87683 bytes).
+Output written on Main.pdf (2 pages, 86345 bytes).
 PDF statistics:
- 37 PDF objects out of 1000 (max. 8388607)
+ 40 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
