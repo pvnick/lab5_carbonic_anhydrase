@@ -1,0 +1,8 @@
+\subsection{Calculating  motif occurrences}
+Each motif of length $l$ is represented by a vector of alphabet letter indices $\left(k_1,k_2,...,k_l\right)$, 1-based such that motif \emph{adb} would be $\left(1,4,2\right)$. Define a matrix of motif occurences $M$ from a collection of motifs such that $M_{p,m}$ refers to the occurrence count of motif $m$ within a given SAX sequence representing the post-operative pain scores for patient $p$ (pain scores are linearly interpolated to ten minute increments). For any given motif of length $l$ represented by up to $\beta$ letters of the alphabet, its position in the matrix is defined by Equation \eqref{eqn:motif_position}.
+
+\begin{equation}\label{eqn:motif_position}
+    m = 1+\sum\limits_{j=1}^l \left(k_j-1\right)\times\beta^{l-j}
+\end{equation}
+
+For example, given a motif such as \emph{adb}, with $\beta=4$ (that is, an alphabet letter selection of $\left\{a,b,c,d\right\}$), then $m=14$. This has the effect of placing the motifs in alphabetical order within the vector $M_{p,.}$. Note that the total number of possible motifs of length $l$ with $\beta$ alphabet letters is $\beta^l$. In our analysis, $l$ was restricted to a value of $2$, and values of $\beta$ were examined along the set $\left\{2,5,10\right\}$.

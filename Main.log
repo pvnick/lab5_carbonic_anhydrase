@@ -1,0 +1,963 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  10 JUN 2014 21:33
+entering extended mode
+**Main.tex
+("C:\users\pvnick\My Documents\Downloads\Paper\Main.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\elsarticle\elsarti
+cle.cls
+Document Class: elsarticle 2009/09/17, 1.2.0: Elsevier Ltd
+\@bls=\dimen102
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\base\article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\base\size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\graphics\graphicx.
+sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\graphics\keyval.st
+y
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\graphics\graphics.
+sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\00miktex\graphics.
+cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\pdftex-def\pdftex.
+def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\oberdiek\infware
+rr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\oberdiek\ltxcmds
+.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\psnfss\pifont.sty
+Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
+LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\psnfss\upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\psnfss\upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+\c@tnote=\count88
+\c@fnote=\count89
+\c@cnote=\count90
+\c@ead=\count91
+\c@author=\count92
+\@eadauthor=\toks15
+\c@affn=\count93
+\absbox=\box26
+\keybox=\box27
+\Columnwidth=\dimen106
+\space@left=\dimen107
+\els@boxa=\box28
+\els@boxb=\box29
+\leftMargin=\dimen108
+\@enLab=\toks16
+\@sep=\skip43
+\@@sep=\skip44
+
+("C:\users\pvnick\My Documents\Downloads\Paper\Main.spl")
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip45
+\bibsep=\skip46
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count94
+)
+\splwrite=\write3
+)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\amsmath\amsmath.st
+y
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip47
+
+For additional information on amsmath, use the `?' option.
+
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\amsmath\amstext.st
+y
+Package: amstext 2000/06/29 v2.01
+
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks17
+\ex@=\dimen109
+))
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen110
+)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\amsmath\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count95
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count96
+\leftroot@=\count97
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count98
+\DOTSCASE@=\count99
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box30
+\strutbox@=\box31
+\big@size=\dimen111
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count100
+\c@MaxMatrixCols=\count101
+\dotsspace@=\muskip10
+\c@parentequation=\count102
+\dspbrk@lvl=\count103
+\tag@help=\toks18
+\row@=\count104
+\column@=\count105
+\maxfields@=\count106
+\andhelp@=\toks19
+\eqnshift@=\dimen112
+\alignsep@=\dimen113
+\tagshift@=\dimen114
+\tagwidth@=\dimen115
+\totwidth@=\dimen116
+\lineht@=\dimen117
+\@envbody=\toks20
+\multlinegap=\skip48
+\multlinetaggap=\skip49
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\amsfonts\amssymb.s
+ty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\amsfonts\amsfonts.
+sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\colortbl\colortbl.
+sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\tools\array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen118
+\extrarowheight=\dimen119
+\NC@list=\toks22
+\extratabsurround=\skip50
+\backup@length=\skip51
+)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\graphics\color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\00miktex\color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+\everycr=\toks23
+\minrowclearance=\skip52
+) (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\url\url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\pgf\frontendlayer\
+tikz.sty
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\pgf\basiclayer\pgf
+.sty
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\pgf\utilities\pgfr
+cs.sty
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\utilities\pg
+futil-common.tex
+\pgfutil@everybye=\toks24
+\pgfutil@tempdima=\dimen120
+\pgfutil@tempdimb=\dimen121
+
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\utilities\pg
+futil-common-lists.tex))
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\utilities\pg
+futil-latex.def
+\pgfutil@abb=\box32
+
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\ms\everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\utilities\pg
+frcs.code.tex
+Package: pgfrcs 2013/12/20 v3.0.0 (rcs-revision 1.28)
+))
+Package: pgf 2013/12/18 v3.0.0 (rcs-revision 1.14)
+
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\pgf\basiclayer\pgf
+core.sty
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\pgf\systemlayer\pg
+fsys.sty
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\systemlayer\
+pgfsys.code.tex
+Package: pgfsys 2013/11/30 v3.0.0 (rcs-revision 1.47)
+
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\utilities\pg
+fkeys.code.tex
+\pgfkeys@pathtoks=\toks25
+\pgfkeys@temptoks=\toks26
+
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\utilities\pg
+fkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks27
+))
+\pgf@x=\dimen122
+\pgf@y=\dimen123
+\pgf@xa=\dimen124
+\pgf@ya=\dimen125
+\pgf@xb=\dimen126
+\pgf@yb=\dimen127
+\pgf@xc=\dimen128
+\pgf@yc=\dimen129
+\w@pgf@writea=\write4
+\r@pgf@reada=\read1
+\c@pgf@counta=\count107
+\c@pgf@countb=\count108
+\c@pgf@countc=\count109
+\c@pgf@countd=\count110
+\t@pgf@toka=\toks28
+\t@pgf@tokb=\toks29
+\t@pgf@tokc=\toks30
+
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\systemlayer\
+pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\systemlayer\
+pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2013/07/18  (rcs-revision 1.33)
+
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\systemlayer\
+pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\systemlayer\
+pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count111
+\pgfsyssoftpath@bigbuffer@items=\count112
+)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\systemlayer\
+pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\xcolor\xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\00miktex\color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 702.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\basiclayer\p
+gfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.0 (rcs-revision 1.7)
+
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\math\pgfmath
+.code.tex
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\math\pgfmath
+calc.code.tex
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\math\pgfmath
+util.code.tex)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\math\pgfmath
+parser.code.tex
+\pgfmath@dimen=\dimen130
+\pgfmath@count=\count113
+\pgfmath@box=\box33
+\pgfmath@toks=\toks31
+\pgfmath@stack@operand=\toks32
+\pgfmath@stack@operation=\toks33
+)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\math\pgfmath
+functions.code.tex
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\math\pgfmath
+functions.basic.code.tex)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\math\pgfmath
+functions.trigonometric.code.tex)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\math\pgfmath
+functions.random.code.tex)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\math\pgfmath
+functions.comparison.code.tex)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\math\pgfmath
+functions.base.code.tex)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\math\pgfmath
+functions.round.code.tex)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\math\pgfmath
+functions.misc.code.tex)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\math\pgfmath
+functions.integerarithmetics.code.tex)))
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\math\pgfmath
+float.code.tex
+\c@pgfmathroundto@lastzeros=\count114
+))
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\basiclayer\p
+gfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen131
+\pgf@picmaxx=\dimen132
+\pgf@picminy=\dimen133
+\pgf@picmaxy=\dimen134
+\pgf@pathminx=\dimen135
+\pgf@pathmaxx=\dimen136
+\pgf@pathminy=\dimen137
+\pgf@pathmaxy=\dimen138
+\pgf@xx=\dimen139
+\pgf@xy=\dimen140
+\pgf@yx=\dimen141
+\pgf@yy=\dimen142
+\pgf@zx=\dimen143
+\pgf@zy=\dimen144
+)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\basiclayer\p
+gfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen145
+\pgf@path@lasty=\dimen146
+)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\basiclayer\p
+gfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2013/12/13  (rcs-revision 1.23)
+\pgf@shorten@end@additional=\dimen147
+\pgf@shorten@start@additional=\dimen148
+)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\basiclayer\p
+gfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2013/10/09  (rcs-revision 1.44)
+\pgfpic=\box34
+\pgf@hbox=\box35
+\pgf@layerbox@main=\box36
+\pgf@picture@serial@count=\count115
+)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\basiclayer\p
+gfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2013/09/19  (rcs-revision 1.11)
+\pgflinewidth=\dimen149
+)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\basiclayer\p
+gfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2013/10/10  (rcs-revision 1.17)
+\pgf@pt@x=\dimen150
+\pgf@pt@y=\dimen151
+\pgf@pt@temp=\dimen152
+)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\basiclayer\p
+gfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\basiclayer\p
+gfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\basiclayer\p
+gfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\basiclayer\p
+gfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2013/11/07  (rcs-revision 1.40)
+\pgfarrowsep=\dimen153
+)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\basiclayer\p
+gfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen154
+\pgf@sys@shading@range@num=\count116
+)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\basiclayer\p
+gfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\basiclayer\p
+gfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2013/07/15  (rcs-revision 1.20)
+\pgfexternal@startupbox=\box37
+))
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\basiclayer\p
+gfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\basiclayer\p
+gfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\basiclayer\p
+gfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\modules\pgfm
+oduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2013/10/31  (rcs-revision 1.34)
+\pgfnodeparttextbox=\box38
+)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\modules\pgfm
+oduleplot.code.tex
+File: pgfmoduleplot.code.tex 2013/07/31  (rcs-revision 1.12)
+)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\pgf\compatibility\
+pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.0 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen155
+\pgf@nodesepend=\dimen156
+)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\pgf\compatibility\
+pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.0 (rcs-revision 1.1)
+))
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\pgf\utilities\pgff
+or.sty
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\pgf\utilities\pgfk
+eys.sty
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\utilities\pg
+fkeys.code.tex))
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\pgf\math\pgfmath.s
+ty
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\math\pgfmath
+.code.tex))
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\utilities\pg
+ffor.code.tex
+Package: pgffor 2013/12/13 v3.0.0 (rcs-revision 1.25)
+
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\math\pgfmath
+.code.tex)
+\pgffor@iter=\dimen157
+\pgffor@skip=\dimen158
+\pgffor@stack=\toks34
+\pgffor@toks=\toks35
+))
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\frontendlaye
+r\tikz\tikz.code.tex
+Package: tikz 2013/12/13 v3.0.0 (rcs-revision 1.142)
+
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\libraries\pg
+flibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.0 (rcs-revision 1.20)
+\pgf@plot@mark@count=\count117
+\pgfplotmarksize=\dimen159
+)
+\tikz@lastx=\dimen160
+\tikz@lasty=\dimen161
+\tikz@lastxsaved=\dimen162
+\tikz@lastysaved=\dimen163
+\tikzleveldistance=\dimen164
+\tikzsiblingdistance=\dimen165
+\tikz@figbox=\box39
+\tikz@figbox@bg=\box40
+\tikz@tempbox=\box41
+\tikz@tempbox@bg=\box42
+\tikztreelevel=\count118
+\tikznumberofchildren=\count119
+\tikznumberofcurrentchild=\count120
+\tikz@fig@count=\count121
+
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\modules\pgfm
+odulematrix.code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count122
+\pgfmatrixcurrentcolumn=\count123
+\pgf@matrix@numberofcolumns=\count124
+)
+\tikz@expandcount=\count125
+
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\generic\pgf\frontendlaye
+r\tikz\libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.0 (rcs-revision 1.2)
+)))
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\algorithm2e\algori
+thm2e.sty
+Package: algorithm2e 2013/01/06 v5.00 algorithms environments
+\c@AlgoLine=\count126
+
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\base\ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\tools\xspace.sty
+Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
+)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\ltxmisc\relsize.st
+y
+Package: relsize 2003/07/04 ver 3.1
+)
+********************************************************
+Package `algorithm2e' Release 5.0 -- january 06 2013 --
+- algorithm2e-announce@lirmm.fr mailing list for announcement about releases
+- algorithm2e-discussion@lirmm.fr mailing list for discussion about package
+subscribe by emailing sympa@lirmm.fr with 'subscribe <list> <firstname name>'
+- Author: Christophe Fiorio (cfiorio@um2.fr)
+********************************************************
+\skiptotal=\skip53
+\skiplinenumber=\skip54
+\skiprule=\skip55
+\skiphlne=\skip56
+\skiptext=\skip57
+\skiplength=\skip58
+\algomargin=\skip59
+\skipalgocfslide=\skip60
+\algowidth=\dimen166
+\inoutsize=\dimen167
+\inoutindent=\dimen168
+\interspacetitleruled=\dimen169
+\interspacealgoruled=\dimen170
+\interspacetitleboxruled=\dimen171
+\algocf@inoutbox=\box43
+\algocf@inputbox=\box44
+\AlCapSkip=\skip61
+\AlCapHSkip=\skip62
+\algoskipindent=\skip63
+\algocf@nlbox=\box45
+\algocf@hangingbox=\box46
+\algocf@untilbox=\box47
+\algocf@skipuntil=\skip64
+\algocf@capbox=\box48
+\algoheightruledefault=\skip65
+\algoheightrule=\skip66
+\algotitleheightruledefault=\skip67
+\algotitleheightrule=\skip68
+\c@algocfline=\count127
+\c@algocfproc=\count128
+\c@algocf=\count129
+\algocf@algoframe=\box49
+\algocf@algobox=\box50
+)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\sttools\flushend.s
+ty
+Package: flushend 2014/04/24 v2.2 Balancing columns in twocolumn mode
+\flushend@@lastskip@a=\skip69
+\flushend@@lastskip@b=\skip70
+\flushend@@lastskip@c=\skip71
+\flushend@@penalty@a=\count130
+\flushend@@lastkern@a=\dimen172
+\var@@temp@spread=\dimen173
+\var@@temp@a=\dimen174
+\flushend@@page@rule=\dimen175
+\flushend@@varbox@a=\box51
+\flushend@@varbox@c=\box52
+\flushend@@tempbox@a=\box53
+\flushend@@tempbox@c=\box54
+\@viper=\box55
+\hold@viper=\box56
+\atColsBreak=\toks36
+\atColsEnd=\toks37
+
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\etoolbox\etoolbox.
+sty
+Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
+ (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\misc\etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count131
+)
+\etb@tempcnta=\count132
+))
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\mdwtools\footnote.
+sty
+Package: footnote 1997/01/28 1.13 Save footnotes around boxes
+\fn@notes=\box57
+\fn@width=\dimen176
+)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\threeparttable\thr
+eeparttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box58
+)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\caption\caption.st
+y
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\caption\caption3.s
+ty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen177
+\captionmargin@=\dimen178
+\captionwidth=\dimen179
+\caption@tempdima=\dimen180
+\caption@indent=\dimen181
+\caption@parindent=\dimen182
+\caption@hangindent=\dimen183
+)
+\c@ContinuedFloat=\count133
+Package caption Info: threeparttable package is loaded.
+)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\caption\subcaption
+.sty
+Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
+\c@subfigure=\count134
+\c@subtable=\count135
+)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\subfig\subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+\c@KVtest=\count136
+\sf@farskip=\skip72
+\sf@captopadj=\dimen184
+\sf@capskip=\skip73
+\sf@nearskip=\skip74
+\sf@top=\skip75
+\sf@bottom=\skip76
+) (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\amscls\amsthm.st
+y
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks38
+\thm@bodyfont=\toks39
+\thm@headfont=\toks40
+\thm@notefont=\toks41
+\thm@headpunct=\toks42
+\thm@preskip=\skip77
+\thm@postskip=\skip78
+\thm@headsep=\skip79
+\dth@everypar=\toks43
+LaTeX Info: Redefining \qed on input line 283.
+)
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\floatrow\floatrow.
+sty
+Package: floatrow 2008/08/02 v0.3b floatrow: float package extension
+\c@float@type=\count137
+\float@exts=\toks44
+\float@box=\box59
+\@floatcapt=\box60
+Package floatrow Info: Modified float package code loaded on input line 455.
+Package floatrow Info: Modified rotfloat package code loaded on input line 473.
+
+\FR@everyfloat=\toks45
+\flrow@foot=\insert233
+\FB@wd=\dimen185
+\FBo@wd=\dimen186
+\FBc@wd=\dimen187
+\FBo@ht=\skip80
+\FBc@ht=\skip81
+\FBf@ht=\skip82
+\FBo@max=\skip83
+\FBc@max=\skip84
+\FBf@max=\skip85
+\c@FBl@b=\count138
+\floatbox@depth=\count139
+\c@FRobj=\count140
+\c@FRsobj=\count141
+\Xhsize=\skip86
+\sXhsize=\skip87
+\Zhsize=\skip88
+\sZhsize=\skip89
+\flrow@rowbox=\box61
+\FR@Zunitlength=\dimen188
+\c@FBcnt=\count142
+\FPOScnt=\count143
+\LTleft=\skip90
+\LTright=\skip91
+\LTleft=\skip92
+\LTright=\skip93
+\flrow@types=\toks46
+)
+\c@mydef=\count144
+ ("C:\users\pvnick\My Documents\Downloads\Paper\Main.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\context\base\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count145
+\scratchdimen=\dimen189
+\scratchbox=\box62
+\nofMPsegments=\count146
+\nofMParguments=\count147
+\everyMPshowfont=\toks47
+\MPscratchCnt=\count148
+\MPscratchDim=\dimen190
+\MPnumerator=\count149
+\makeMPintoPDFobject=\count150
+\everyMPtoPDFconversion=\toks48
+) ABD: EveryShipout initializing macros
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: floatrow package is loaded.
+Package caption Info: float package is loaded.
+Package caption Info: floatrow package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\floatrow\fr-subfig
+.sty
+Package: fr-subfig 2007/12/24 v0.1g (beta) floatrow: additions for subfig
+\FBsc@max=\skip94
+\FBso@max=\skip95
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 42.
+
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 42.
+
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+("C:\users\pvnick\My Documents\Downloads\Paper\Methods.tex"
+("C:\users\pvnick\My Documents\Downloads\Paper\Methods_StandardizingStartTimes.
+tex" <Figures/pain_score_start_times.png, id=4, 393.47pt x 278.03876pt>
+File: Figures/pain_score_start_times.png Graphic file (type png)
+
+<use Figures/pain_score_start_times.png>
+Package pdftex.def Info: Figures/pain_score_start_times.png used on input line 
+6.
+(pdftex.def)             Requested size: 172.5pt x 121.89195pt.
+
+<Figures/pain_score_start_times_log.png, id=6, 387.4475pt x 278.03876pt>
+File: Figures/pain_score_start_times_log.png Graphic file (type png)
+
+<use Figures/pain_score_start_times_log.png>
+Package pdftex.def Info: Figures/pain_score_start_times_log.png used on input l
+ine 10.
+(pdftex.def)             Requested size: 172.5pt x 123.78836pt.
+ [1
+
+
+{Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/pdftex/config/pdftex.map} <C
+:/users/pvnick/My Documents/Downloads/Paper/Figures/pain_score_start_times.png>
+ <C:/users/pvnick/My Documents/Downloads/Paper/Figures/pain_score_start_times_l
+og.png>]
+<Figures/pain_score_start_times_lte2hours.png, id=20, 386.44376pt x 278.03876pt
+>
+File: Figures/pain_score_start_times_lte2hours.png Graphic file (type png)
+ <use Figures/pain_score_start_times_lte2hours.png>
+Package pdftex.def Info: Figures/pain_score_start_times_lte2hours.png used on i
+nput line 21.
+(pdftex.def)             Requested size: 172.5pt x 124.1108pt.
+
+<Figures/pain_score_start_times_lte2hours_log.png, id=21, 420.57124pt x 278.038
+76pt>
+File: Figures/pain_score_start_times_lte2hours_log.png Graphic file (type png)
+ <use Figures/pain_score_start_times_lte2hours_log.png>
+Package pdftex.def Info: Figures/pain_score_start_times_lte2hours_log.png used 
+on input line 25.
+(pdftex.def)             Requested size: 172.5pt x 114.03905pt.
+)
+("C:\users\pvnick\My Documents\Downloads\Paper\Methods_Interpolation.tex"
+<./Figures/interpolation.png, id=22, 364.36125pt x 256.96pt>
+File: ./Figures/interpolation.png Graphic file (type png)
+
+<use ./Figures/interpolation.png>
+Package pdftex.def Info: ./Figures/interpolation.png used on input line 18.
+(pdftex.def)             Requested size: 145.74191pt x 102.78217pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) ("C:\users\pvnick\My Documents\Downloads\Paper\Methods_CalcMotifOccurences.te
+x"
+Overfull \hbox (3.68086pt too wide) in paragraph at lines 22--1
+\OT1/cmr/m/n/10 ex-am-ple in-ter-po-lated val-ues in [], $[] = (4\OML/cmm/m/it/
+10 :\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 5\OML/cmm/m/it/10 :\OT1
+/cmr/m/n/10 9\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 7\OML/cmm/m/it/10 :\OT1/cmr/m/n
+/10 8\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 6\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 3\OM
+L/cmm/m/it/10 ; \OT1/cmr/m/n/10 4\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 4\OML/cmm/m/
+it/10 ; \OT1/cmr/m/n/10 3\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 7\OML/cmm/m/it/10 ; 
+\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 ; \OT1/cmr
+/m/n/10 3\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 
+2\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 6\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 2\OML/cm
+m/m/it/10 :\OT1/cmr/m/n/10 3)$.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--1
+
+ []
+
+[2 <C:/users/pvnick/My Documents/Downloads/Paper/Figures/pain_score_start_times
+_lte2hours.png> <C:/users/pvnick/My Documents/Downloads/Paper/Figures/pain_scor
+e_start_times_lte2hours_log.png>])
+("C:\users\pvnick\My Documents\Downloads\Paper\Methods_Clustering.tex")
+("C:\users\pvnick\My Documents\Downloads\Paper\Methods_Normalizing.tex"
+[3 <C:/users/pvnick/My Documents/Downloads/Paper/Figures/interpolation.png>]
+<./Figures/5x5hist.png, id=40, 890.32625pt x 899.36pt>
+File: ./Figures/5x5hist.png Graphic file (type png)
+
+<use ./Figures/5x5hist.png>
+Package pdftex.def Info: ./Figures/5x5hist.png used on input line 11.
+(pdftex.def)             Requested size: 311.61885pt x 314.78072pt.
+
+<./Figures/10x10hist_ck100.png, id=41, 882.29625pt x 1177.39874pt>
+File: ./Figures/10x10hist_ck100.png Graphic file (type png)
+
+<use ./Figures/10x10hist_ck100.png>
+Package pdftex.def Info: ./Figures/10x10hist_ck100.png used on input line 15.
+(pdftex.def)             Requested size: 308.80832pt x 412.09573pt.
+
+<./Figures/10x10hist_ck2.png, id=42, 882.29625pt x 1177.39874pt>
+File: ./Figures/10x10hist_ck2.png Graphic file (type png)
+
+<use ./Figures/10x10hist_ck2.png>
+Package pdftex.def Info: ./Figures/10x10hist_ck2.png used on input line 19.
+(pdftex.def)             Requested size: 308.80832pt x 412.09573pt.
+ [4]
+<./Figures/5x5hist_standardscore.png, id=46, 889.3225pt x 900.36375pt>
+File: ./Figures/5x5hist_standardscore.png Graphic file (type png)
+
+<use ./Figures/5x5hist_standardscore.png>
+Package pdftex.def Info: ./Figures/5x5hist_standardscore.png used on input line
+ 31.
+(pdftex.def)             Requested size: 311.26753pt x 315.13203pt.
+)
+("C:\users\pvnick\My Documents\Downloads\Paper\Methods_GenIntelIcon.tex"
+[5 <C:/users/pvnick/My Documents/Downloads/Paper/Figures/5x5hist.png>] [6 <C:/u
+sers/pvnick/My Documents/Downloads/Paper/Figures/10x10hist_ck100.png>] [7 <C:/u
+sers/pvnick/My Documents/Downloads/Paper/Figures/10x10hist_ck2.png>] [8 <C:/use
+rs/pvnick/My Documents/Downloads/Paper/Figures/5x5hist_standardscore.png>]
+<./Figures/example_icon.png, id=67, 671.50874pt x 715.67375pt>
+File: ./Figures/example_icon.png Graphic file (type png)
+
+<use ./Figures/example_icon.png>
+Package pdftex.def Info: ./Figures/example_icon.png used on input line 5.
+(pdftex.def)             Requested size: 235.03159pt x 250.48956pt.
+)
+("C:\users\pvnick\My Documents\Downloads\Paper\Methods_SortBySimilarity.tex"
+[9 <C:/users/pvnick/My Documents/Downloads/Paper/Figures/example_icon.png>]))
+("C:\users\pvnick\My Documents\Downloads\Paper\Examples.tex"
+<./Figures/surgerytype_beta2.pdf, id=73, 722.7pt x 722.7pt>
+File: ./Figures/surgerytype_beta2.pdf Graphic file (type pdf)
+
+<use ./Figures/surgerytype_beta2.pdf>
+Package pdftex.def Info: ./Figures/surgerytype_beta2.pdf used on input line 6.
+(pdftex.def)             Requested size: 289.07487pt x 289.07487pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./Figures/surgerytype_beta5.pdf, id=74, 722.7pt x 722.7pt>
+File: ./Figures/surgerytype_beta5.pdf Graphic file (type pdf)
+
+<use ./Figures/surgerytype_beta5.pdf>
+Package pdftex.def Info: ./Figures/surgerytype_beta5.pdf used on input line 11.
+
+(pdftex.def)             Requested size: 289.07487pt x 289.07487pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./Figures/surgerytype_beta10.pdf, id=75, 722.7pt x 722.7pt>
+File: ./Figures/surgerytype_beta10.pdf Graphic file (type pdf)
+
+<use ./Figures/surgerytype_beta10.pdf>
+Package pdftex.def Info: ./Figures/surgerytype_beta10.pdf used on input line 16
+.
+(pdftex.def)             Requested size: 289.07487pt x 289.07487pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [10] [11 <C:/users/pvnick/My Documents/Downloads/Paper/Figures/surgerytype_be
+ta2.pdf>] [12 <C:/users/pvnick/My Documents/Downloads/Paper/Figures/surgerytype
+_beta5.pdf>] [13 <C:/users/pvnick/My Documents/Downloads/Paper/Figures/surgeryt
+ype_beta10.pdf>] ("C:\users\pvnick\My Documents\Downloads\Paper\Main.aux") ) 
+Here is how much of TeX's memory you used:
+ 16357 strings out of 493921
+ 307756 string characters out of 3138437
+ 370303 words of memory out of 3000000
+ 19309 multiletter control sequences out of 15000+200000
+ 10910 words of font info for 42 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 55i,17n,54p,1946b,502s stack positions out of 5000i,500n,10000p,200000b,50000s
+<Z:
+/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/
+cmbx10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/publi
+c/amsfonts/cm/cmbx8.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/font
+s/type1/public/amsfonts/cm/cmex10.pfb><Z:/home/pvnick/Downloads/miktex-portable
+-2.9.5105/fonts/type1/public/amsfonts/cm/cmmi10.pfb><Z:/home/pvnick/Downloads/m
+iktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmmi5.pfb><Z:/home/pvnic
+k/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmmi6.pfb><
+Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/c
+m/cmmi7.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/publ
+ic/amsfonts/cm/cmmi8.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fon
+ts/type1/public/amsfonts/cm/cmr10.pfb><Z:/home/pvnick/Downloads/miktex-portable
+-2.9.5105/fonts/type1/public/amsfonts/cm/cmr12.pfb><Z:/home/pvnick/Downloads/mi
+ktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmr5.pfb><Z:/home/pvnick/
+Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmr7.pfb><Z:/
+home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/c
+mr8.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/a
+msfonts/cm/cmsy10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/
+type1/public/amsfonts/cm/cmsy7.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.
+9.5105/fonts/type1/public/amsfonts/cm/cmsy8.pfb><Z:/home/pvnick/Downloads/mikte
+x-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmti10.pfb><Z:/home/pvnick/D
+ownloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmti8.pfb><Z:/
+home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/c
+mtt8.pfb>
+Output written on Main.pdf (13 pages, 2501061 bytes).
+PDF statistics:
+ 6586 PDF objects out of 7423 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 78 words of extra memory for PDF output out of 10000 (max. 10000000)
+
