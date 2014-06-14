@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  14 JUN 2014 18:59
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  14 JUN 2014 19:04
 entering extended mode
 **Main.tex
 
@@ -1109,10 +1109,10 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 22289 strings out of 493921
- 428666 string characters out of 3138437
+ 22290 strings out of 493921
+ 428673 string characters out of 3138437
  474505 words of memory out of 3000000
- 25218 multiletter control sequences out of 15000+200000
+ 25219 multiletter control sequences out of 15000+200000
  15866 words of font info for 60 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  60i,23n,94p,10321b,504s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1133,7 +1133,7 @@ me/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cms
 y7.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/am
 sfonts/cm/cmti10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/t
 ype1/public/amsfonts/cm/cmti12.pfb>
-Output written on Main.pdf (6 pages, 229692 bytes).
+Output written on Main.pdf (6 pages, 230698 bytes).
 PDF statistics:
  86 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
