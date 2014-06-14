@@ -1,5 +1,14 @@
 \documentclass{elsarticle}
 
+\makeatletter
+\def\ps@pprintTitle{%
+  \let\@oddhead\@empty
+  \let\@evenhead\@empty
+  \let\@oddfoot\@empty
+  \let\@evenfoot\@oddfoot
+}
+\makeatother
+
 %=============== Packages ===================%
 \usepackage{amsmath}
 \usepackage{amssymb}
