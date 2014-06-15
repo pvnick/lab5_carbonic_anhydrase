@@ -47,12 +47,20 @@ In the past decade, supervised activity recognition methods have been studied by
 \begin{thebibliography}{9}
 
 \bibitem{bib:lab_manual}
-  Killian, B. J. 
-  \emph{Experiments for Physical Chemistry Laboratory}, 
-  Summer 2014, 
-  Target Copy: Gainesville, 
-  \textbf{2014}. 
+  Killian, B. J.
+  \emph{Experiments for Physical Chemistry Laboratory},
+  Summer 2014,
+  Target Copy: Gainesville,
+  \textbf{2014}.
   45 - 50.
+
+\bibitem{bib:lehninger_mm}
+  Nelson, D. L.; Cox, M. M.
+  \emph{Lehninger Principles of Biochemistry},
+  5th ed.;
+  W. H. Freeman,
+  2008.
+  195 - 200.
 
 \end{thebibliography}
 

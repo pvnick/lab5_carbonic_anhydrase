@@ -37,8 +37,7 @@ This yields the following differential rate law:
 \begin{equation}\label{eqn:kd_expression}
 \frac{d[\text{apoCA}]}{dt}=k_{d}[\text{CA$\cdot$Zn$\cdot$L}]
 \end{equation}
-
-Recall that $\text{[L]} >> \text{[CA$\cdot$Zn]}$, so [L] can be assumed to stay constant at $\text{[L]}_0$, which is substituted into a rearranged form of equation \eqref{eqn:KEML_expression},
+Note the difference in assumptions between this reaction and the Michaelis-Menten model; M-M kinetics assumes the enzyme is reformed and that only the substrate is modified, while \eqref{eqn:kd_reaction} shows that both the substrate and the enzyme are permanently modified. Recall that $\text{[L]} >> \text{[CA$\cdot$Zn]}$, so [L] can be assumed to stay constant at $\text{[L]}_0$, which is substituted into a rearranged form of equation \eqref{eqn:KEML_expression},
 \begin{equation}\label{eqn:KEML_expression_constant_L}
 \text{[CA$\cdot$Zn$\cdot$L]}=K_{EML}\text{[CA$\cdot$Zn][L]}_0
 \end{equation}
@@ -103,7 +102,7 @@ ln \left( \frac{\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}}{\text{[CA$\cdot$Zn]}_0}
 =
 -\frac{k_{d}K_{EML}\text{[L]}_0}{1+K_{EML}\text{[L]}_0}t 
 \end{equation}
-Assuming steady-state conditions for CA$\cdot$Zn$\cdot$L, that is, [CA$\cdot$Zn$\cdot$L] is always negligible, $\frac{\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}}{\text{[CA$\cdot$Zn]}_0}$ is simply the fraction of CA$\cdot$Zn remaining after reaction time $t$ and can be referred to as $F_\text{CA$\cdot$Zn}$:
+Assuming steady-state conditions for CA$\cdot$Zn$\cdot$L, that is, [CA$\cdot$Zn$\cdot$L] is always negligible, then $\frac{\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}}{\text{[CA$\cdot$Zn]}_0}$ is simply the fraction of CA$\cdot$Zn remaining after reaction time $t$ and can be referred to as $F_\text{CA$\cdot$Zn}$:
 \begin{equation}\label{eqn:integrated_rate_law_frac}
 ln \left( F_\text{CA$\cdot$Zn} \right)
 =
@@ -126,5 +125,17 @@ Taking the reciprocal of equation \eqref{eqn:kobs_slope} yields
 &= \frac{1}{k_{d}K_{EML}} \times \frac{1}{\text{[L]}_0} + \frac{1}{k_{d}}
 \end{split}
 \end{equation}
+Again, a linear pattern is observed; measuring $k_{obs}$ at several different dipic concentrations enables one to perform a least squares regression procedure on $\frac{1}{k_{obs}}$ versus $\frac{1}{\text{[L]}_0}$ to determine the slope, $m=\frac{1}{k_{d}K_{EML}}$, and intercept, $b=\frac{1}{k_{d}}$. $k_d$ and $K_{EML}$ are thus calculated as follows:
+\begin{equation}\label{eqn:calculating_kd}
+k_d=\frac{1}{b}
+\end{equation}
+\begin{equation}\label{eqn:calculating_keml}
+K_{EML}=\frac{b}{m}
+\end{equation}
 
- 
+\subsection{Rate Measurements}
+While equations \eqref{eqn:integrated_rate_law_frac} and \eqref{eqn:kobs_slope} seem to imply that the determination of $k_{obs}$ requires knowing [CA$\cdot$Zn] or [apoCA] at any point in time, in reality a plot of $f(t)$ vs $t$, where $f(t)$ is proportional to $F_\text{CA$\cdot$Zn}$, will still exhibit the same slope $-k_{obs}$. The Michaelis-Menten kinetics model states that, for sufficiently large substrate concentrations, the enzyme is fully saturated and the reaction velocity asymptotically approaches a number, $V_{max}=k_{cat}\text{[CA$\cdot$Zn]}$, where $k_{cat}$ (the ``turnover number'') is amount of substrate that can be converted to product by a single saturated enzyme molecule in a given unit of time \cite{bib:lehninger_mm}. Thus for sufficiently large concentrations of substrate, the enzyme catalytic activity fulfills the requirement of proportionality to $F_\text{CA$\cdot$Zn}$. Ideally, the determination of the enzymatic activity from $V_{max}$, that is, an \underline{enzyme assay}, can be done using a substrate which is cheap, readily available, and easily measurable. As Figure \ref{fig:pnpa_reaction} shows, carbonic anhydrase happens to hydrolyze para-nitrophenyl acetate (pNPA):
+\begin{figure}[h]
+  \includegraphics[width=.9\textwidth]{./Figures/pnpa_hydrolysis.jpg}\\
+  \caption{Carbonic anhydrase-catalyzed hydrolysis of para-nitrophenyl acetate (pNPA) to para-nitrophenol and acetic acid \cite{bib:lab_manual}}\label{fig:pnpa_reaction}
+\end{figure}

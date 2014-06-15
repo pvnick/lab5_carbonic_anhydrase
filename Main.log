@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  15 JUN 2014 17:28
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  15 JUN 2014 18:13
 entering extended mode
 **Main.tex
 
@@ -1019,17 +1019,13 @@ File: ./Figures/pnpa_hydrolysis.jpg Graphic file (type jpg)
 <use ./Figures/pnpa_hydrolysis.jpg>
 Package pdftex.def Info: ./Figures/pnpa_hydrolysis.jpg used on input line 139.
 (pdftex.def)             Requested size: 422.77698pt x 54.92355pt.
+ [6]
 
+Package natbib Warning: Citation `bib:quantitative_chem_anal_beer_law' on page 
+7 undefined on input line 147.
 
-Package natbib Warning: Citation `lab_manual' on page 6 undefined on input line
- 140.
-
-
-Package natbib Warning: Citation `lab_manual' on page 6 undefined on input line
- 140.
-
-) [6] [7 <C:/users/pvnick/My Documents/Downloads/Google Drive/pchem labs/lab5_c
-arbonic_anhydrase/Figures/pnpa_hydrolysis.jpg>]
+) [7 <C:/users/pvnick/My Documents/Downloads/Google Drive/pchem labs/lab5_carbo
+nic_anhydrase/Figures/pnpa_hydrolysis.jpg>]
 ("C:\users\pvnick\My Documents\Downloads\Google Drive\pchem labs\lab5_carbonic_
 anhydrase\Results.tex"
 <./Figures/20M_dipic_readings.png, id=47, 471.7625pt x 276.03125pt>
@@ -1106,38 +1102,47 @@ anhydrase\Main.aux"
 ("C:\users\pvnick\My Documents\Downloads\Google Drive\pchem labs\lab5_carbonic_
 anhydrase\Introduction.aux")
 ("C:\users\pvnick\My Documents\Downloads\Google Drive\pchem labs\lab5_carbonic_
-anhydrase\Results.aux")) ) 
+anhydrase\Results.aux")
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 22326 strings out of 493921
- 430059 string characters out of 3138437
- 480794 words of memory out of 3000000
- 25250 multiletter control sequences out of 15000+200000
+ 22329 strings out of 493921
+ 430216 string characters out of 3138437
+ 481794 words of memory out of 3000000
+ 25253 multiletter control sequences out of 15000+200000
  15866 words of font info for 60 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 60i,28n,94p,10321b,519s stack positions out of 5000i,500n,10000p,200000b,50000s
-<Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fo
-nts/type1/public/amsfonts/cm/cmbx10.pfb><Z:/home/pvnick/Downloads/miktex-portab
-le-2.9.5105/fonts/type1/public/amsfonts/cm/cmbx12.pfb><Z:/home/pvnick/Downloads
-/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmbx8.pfb><Z:/home/pvn
-ick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmex10.pf
-b><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfont
-s/cm/cmmi12.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/
-public/amsfonts/cm/cmmi6.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105
-/fonts/type1/public/amsfonts/cm/cmmi8.pfb><Z:/home/pvnick/Downloads/miktex-port
-able-2.9.5105/fonts/type1/public/amsfonts/cm/cmr10.pfb><Z:/home/pvnick/Download
-s/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmr12.pfb><Z:/home/pv
-nick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmr6.pfb
-><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts
-/cm/cmr8.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/pub
-lic/amsfonts/cm/cmss12.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/f
-onts/type1/public/amsfonts/cm/cmssbx10.pfb><Z:/home/pvnick/Downloads/miktex-por
-table-2.9.5105/fonts/type1/public/amsfonts/cm/cmsy10.pfb><Z:/home/pvnick/Downlo
-ads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmsy7.pfb><Z:/home/
-pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmsy8.
-pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfo
-nts/cm/cmti10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type
-1/public/amsfonts/cm/cmti12.pfb>
-Output written on Main.pdf (11 pages, 331549 bytes).
+ 60i,28n,94p,10321b,507s stack positions out of 5000i,500n,10000p,200000b,50000s
+<Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfont
+s/cm/cmbx10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/
+public/amsfonts/cm/cmbx12.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.510
+5/fonts/type1/public/amsfonts/cm/cmbx8.pfb><Z:/home/pvnick/Downloads/miktex-por
+table-2.9.5105/fonts/type1/public/amsfonts/cm/cmex10.pfb><Z:/home/pvnick/Downlo
+ads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmmi12.pfb><Z:/home
+/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmmi6
+.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsf
+onts/cm/cmmi8.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type
+1/public/amsfonts/cm/cmr10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.51
+05/fonts/type1/public/amsfonts/cm/cmr12.pfb><Z:/home/pvnick/Downloads/miktex-po
+rtable-2.9.5105/fonts/type1/public/amsfonts/cm/cmr6.pfb><Z:/home/pvnick/Downloa
+ds/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmr8.pfb><Z:/home/pv
+nick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmss12.p
+fb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfon
+ts/cm/cmssbx10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/typ
+e1/public/amsfonts/cm/cmsy10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.
+5105/fonts/type1/public/amsfonts/cm/cmsy7.pfb><Z:/home/pvnick/Downloads/miktex-
+portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmsy8.pfb><Z:/home/pvnick/Down
+loads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmti10.pfb><Z:/ho
+me/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmt
+i12.pfb>
+Output written on Main.pdf (11 pages, 335357 bytes).
 PDF statistics:
  120 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
