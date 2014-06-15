@@ -16,23 +16,24 @@ When $[dipic] >> [CA]$, that is, when $\frac{[dipic]}{[CA]} \ge 25$, then the re
 \begin{equation}\label{eqn:a}
 \frac{d[\text{apoCA}]}{dt}=k_{obs}[\text{CA$\cdot$Zn}]
 \end{equation}
-The pseudo-first-order rate constant, $k_{obs}$, increases as [L] increases, but levels off at sufficiently high concentrations of L. Biochemists will recognize behavior similar to Michaelis-Menten enzyme kinetics in which the enzyme, CA$\cdot$Zn, and the substrate, L, form a CA$\cdot$Zn$\cdot$L complex with association constant $K_{EML}$ (EML stands for Enzyme-Metal-Ligand). This complex can either revert back to the original species or irreversibly convert to the inactive form of the enzyme, apoCA, and the covalently bound zinc-dipic molecule, ZnL. These two processes occur as follows:
+The pseudo-first-order rate constant, $k_{obs}$, increases as [L] increases, but levels off at sufficiently high concentrations of L. Biochemists will recognize behavior similar to Michaelis-Menten enzyme kinetics in which the enzyme, CA$\cdot$Zn, and the substrate, L, reversibly form a CA$\cdot$Zn$\cdot$L complex with association constant $K_{EML}$ (EML stands for Enzyme-Metal-Ligand):
 \begin{align}\label{eqn:KEML_reaction}
 \ce{CA$\cdot$Zn + L
 <=>[\ce{K_{EML}}]
 CA$\cdot$Zn$\cdot$L}
 \end{align}
+This can be modeled as follows:
+\begin{equation}\label{eqn:KEML_expression}
+K_{EML}=\frac{\text{[CA$\cdot$Zn$\cdot$L]}}{\text{[CA$\cdot$Zn][L]}}
+\end{equation}
+
+CA$\cdot$Zn$\cdot$L can either revert back to the original species or irreversibly convert to the inactive form of the enzyme, apoCA, and the covalently bound zinc-dipic molecule, ZnL:
 \begin{align}\label{eqn:kd_reaction}
 \ce{CA$\cdot$Zn$\cdot$L
 ->[\ce{k_{d}}]
 apoCA + ZnL}
 \end{align}
-
-The following equilibrium expression can be used to model Step \eqref{eqn:KEML_reaction}:
-\begin{equation}\label{eqn:KEML_expression}
-K_{EML}=\frac{\text{[CA$\cdot$Zn$\cdot$L]}}{\text{[CA$\cdot$Zn][L]}}
-\end{equation}
-Step \eqref{eqn:kd_reaction} yields the following differential rate law:
+This yields the following differential rate law:
 \begin{equation}\label{eqn:kd_expression}
 \frac{d[\text{apoCA}]}{dt}=k_{d}[\text{CA$\cdot$Zn$\cdot$L}]
 \end{equation}
