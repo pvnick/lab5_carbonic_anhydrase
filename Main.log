@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  15 JUN 2014 13:18
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  15 JUN 2014 13:21
 entering extended mode
 **Main.tex
 
@@ -1089,7 +1089,7 @@ anhydrase\Results.aux")) )
 Here is how much of TeX's memory you used:
  22304 strings out of 493921
  429531 string characters out of 3138437
- 476697 words of memory out of 3000000
+ 478697 words of memory out of 3000000
  25230 multiletter control sequences out of 15000+200000
  15557 words of font info for 59 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
@@ -1114,7 +1114,7 @@ rtable-2.9.5105/fonts/type1/public/amsfonts/cm/cmsy7.pfb><Z:/home/pvnick/Downlo
 ads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmti10.pfb><Z:/home
 /pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmti1
 2.pfb>
-Output written on Main.pdf (8 pages, 254918 bytes).
+Output written on Main.pdf (8 pages, 254989 bytes).
 PDF statistics:
  102 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
