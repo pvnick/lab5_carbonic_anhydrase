@@ -56,7 +56,11 @@ and can be rearranged as follows:
 \text{[CA$\cdot$Zn]}=\frac{\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}}{1+K_{EML}\text{[L]}_0}
 \end{equation}
 
-Equations \eqref{eqn:kd_expression} and \eqref{eqn:KEML_expression_constant_L} cam be combined to give
-\begin{equation}\label{eqn:rate_apoCA_formation}
+Equations \eqref{eqn:kd_expression} and \eqref{eqn:KEML_expression_constant_L} can be combined to give
+\begin{equation}\label{eqn:rate_apoCA_formation_wrt_kdkeml}
 \frac{d[\text{apoCA}]}{dt}=k_{d}K_{EML}\text{[CA$\cdot$Zn][L]}_0
+\end{equation}
+Therefore, the rate of apoCA formation is first-order with respect to CA$\cdot$Zn. Combining equations \eqref{eqn:rate_apoCA_formation_wrt_kdkeml} and \eqref{eqn:CAZnconc_EMLsub_rearrange} yields
+\begin{equation}\label{eqn:preintegration}
+\frac{d[\text{apoCA}]}{dt}=k_{d}K_{EML}\text{[L]}_0\frac{\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}}{1+K_{EML}\text{[L]}_0}
 \end{equation}
