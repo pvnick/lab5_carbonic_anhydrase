@@ -73,11 +73,23 @@ Rearranging and integrating,
 \end{align}
 The left side must be integrated using u-sub:
 \begin{equation*}
-u=\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}_t \\
+u=\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}_t
+\end{equation*}
+\begin{equation*}
 du=-d[\text{apoCA}]
 \end{equation*}
 To change the integral boundaries,
 \begin{equation*}
-u(t=0)=\text{[CA$\cdot$Zn]}_0\text{, since no inactivated enzyme has been formed} \\
+u(t=0)=\text{[CA$\cdot$Zn]}_0\text{, since no inactivated enzyme has been formed}
+\end{equation*}
+\begin{equation*}
 u(t=t)=\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}_t
 \end{equation*}
+Therefore,
+\begin{equation}
+\int_{[apoCA]_0}^{[apoCA]_t} \frac{d[\text{apoCA}]}{\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}_t}
+=
+-\int_{\text{[CA$\cdot$Zn]}_0}^{\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}_t} \frac{du}{u}
+=
+-ln(u) \Big|_{\text{[CA$\cdot$Zn]}_0}^{\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}_t}
+\end{equation}
