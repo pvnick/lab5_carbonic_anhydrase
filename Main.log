@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  15 JUN 2014 12:43
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  15 JUN 2014 12:50
 entering extended mode
 **Main.tex
 
@@ -917,7 +917,11 @@ Package mhchem Warning: You did not specify a 'version' option for the mhchem
 ("C:\users\pvnick\My Documents\Downloads\Google Drive\pchem labs\lab5_carbonic_
 anhydrase\Main.aux"
 ("C:\users\pvnick\My Documents\Downloads\Google Drive\pchem labs\lab5_carbonic_
-anhydrase\Introduction.aux")
+anhydrase\Introduction.aux"
+
+LaTeX Warning: Label `eqn:CAZnconc_EMLsub' multiply defined.
+
+)
 ("C:\users\pvnick\My Documents\Downloads\Google Drive\pchem labs\lab5_carbonic_
 anhydrase\Results.aux"))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
@@ -1087,14 +1091,14 @@ anhydrase\Introduction.aux")
 ("C:\users\pvnick\My Documents\Downloads\Google Drive\pchem labs\lab5_carbonic_
 anhydrase\Results.aux"))
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 22301 strings out of 493921
- 429434 string characters out of 3138437
- 476660 words of memory out of 3000000
- 25227 multiletter control sequences out of 15000+200000
+ 22304 strings out of 493921
+ 429507 string characters out of 3138437
+ 476710 words of memory out of 3000000
+ 25230 multiletter control sequences out of 15000+200000
  15557 words of font info for 59 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  60i,28n,94p,10321b,507s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1115,7 +1119,7 @@ e/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmsy
 7.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/ams
 fonts/cm/cmti10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/ty
 pe1/public/amsfonts/cm/cmti12.pfb>
-Output written on Main.pdf (8 pages, 238487 bytes).
+Output written on Main.pdf (8 pages, 238646 bytes).
 PDF statistics:
  94 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

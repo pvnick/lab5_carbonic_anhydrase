@@ -13,7 +13,7 @@ In the active form, CA is bound to a \ce{Zn^2+} cofactor (denoted as CA$\cdot$Zn
 
 \subsection{Mechanism}
 When $[dipic] >> [CA]$, that is, when $\frac{[dipic]}{[CA]} \ge 25$, then the removal of zinc is pseudo-first-order with respect to CA$\cdot$Zn because the concentration of dipic, denoted as L, does not change appreciably. Thus the formation of the inactive enzyme, apoCA, can be modeled using the following rate equation:
-\begin{equation}\label{eqn:a}
+\begin{equation}\label{eqn:apoCA_kobs}
 \frac{d[\text{apoCA}]}{dt}=k_{obs}[\text{CA$\cdot$Zn}]
 \end{equation}
 The pseudo-first-order rate constant, $k_{obs}$, increases as [L] increases, but levels off at sufficiently high concentrations of L. Biochemists will recognize behavior similar to Michaelis-Menten enzyme kinetics in which the enzyme, CA$\cdot$Zn, and the substrate, L, reversibly form a CA$\cdot$Zn$\cdot$L complex with association constant $K_{EML}$ (EML stands for Enzyme-Metal-Ligand):
@@ -45,13 +45,18 @@ Recall that $\text{[L]} >> \text{[CA$\cdot$Zn]}$, so [L] can be assumed to stay 
 
 Carbonic anhydrase can exist in one of three forms: the metalloenzyme CA$\cdot$Zn, the enzyme-metal-ligand complex CA$\cdot$Zn$\cdot$L, or the inactivated enzyme apoCA. Initially, all CA is tied up in the metalloenzyme, and none exists as CA$\cdot$Zn$\cdot$L or apoCA. Therefore,
 \begin{equation}\label{eqn:CAZnconc}
-\text{[CA$\cdot$Zn]}=\text{[CA$\cdot$Zn]}_0 - \text{apoCA} - \text{CA$\cdot$Zn$\cdot$L},
+\text{[CA$\cdot$Zn]}=\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]} - \text{CA$\cdot$Zn$\cdot$L},
 \end{equation}
 which can be combined with equation \eqref{eqn:KEML_expression_constant_L} to yield
 \begin{equation}\label{eqn:CAZnconc_EMLsub}
-\text{[CA$\cdot$Zn]}=\text{[CA$\cdot$Zn]}_0 - \text{apoCA} - K_{EML}\text{[CA$\cdot$Zn][L]}_0
+\text{[CA$\cdot$Zn]}=\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]} - K_{EML}\text{[CA$\cdot$Zn][L]}_0
 \end{equation}
 and can be rearranged as follows:
-\begin{equation}\label{eqn:CAZnconc_EMLsub}
+\begin{equation}\label{eqn:CAZnconc_EMLsub_rearrange}
 \text{[CA$\cdot$Zn]}=\frac{\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}}{1+K_{EML}\text{[L]}_0}
+\end{equation}
+
+Equations \eqref{eqn:kd_expression} and \eqref{eqn:KEML_expression_constant_L} cam be combined to give
+\begin{equation}\label{eqn:rate_apoCA_formation}
+\frac{d[\text{apoCA}]}{dt}=k_{d}K_{EML}\text{[CA$\cdot$Zn][L]}_0
 \end{equation}
