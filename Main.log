@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  15 JUN 2014 13:41
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  15 JUN 2014 16:10
 entering extended mode
 **Main.tex
 
@@ -1012,10 +1012,23 @@ Package pdftex.def Info: ./Figures/dipic.jpg used on input line 10.
  [2
 
  <C:/users/pvnick/My Documents/Downloads/Google Drive/pchem labs/lab5_carbonic_
-anhydrase/Figures/dipic.jpg>] [3] [4]) [5]
+anhydrase/Figures/dipic.jpg>] [3] [4]
+Overfull \hbox (36.72742pt too wide) in paragraph at lines 105--107
+\OT1/cmr/m/n/12 Assuming steady-state con-di-tions for CA$\OMS/cmsy/m/n/12 $\O
+T1/cmr/m/n/12 Zn$\OMS/cmsy/m/n/12 $\OT1/cmr/m/n/12 L, that is, [CA$\OMS/cmsy/m
+/n/12 $\OT1/cmr/m/n/12 Zn$\OMS/cmsy/m/n/12 $\OT1/cmr/m/n/12 L] is al-ways neg
+-li-gi-ble, $[]$
+ []
+
+[5]
+
+LaTeX Warning: Reference `eqn:kobs_slope' on page 6 undefined on input line 119
+.
+
+) [6]
 ("C:\users\pvnick\My Documents\Downloads\Google Drive\pchem labs\lab5_carbonic_
 anhydrase\Results.tex"
-<./Figures/20M_dipic_readings.png, id=38, 471.7625pt x 276.03125pt>
+<./Figures/20M_dipic_readings.png, id=41, 471.7625pt x 276.03125pt>
 File: ./Figures/20M_dipic_readings.png Graphic file (type png)
 
 <use ./Figures/20M_dipic_readings.png>
@@ -1023,7 +1036,7 @@ Package pdftex.def Info: ./Figures/20M_dipic_readings.png used on input line 4.
 
 (pdftex.def)             Requested size: 235.88066pt x 138.01527pt.
 
-<./Figures/10M_dipic_readings.png, id=39, 473.77pt x 276.03125pt>
+<./Figures/10M_dipic_readings.png, id=42, 473.77pt x 276.03125pt>
 File: ./Figures/10M_dipic_readings.png Graphic file (type png)
 
 <use ./Figures/10M_dipic_readings.png>
@@ -1034,7 +1047,7 @@ Package pdftex.def Info: ./Figures/10M_dipic_readings.png used on input line 11
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./Figures/05M_dipic_readings.png, id=40, 472.76625pt x 280.04625pt>
+<./Figures/05M_dipic_readings.png, id=43, 472.76625pt x 280.04625pt>
 File: ./Figures/05M_dipic_readings.png Graphic file (type png)
 
 <use ./Figures/05M_dipic_readings.png>
@@ -1045,7 +1058,7 @@ Package pdftex.def Info: ./Figures/05M_dipic_readings.png used on input line 16
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./Figures/032M_dipic_readings.png, id=41, 476.78125pt x 282.05376pt>
+<./Figures/032M_dipic_readings.png, id=44, 476.78125pt x 282.05376pt>
 File: ./Figures/032M_dipic_readings.png Graphic file (type png)
 
 <use ./Figures/032M_dipic_readings.png>
@@ -1056,7 +1069,7 @@ Package pdftex.def Info: ./Figures/032M_dipic_readings.png used on input line 2
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./Figures/016M_dipic_readings.png, id=42, 470.75874pt x 280.04625pt>
+<./Figures/016M_dipic_readings.png, id=45, 470.75874pt x 280.04625pt>
 File: ./Figures/016M_dipic_readings.png Graphic file (type png)
 
 <use ./Figures/016M_dipic_readings.png>
@@ -1067,17 +1080,17 @@ Package pdftex.def Info: ./Figures/016M_dipic_readings.png used on input line 2
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [6
+) [7
 
 
  <C:/users/pvnick/My Documents/Downloads/Google Drive/pchem labs/lab5_carbonic_
-anhydrase/Figures/20M_dipic_readings.png>] [7 <C:/users/pvnick/My Documents/Dow
+anhydrase/Figures/20M_dipic_readings.png>] [8 <C:/users/pvnick/My Documents/Dow
 nloads/Google Drive/pchem labs/lab5_carbonic_anhydrase/Figures/10M_dipic_readin
 gs.png> <C:/users/pvnick/My Documents/Downloads/Google Drive/pchem labs/lab5_ca
 rbonic_anhydrase/Figures/05M_dipic_readings.png> <C:/users/pvnick/My Documents/
 Downloads/Google Drive/pchem labs/lab5_carbonic_anhydrase/Figures/032M_dipic_re
-adings.png>] [8 <C:/users/pvnick/My Documents/Downloads/Google Drive/pchem labs
-/lab5_carbonic_anhydrase/Figures/016M_dipic_readings.png>] [9
+adings.png>] [9 <C:/users/pvnick/My Documents/Downloads/Google Drive/pchem labs
+/lab5_carbonic_anhydrase/Figures/016M_dipic_readings.png>] [10
 
 ]
 ("C:\users\pvnick\My Documents\Downloads\Google Drive\pchem labs\lab5_carbonic_
@@ -1087,14 +1100,17 @@ anhydrase\Introduction.aux")
 ("C:\users\pvnick\My Documents\Downloads\Google Drive\pchem labs\lab5_carbonic_
 anhydrase\Results.aux"))
 
+LaTeX Warning: There were undefined references.
+
+
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 22308 strings out of 493921
- 429626 string characters out of 3138437
- 478724 words of memory out of 3000000
- 25234 multiletter control sequences out of 15000+200000
+ 22312 strings out of 493921
+ 429711 string characters out of 3138437
+ 478733 words of memory out of 3000000
+ 25238 multiletter control sequences out of 15000+200000
  15557 words of font info for 59 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  60i,28n,94p,10321b,507s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1118,9 +1134,9 @@ pe1/public/amsfonts/cm/cmsy7.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.
 5105/fonts/type1/public/amsfonts/cm/cmsy8.pfb><Z:/home/pvnick/Downloads/miktex-
 portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmti10.pfb><Z:/home/pvnick/Dow
 nloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Main.pdf (9 pages, 267631 bytes).
+Output written on Main.pdf (10 pages, 273692 bytes).
 PDF statistics:
- 109 PDF objects out of 1000 (max. 8388607)
+ 112 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  43 words of extra memory for PDF output out of 10000 (max. 10000000)
 

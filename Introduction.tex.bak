@@ -13,7 +13,7 @@ In the active form, CA is bound to a \ce{Zn^2+} cofactor (denoted as CA$\cdot$Zn
 
 \subsection{Mechanism}
 When $[dipic] >> [CA]$, that is, when $\frac{[dipic]}{[CA]} \ge 25$, then the removal of zinc is pseudo-first-order with respect to CA$\cdot$Zn because the concentration of dipic, denoted as L, does not change appreciably. Thus the formation of the inactive enzyme, apoCA, can be modeled using the following rate equation:
-\begin{equation}\label{eqn:a}
+\begin{equation}\label{eqn:apoCA_kobs}
 \frac{d[\text{apoCA}]}{dt}=k_{obs}[\text{CA$\cdot$Zn}]
 \end{equation}
 The pseudo-first-order rate constant, $k_{obs}$, increases as [L] increases, but levels off at sufficiently high concentrations of L. Biochemists will recognize behavior similar to Michaelis-Menten enzyme kinetics in which the enzyme, CA$\cdot$Zn, and the substrate, L, reversibly form a CA$\cdot$Zn$\cdot$L complex with association constant $K_{EML}$ (EML stands for Enzyme-Metal-Ligand):
@@ -43,15 +43,88 @@ Recall that $\text{[L]} >> \text{[CA$\cdot$Zn]}$, so [L] can be assumed to stay 
 \text{[CA$\cdot$Zn$\cdot$L]}=K_{EML}\text{[CA$\cdot$Zn][L]}_0
 \end{equation}
 
-Carbonic anhydrase can exist in one of three forms: the metalloenzyme CA$\cdot$Zn, the enzyme-metal-ligand complex CA$\cdot$Zn$\cdot$L, or the inactivated enzyme apoCA. Initially, all CA is tied up in the metalloenzyme, and none exists as CA$\cdot$Zn$\cdot$L or apoCA. Therefore,
+Carbonic anhydrase can exist in one of three forms: the metalloenzyme CA$\cdot$Zn, the enzyme-metal-ligand complex CA$\cdot$Zn$\cdot$L, or the inactivated enzyme apoCA. Initially, all CA is tied up in the metalloenzyme, and none exists as CA$\cdot$Zn$\cdot$L or apoCA. As the activated form of the enzyme gets bound to L and then inactivated,
 \begin{equation}\label{eqn:CAZnconc}
-\text{[CA$\cdot$Zn]}=\text{[CA$\cdot$Zn]}_0 - \text{apoCA} - \text{CA$\cdot$Zn$\cdot$L},
+\text{[CA$\cdot$Zn]}=\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]} - \text{CA$\cdot$Zn$\cdot$L},
 \end{equation}
 which can be combined with equation \eqref{eqn:KEML_expression_constant_L} to yield
 \begin{equation}\label{eqn:CAZnconc_EMLsub}
-\text{[CA$\cdot$Zn]}=\text{[CA$\cdot$Zn]}_0 - \text{apoCA} - K_{EML}\text{[CA$\cdot$Zn][L]}_0
+\text{[CA$\cdot$Zn]}=\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]} - K_{EML}\text{[CA$\cdot$Zn][L]}_0
 \end{equation}
 and can be rearranged as follows:
-\begin{equation}\label{eqn:CAZnconc_EMLsub}
+\begin{equation}\label{eqn:CAZnconc_EMLsub_rearrange}
 \text{[CA$\cdot$Zn]}=\frac{\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}}{1+K_{EML}\text{[L]}_0}
 \end{equation}
+
+Equations \eqref{eqn:kd_expression} and \eqref{eqn:KEML_expression_constant_L} can be combined to give
+\begin{equation}\label{eqn:rate_apoCA_formation_wrt_kdkeml}
+\frac{d[\text{apoCA}]}{dt}=k_{d}K_{EML}\text{[CA$\cdot$Zn][L]}_0
+\end{equation}
+Therefore, the rate of apoCA formation is first-order with respect to CA$\cdot$Zn. Combining equations \eqref{eqn:rate_apoCA_formation_wrt_kdkeml} and \eqref{eqn:CAZnconc_EMLsub_rearrange} yields
+\begin{equation}\label{eqn:preintegration}
+\frac{d[\text{apoCA}]}{dt}=k_{d}K_{EML}\text{[L]}_0\frac{\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}}{1+K_{EML}\text{[L]}_0}
+\end{equation}
+Rearranging and integrating,
+\begin{align}\label{eqn:kdkeml_integral}
+\begin{split}
+\int_{[apoCA]_0}^{[apoCA]_t} \frac{d[\text{apoCA}]}{\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}_t} &= \int_0^t \frac{k_{d}K_{EML}\text{[L]}_0}{1+K_{EML}\text{[L]}_0}dt \\
+&= \frac{k_{d}K_{EML}\text{[L]}_0}{1+K_{EML}\text{[L]}_0}t
+\end{split}
+\end{align}
+The left side must be integrated using u-sub:
+\begin{equation*}
+u=\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}_t
+\end{equation*}
+\begin{equation*}
+du=-d[\text{apoCA}]
+\end{equation*}
+To change the integral boundaries,
+\begin{equation*}
+u(t=0)=\text{[CA$\cdot$Zn]}_0\text{, since no inactivated enzyme has been formed}
+\end{equation*}
+\begin{equation*}
+u(t=t)=\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}_t
+\end{equation*}
+Therefore,
+\begin{align}\label{eqn:long_integral}
+\begin{split}
+\int_{[apoCA]_0}^{[apoCA]_t} \frac{d[\text{apoCA}]}{\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}_t}
+&=
+-\int_{\text{[CA$\cdot$Zn]}_0}^{\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}_t} \frac{du}{u} \\
+&=
+-ln(u) \Big|_{\text{[CA$\cdot$Zn]}_0}^{\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}_t} \\
+&= -ln \left( \frac{\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}}{\text{[CA$\cdot$Zn]}_0} \right)
+\end{split}
+\end{align}
+
+Combining the evaluated integrals from equations \eqref{eqn:long_integral} and \eqref{eqn:kdkeml_integral} yields
+\begin{equation}\label{eqn:integrated_rate_law}
+ln \left( \frac{\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}}{\text{[CA$\cdot$Zn]}_0} \right) 
+=
+-\frac{k_{d}K_{EML}\text{[L]}_0}{1+K_{EML}\text{[L]}_0}t 
+\end{equation}
+Assuming steady-state conditions for CA$\cdot$Zn$\cdot$L, that is, [CA$\cdot$Zn$\cdot$L] is always negligible, $\frac{\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}}{\text{[CA$\cdot$Zn]}_0}$ is simply the fraction of CA$\cdot$Zn remaining after reaction time $t$ and can be referred to as $F_\text{CA$\cdot$Zn}$:
+\begin{equation}\label{eqn:integrated_rate_law_frac}
+ln \left( F_\text{CA$\cdot$Zn} \right)
+=
+-\frac{k_{d}K_{EML}\text{[L]}_0}{1+K_{EML}\text{[L]}_0}t
+\end{equation}
+Since $-\frac{k_{d}K_{EML}\text{[L]}_0}{1+K_{EML}\text{[L]}_0}$ is a constant for a given concentration of dipic, equation \eqref{eqn:integrated_rate_law_frac} exhibits linear behavior. Therefore, a linear least squares regression procedure can be performed for measurements of $ln \left( F_\text{CA$\cdot$Zn} \right)$ over time, and the slope, denoted $-k_{obs}$, will be 
+\begin{equation}\label{eqn:kobs_slope}
+-k_{obs}
+=
+-\frac{k_{d}K_{EML}\text{[L]}_0}{1+K_{EML}\text{[L]}_0}
+\end{equation}
+
+Taking the reciprocal of equation \eqref{eqn:kobs_slope} yields
+\begin{equation}\label{eqn:kobs_slope_reciprocal}
+\begin{split}
+\frac{1}{k_{obs}}
+&=
+\frac{1+K_{EML}\text{[L]}_0}{k_{d}K_{EML}\text{[L]}_0} \\
+&= \frac{1}{k_{d}K_{EML}\text{[L]}_0} + \frac{K_{EML}\text{[L]}_0}{k_{d}K_{EML}\text{[L]}_0} \\
+&= \frac{1}{k_{d}K_{EML}} \times \frac{1}{\text{[L]}_0} + \frac{1}{k_{d}}
+\end{split}
+\end{equation}
+
+ 

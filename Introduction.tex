@@ -103,10 +103,33 @@ ln \left( \frac{\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}}{\text{[CA$\cdot$Zn]}_0}
 =
 -\frac{k_{d}K_{EML}\text{[L]}_0}{1+K_{EML}\text{[L]}_0}t 
 \end{equation}
-Notice that $\frac{\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}}{\text{[CA$\cdot$Zn]}_0}$ is simply the fraction of CA$\cdot$Zn remaining after reaction time $t$ and can be referred to as $F_\text{[CA$\cdot$Zn]}$:
+Assuming steady-state conditions for CA$\cdot$Zn$\cdot$L, that is, [CA$\cdot$Zn$\cdot$L] is always negligible, $\frac{\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}}{\text{[CA$\cdot$Zn]}_0}$ is simply the fraction of CA$\cdot$Zn remaining after reaction time $t$ and can be referred to as $F_\text{CA$\cdot$Zn}$:
 \begin{equation}\label{eqn:integrated_rate_law_frac}
-ln F_\text{[CA$\cdot$Zn]}
+ln \left( F_\text{CA$\cdot$Zn} \right)
 =
 -\frac{k_{d}K_{EML}\text{[L]}_0}{1+K_{EML}\text{[L]}_0}t
 \end{equation}
- 
+Since $-\frac{k_{d}K_{EML}\text{[L]}_0}{1+K_{EML}\text{[L]}_0}$ is a constant for a given concentration of dipic, equation \eqref{eqn:integrated_rate_law_frac} exhibits linear behavior. Therefore, a linear least squares regression procedure can be performed for measurements of $ln \left( F_\text{CA$\cdot$Zn} \right)$ over time, and the slope, denoted $-k_{obs}$, will be 
+\begin{equation}\label{eqn:kobs_slope}
+-k_{obs}
+=
+-\frac{k_{d}K_{EML}\text{[L]}_0}{1+K_{EML}\text{[L]}_0}
+\end{equation}
+
+Taking the reciprocal of equation \eqref{eqn:kobs_slope} yields
+\begin{equation}\label{eqn:kobs_slope_reciprocal}
+\begin{split}
+\frac{1}{k_{obs}}
+&=
+\frac{1+K_{EML}\text{[L]}_0}{k_{d}K_{EML}\text{[L]}_0} \\
+&= \frac{1}{k_{d}K_{EML}\text{[L]}_0} + \frac{K_{EML}\text{[L]}_0}{k_{d}K_{EML}\text{[L]}_0} \\
+&= \frac{1}{k_{d}K_{EML}} \times \frac{1}{\text{[L]}_0} + \frac{1}{k_{d}}
+\end{split}
+\end{equation}
+Again, one can see a linear pattern; measuring $k_{obs}$ at several different dipic concentrations enables performing a least squares regression procedure on $\frac{1}{k_{obs}}$ versus $\frac{1}{\text{[L]}_0}$ to determine the slope, $m=\frac{1}{k_{d}K_{EML}}$, and intercept, $b=\frac{1}{k_{d}}$. $k_d$ and $K_{EML}$ are thus calculated as follows:
+\begin{equation}\label{eqn:calculating_kd}
+k_d=\frac{1}{b}
+\end{equation}
+\begin{equation}\label{eqn:calculating_keml}
+K_{EML}=\frac{b}{m}
+\end{equation}
