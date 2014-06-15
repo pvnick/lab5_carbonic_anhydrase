@@ -86,10 +86,13 @@ u(t=0)=\text{[CA$\cdot$Zn]}_0\text{, since no inactivated enzyme has been formed
 u(t=t)=\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}_t
 \end{equation*}
 Therefore,
-\begin{equation}
+\begin{align}
+\begin{split}
 \int_{[apoCA]_0}^{[apoCA]_t} \frac{d[\text{apoCA}]}{\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}_t}
-=
--\int_{\text{[CA$\cdot$Zn]}_0}^{\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}_t} \frac{du}{u}
-=
--ln(u) \Big|_{\text{[CA$\cdot$Zn]}_0}^{\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}_t}
-\end{equation}
+&=
+-\int_{\text{[CA$\cdot$Zn]}_0}^{\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}_t} \frac{du}{u} \\
+&=
+-ln(u) \Big|_{\text{[CA$\cdot$Zn]}_0}^{\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}_t} \\
+&= -ln \left( \frac{\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}_t}{\text{[CA$\cdot$Zn]}_0} \right)
+\end{split}
+\end{align}
