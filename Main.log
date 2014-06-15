@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  15 JUN 2014 13:33
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  15 JUN 2014 13:37
 entering extended mode
 **Main.tex
 
@@ -1012,7 +1012,16 @@ Package pdftex.def Info: ./Figures/dipic.jpg used on input line 10.
  [2
 
  <C:/users/pvnick/My Documents/Downloads/Google Drive/pchem labs/lab5_carbonic_
-anhydrase/Figures/dipic.jpg>] [3] [4]) [5]
+anhydrase/Figures/dipic.jpg>] [3] [4]
+
+LaTeX Warning: Reference `eqn:long_integral' on page 5 undefined on input line 
+100.
+
+
+LaTeX Warning: Reference `eqn:kdkeml_integral' on page 5 undefined on input lin
+e 100.
+
+) [5]
 ("C:\users\pvnick\My Documents\Downloads\Google Drive\pchem labs\lab5_carbonic_
 anhydrase\Results.tex"
 <./Figures/20M_dipic_readings.png, id=38, 471.7625pt x 276.03125pt>
@@ -1085,37 +1094,43 @@ anhydrase\Main.aux"
 ("C:\users\pvnick\My Documents\Downloads\Google Drive\pchem labs\lab5_carbonic_
 anhydrase\Introduction.aux")
 ("C:\users\pvnick\My Documents\Downloads\Google Drive\pchem labs\lab5_carbonic_
-anhydrase\Results.aux")) ) 
+anhydrase\Results.aux"))
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 22304 strings out of 493921
- 429531 string characters out of 3138437
+ 22307 strings out of 493921
+ 429596 string characters out of 3138437
  478697 words of memory out of 3000000
- 25230 multiletter control sequences out of 15000+200000
+ 25233 multiletter control sequences out of 15000+200000
  15557 words of font info for 59 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  60i,28n,94p,10321b,507s stack positions out of 5000i,500n,10000p,200000b,50000s
-<Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fo
-nts/type1/public/amsfonts/cm/cmbx10.pfb><Z:/home/pvnick/Downloads/miktex-portab
-le-2.9.5105/fonts/type1/public/amsfonts/cm/cmbx12.pfb><Z:/home/pvnick/Downloads
-/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmex10.pfb><Z:/home/pv
-nick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmmi12.p
-fb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfon
-ts/cm/cmmi6.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/
-public/amsfonts/cm/cmmi8.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105
-/fonts/type1/public/amsfonts/cm/cmr10.pfb><Z:/home/pvnick/Downloads/miktex-port
-able-2.9.5105/fonts/type1/public/amsfonts/cm/cmr12.pfb><Z:/home/pvnick/Download
-s/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmr6.pfb><Z:/home/pvn
-ick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-<Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/
-cm/cmss12.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/pu
-blic/amsfonts/cm/cmssbx10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.510
-5/fonts/type1/public/amsfonts/cm/cmsy10.pfb><Z:/home/pvnick/Downloads/miktex-po
-rtable-2.9.5105/fonts/type1/public/amsfonts/cm/cmsy7.pfb><Z:/home/pvnick/Downlo
-ads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmsy8.pfb><Z:/home/
-pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmti10
+<Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfont
+s/cm/cmbx10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/
+public/amsfonts/cm/cmbx12.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.510
+5/fonts/type1/public/amsfonts/cm/cmex10.pfb><Z:/home/pvnick/Downloads/miktex-po
+rtable-2.9.5105/fonts/type1/public/amsfonts/cm/cmmi12.pfb><Z:/home/pvnick/Downl
+oads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmmi6.pfb><Z:/home
+/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmmi8
 .pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsf
-onts/cm/cmti12.pfb>
-Output written on Main.pdf (9 pages, 266592 bytes).
+onts/cm/cmr10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type
+1/public/amsfonts/cm/cmr12.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.51
+05/fonts/type1/public/amsfonts/cm/cmr6.pfb><Z:/home/pvnick/Downloads/miktex-por
+table-2.9.5105/fonts/type1/public/amsfonts/cm/cmr8.pfb><Z:/home/pvnick/Download
+s/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmss12.pfb><Z:/home/p
+vnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmssbx1
+0.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/ams
+fonts/cm/cmsy10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/ty
+pe1/public/amsfonts/cm/cmsy7.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.
+5105/fonts/type1/public/amsfonts/cm/cmsy8.pfb><Z:/home/pvnick/Downloads/miktex-
+portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmti10.pfb><Z:/home/pvnick/Dow
+nloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Main.pdf (9 pages, 267162 bytes).
 PDF statistics:
  109 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

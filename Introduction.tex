@@ -65,7 +65,7 @@ Therefore, the rate of apoCA formation is first-order with respect to CA$\cdot$Z
 \frac{d[\text{apoCA}]}{dt}=k_{d}K_{EML}\text{[L]}_0\frac{\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}}{1+K_{EML}\text{[L]}_0}
 \end{equation}
 Rearranging and integrating,
-\begin{align}
+\begin{align}\label{eqn:kdkeml_integral}
 \begin{split}
 \int_{[apoCA]_0}^{[apoCA]_t} \frac{d[\text{apoCA}]}{\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}_t} &= \int_0^t \frac{k_{d}K_{EML}\text{[L]}_0}{1+K_{EML}\text{[L]}_0}dt \\
 &= \frac{k_{d}K_{EML}\text{[L]}_0}{1+K_{EML}\text{[L]}_0}t
@@ -86,7 +86,7 @@ u(t=0)=\text{[CA$\cdot$Zn]}_0\text{, since no inactivated enzyme has been formed
 u(t=t)=\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}_t
 \end{equation*}
 Therefore,
-\begin{align}
+\begin{align}\label{eqn:long_integral}
 \begin{split}
 \int_{[apoCA]_0}^{[apoCA]_t} \frac{d[\text{apoCA}]}{\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}_t}
 &=
@@ -96,3 +96,10 @@ Therefore,
 &= -ln \left( \frac{\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}_t}{\text{[CA$\cdot$Zn]}_0} \right)
 \end{split}
 \end{align}
+
+Combining the evaluated integrals from equations \eqref{eqn:long_integral} and \eqref{eqn:kdkeml_integral} yields
+\begin{equation}\label{eqn:integrated_rate_law}
+ln \left( \frac{\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}_t}{\text{[CA$\cdot$Zn]}_0} \right) 
+=
+-\frac{k_{d}K_{EML}\text{[L]}_0}{1+K_{EML}\text{[L]}_0}t 
+\end{equation}
