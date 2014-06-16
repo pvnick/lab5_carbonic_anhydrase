@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  16 JUN 2014 17:16
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  16 JUN 2014 17:18
 entering extended mode
 **Main.tex
 
@@ -914,20 +914,114 @@ Package mhchem Warning: You did not specify a 'version' option for the mhchem
 (mhchem)                mhchem.
 
 )
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\base\textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\base\ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 311.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 312.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 313.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 314.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 315.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 316.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 317.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 318.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 319.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 320.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 321.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 322.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 323.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 324.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 326.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 327.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 328.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 329.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 330.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 331.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 332.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 333.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 334.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 335.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 336.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 337.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
+)
 ("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Main
-.aux")
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
+.aux"
+("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Intr
+oduction.aux")
+("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Proc
+edure.aux")
+("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Resu
+lts.aux"))
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 33.
+
+(Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\base\ts1cmr.fd
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 33.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -984,12 +1078,12 @@ ii
 \makeMPintoPDFobject=\count182
 \everyMPtoPDFconversion=\toks58
 ) ABD: EveryShipout initializing macros
-LaTeX Font Info:    Try loading font information for U+msa on input line 32.
+LaTeX Font Info:    Try loading font information for U+msa on input line 33.
 
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 32.
+LaTeX Font Info:    Try loading font information for U+msb on input line 33.
 
 (Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\tex\latex\amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -998,125 +1092,39 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 {Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/pdftex/config/pdftex.map}]
 ("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Intr
-oduction.tex"
-
-LaTeX Warning: Reference `fig:dipic' on page 2 undefined on input line 8.
-
-<./Figures/dipic.jpg, id=17, 569.12625pt x 323.2075pt>
+oduction.tex" <./Figures/dipic.jpg, id=17, 569.12625pt x 323.2075pt>
 File: ./Figures/dipic.jpg Graphic file (type jpg)
 
 <use ./Figures/dipic.jpg>
 Package pdftex.def Info: ./Figures/dipic.jpg used on input line 10.
 (pdftex.def)             Requested size: 284.56242pt x 161.60335pt.
-
-
-Package natbib Warning: Citation `bib:lab_manual' on page 2 undefined on input 
-line 11.
-
-
-Package natbib Warning: Citation `bib:lab_manual' on page 2 undefined on input 
-line 11.
-
-[2
+ [2
 
  <Z:/home/pvnick/Downloads/Google Drive/pchem labs/lab5_carbonic_anhydrase/Figu
-res/dipic.jpg>]
-
-LaTeX Warning: Reference `eqn:kd_reaction' on page 3 undefined on input line 40
-.
-
-
-LaTeX Warning: Reference `eqn:KEML_expression' on page 3 undefined on input lin
-e 40.
-
-[3]
-
-LaTeX Warning: Reference `eqn:KEML_expression_constant_L' on page 4 undefined o
-n input line 49.
-
-
-LaTeX Warning: Reference `eqn:kd_expression' on page 4 undefined on input line 
-58.
-
-
-LaTeX Warning: Reference `eqn:KEML_expression_constant_L' on page 4 undefined o
-n input line 58.
-
-
-LaTeX Warning: Reference `eqn:rate_apoCA_formation_wrt_kdkeml' on page 4 undefi
-ned on input line 62.
-
-
-LaTeX Warning: Reference `eqn:CAZnconc_EMLsub_rearrange' on page 4 undefined on
- input line 62.
-
-[4]
-
-LaTeX Warning: Reference `eqn:long_integral' on page 5 undefined on input line 
-99.
-
-
-LaTeX Warning: Reference `eqn:kdkeml_integral' on page 5 undefined on input lin
-e 99.
-
-[5]
-
-LaTeX Warning: Reference `eqn:integrated_rate_law_frac' on page 6 undefined on 
-input line 111.
-
-
-LaTeX Warning: Reference `eqn:kobs_slope' on page 6 undefined on input line 118
-.
-
-
-LaTeX Warning: Reference `eqn:integrated_rate_law_frac' on page 6 undefined on 
-input line 137.
-
-
-LaTeX Warning: Reference `eqn:kobs_slope' on page 6 undefined on input line 137
-.
-
-
-Package natbib Warning: Citation `bib:lehninger_mm' on page 6 undefined on inpu
-t line 137.
-
-
-LaTeX Warning: Reference `fig:pnpa_reaction' on page 6 undefined on input line 
-137.
-
-<./Figures/pnpa_hydrolysis.jpg, id=39, 1251.67625pt x 162.6075pt>
+res/dipic.jpg>] [3] [4] [5]
+<./Figures/pnpa_hydrolysis.jpg, id=38, 1251.67625pt x 162.6075pt>
 File: ./Figures/pnpa_hydrolysis.jpg Graphic file (type jpg)
 
 <use ./Figures/pnpa_hydrolysis.jpg>
 Package pdftex.def Info: ./Figures/pnpa_hydrolysis.jpg used on input line 139.
 (pdftex.def)             Requested size: 422.77698pt x 54.92355pt.
-
-
-Package natbib Warning: Citation `bib:lab_manual' on page 6 undefined on input 
-line 140.
-
-
-Package natbib Warning: Citation `bib:lab_manual' on page 6 undefined on input 
-line 140.
-
-[6]
-
-Package natbib Warning: Citation `bib:quantitative_chem_anal_beer_law' on page 
-7 undefined on input line 147.
-
-
-LaTeX Warning: Reference `eqn:integrated_rate_law_frac' on page 7 undefined on 
-input line 147.
-
-) [7 <Z:/home/pvnick/Downloads/Google Drive/pchem labs/lab5_carbonic_anhydrase/
-Figures/pnpa_hydrolysis.jpg>]
+ [6]) [7 <Z:/home/pvnick/Downloads/Google Drive/pchem labs/lab5_carbonic_anhydr
+ase/Figures/pnpa_hydrolysis.jpg>]
 ("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Proc
-edure.tex") [8
+edure.tex"
+
+LaTeX Warning: Command \textmu invalid in math mode on input line 8.
+
+
+LaTeX Warning: Command \textmu invalid in math mode on input line 8.
+
+Missing character: There is no µ in font cmr12!
+) [8
 
 
 ]
 ("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Resu
-lts.tex" <./Figures/20M_dipic_readings.png, id=50, 471.7625pt x 276.03125pt>
+lts.tex" <./Figures/20M_dipic_readings.png, id=49, 471.7625pt x 276.03125pt>
 File: ./Figures/20M_dipic_readings.png Graphic file (type png)
 
 <use ./Figures/20M_dipic_readings.png>
@@ -1124,7 +1132,7 @@ Package pdftex.def Info: ./Figures/20M_dipic_readings.png used on input line 4.
 
 (pdftex.def)             Requested size: 235.88066pt x 138.01527pt.
 
-<./Figures/10M_dipic_readings.png, id=51, 473.77pt x 276.03125pt>
+<./Figures/10M_dipic_readings.png, id=50, 473.77pt x 276.03125pt>
 File: ./Figures/10M_dipic_readings.png Graphic file (type png)
 
 <use ./Figures/10M_dipic_readings.png>
@@ -1135,7 +1143,7 @@ Package pdftex.def Info: ./Figures/10M_dipic_readings.png used on input line 11
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./Figures/05M_dipic_readings.png, id=52, 472.76625pt x 280.04625pt>
+<./Figures/05M_dipic_readings.png, id=51, 472.76625pt x 280.04625pt>
 File: ./Figures/05M_dipic_readings.png Graphic file (type png)
 
 <use ./Figures/05M_dipic_readings.png>
@@ -1146,7 +1154,7 @@ Package pdftex.def Info: ./Figures/05M_dipic_readings.png used on input line 16
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./Figures/032M_dipic_readings.png, id=53, 476.78125pt x 282.05376pt>
+<./Figures/032M_dipic_readings.png, id=52, 476.78125pt x 282.05376pt>
 File: ./Figures/032M_dipic_readings.png Graphic file (type png)
 
 <use ./Figures/032M_dipic_readings.png>
@@ -1157,7 +1165,7 @@ Package pdftex.def Info: ./Figures/032M_dipic_readings.png used on input line 2
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./Figures/016M_dipic_readings.png, id=54, 470.75874pt x 280.04625pt>
+<./Figures/016M_dipic_readings.png, id=53, 470.75874pt x 280.04625pt>
 File: ./Figures/016M_dipic_readings.png Graphic file (type png)
 
 <use ./Figures/016M_dipic_readings.png>
@@ -1178,9 +1186,6 @@ nloads/Google Drive/pchem labs/lab5_carbonic_anhydrase/Figures/05M_dipic_readin
 gs.png> <Z:/home/pvnick/Downloads/Google Drive/pchem labs/lab5_carbonic_anhydra
 se/Figures/032M_dipic_readings.png>] [11 <Z:/home/pvnick/Downloads/Google Drive
 /pchem labs/lab5_carbonic_anhydrase/Figures/016M_dipic_readings.png>]
-
-Package natbib Warning: There were undefined citations.
-
 [12
 
 ]
@@ -1191,52 +1196,39 @@ oduction.aux")
 ("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Proc
 edure.aux")
 ("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Resu
-lts.aux")
-
-Package natbib Warning: Citation(s) may have changed.
-(natbib)                Rerun to get citations correct.
-
-)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+lts.aux")) ) 
 Here is how much of TeX's memory you used:
- 22328 strings out of 493921
- 429932 string characters out of 3138437
- 480505 words of memory out of 3000000
- 25251 multiletter control sequences out of 15000+200000
- 15866 words of font info for 60 fonts, out of 3000000 for 9000
+ 22797 strings out of 493921
+ 437671 string characters out of 3138437
+ 484755 words of memory out of 3000000
+ 25705 multiletter control sequences out of 15000+200000
+ 15894 words of font info for 60 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 60i,28n,94p,10321b,504s stack positions out of 5000i,500n,10000p,200000b,50000s
-<Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfont
-s/cm/cmbx10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/
-public/amsfonts/cm/cmbx12.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.510
-5/fonts/type1/public/amsfonts/cm/cmbx8.pfb><Z:/home/pvnick/Downloads/miktex-por
-table-2.9.5105/fonts/type1/public/amsfonts/cm/cmex10.pfb><Z:/home/pvnick/Downlo
-ads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmmi12.pfb><Z:/home
-/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmmi6
-.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsf
-onts/cm/cmmi8.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type
-1/public/amsfonts/cm/cmr10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.51
-05/fonts/type1/public/amsfonts/cm/cmr12.pfb><Z:/home/pvnick/Downloads/miktex-po
-rtable-2.9.5105/fonts/type1/public/amsfonts/cm/cmr6.pfb><Z:/home/pvnick/Downloa
-ds/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmr8.pfb><Z:/home/pv
-nick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmss12.p
-fb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfon
-ts/cm/cmssbx10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/typ
-e1/public/amsfonts/cm/cmsy10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.
-5105/fonts/type1/public/amsfonts/cm/cmsy7.pfb><Z:/home/pvnick/Downloads/miktex-
-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmsy8.pfb><Z:/home/pvnick/Down
-loads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmti10.pfb><Z:/ho
-me/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmt
-i12.pfb>
-Output written on Main.pdf (12 pages, 340218 bytes).
+ 60i,28n,94p,10342b,507s stack positions out of 5000i,500n,10000p,200000b,50000s
+<Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/publ
+ic/amsfonts/cm/cmbx10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fo
+nts/type1/public/amsfonts/cm/cmbx12.pfb><Z:/home/pvnick/Downloads/miktex-portab
+le-2.9.5105/fonts/type1/public/amsfonts/cm/cmex10.pfb><Z:/home/pvnick/Downloads
+/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmmi12.pfb><Z:/home/pv
+nick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmmi6.pf
+b><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfont
+s/cm/cmmi8.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/p
+ublic/amsfonts/cm/cmr10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/
+fonts/type1/public/amsfonts/cm/cmr12.pfb><Z:/home/pvnick/Downloads/miktex-porta
+ble-2.9.5105/fonts/type1/public/amsfonts/cm/cmr6.pfb><Z:/home/pvnick/Downloads/
+miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmr8.pfb><Z:/home/pvnic
+k/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmss12.pfb>
+<Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/
+cm/cmssbx10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/
+public/amsfonts/cm/cmsy10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.510
+5/fonts/type1/public/amsfonts/cm/cmsy7.pfb><Z:/home/pvnick/Downloads/miktex-por
+table-2.9.5105/fonts/type1/public/amsfonts/cm/cmsy8.pfb><Z:/home/pvnick/Downloa
+ds/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmti10.pfb><Z:/home/
+pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmti12
+.pfb>
+Output written on Main.pdf (12 pages, 331986 bytes).
 PDF statistics:
- 123 PDF objects out of 1000 (max. 8388607)
+ 119 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  48 words of extra memory for PDF output out of 10000 (max. 10000000)
 
