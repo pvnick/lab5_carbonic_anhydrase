@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  16 JUN 2014 16:48
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  16 JUN 2014 16:56
 entering extended mode
 **Main.tex
 
@@ -918,6 +918,8 @@ Package mhchem Warning: You did not specify a 'version' option for the mhchem
 .aux"
 ("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Intr
 oduction.aux")
+("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Proc
+edure.aux")
 ("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Resu
 lts.aux"))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
@@ -1103,40 +1105,37 @@ oduction.aux")
 ("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Proc
 edure.aux")
 ("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Resu
-lts.aux"))
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+lts.aux")) ) 
 Here is how much of TeX's memory you used:
- 22332 strings out of 493921
- 430284 string characters out of 3138437
- 481818 words of memory out of 3000000
- 25252 multiletter control sequences out of 15000+200000
+ 22335 strings out of 493921
+ 430468 string characters out of 3138437
+ 482336 words of memory out of 3000000
+ 25253 multiletter control sequences out of 15000+200000
  15557 words of font info for 59 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  60i,28n,94p,10321b,507s stack positions out of 5000i,500n,10000p,200000b,50000s
-<Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfont
-s/cm/cmbx10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/
-public/amsfonts/cm/cmbx12.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.510
-5/fonts/type1/public/amsfonts/cm/cmex10.pfb><Z:/home/pvnick/Downloads/miktex-po
-rtable-2.9.5105/fonts/type1/public/amsfonts/cm/cmmi12.pfb><Z:/home/pvnick/Downl
-oads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmmi6.pfb><Z:/home
-/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmmi8
-.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsf
-onts/cm/cmr10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type
-1/public/amsfonts/cm/cmr12.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.51
-05/fonts/type1/public/amsfonts/cm/cmr6.pfb><Z:/home/pvnick/Downloads/miktex-por
-table-2.9.5105/fonts/type1/public/amsfonts/cm/cmr8.pfb><Z:/home/pvnick/Download
-s/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmss12.pfb><Z:/home/p
-vnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmssbx1
-0.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/ams
-fonts/cm/cmsy10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/ty
-pe1/public/amsfonts/cm/cmsy7.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.
-5105/fonts/type1/public/amsfonts/cm/cmsy8.pfb><Z:/home/pvnick/Downloads/miktex-
-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmti10.pfb><Z:/home/pvnick/Dow
-nloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Main.pdf (12 pages, 331518 bytes).
+<Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/publ
+ic/amsfonts/cm/cmbx10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fo
+nts/type1/public/amsfonts/cm/cmbx12.pfb><Z:/home/pvnick/Downloads/miktex-portab
+le-2.9.5105/fonts/type1/public/amsfonts/cm/cmex10.pfb><Z:/home/pvnick/Downloads
+/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmmi12.pfb><Z:/home/pv
+nick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmmi6.pf
+b><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfont
+s/cm/cmmi8.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/p
+ublic/amsfonts/cm/cmr10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/
+fonts/type1/public/amsfonts/cm/cmr12.pfb><Z:/home/pvnick/Downloads/miktex-porta
+ble-2.9.5105/fonts/type1/public/amsfonts/cm/cmr6.pfb><Z:/home/pvnick/Downloads/
+miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmr8.pfb><Z:/home/pvnic
+k/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmss12.pfb>
+<Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/
+cm/cmssbx10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/
+public/amsfonts/cm/cmsy10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.510
+5/fonts/type1/public/amsfonts/cm/cmsy7.pfb><Z:/home/pvnick/Downloads/miktex-por
+table-2.9.5105/fonts/type1/public/amsfonts/cm/cmsy8.pfb><Z:/home/pvnick/Downloa
+ds/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmti10.pfb><Z:/home/
+pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmti12
+.pfb>
+Output written on Main.pdf (12 pages, 331597 bytes).
 PDF statistics:
  119 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
