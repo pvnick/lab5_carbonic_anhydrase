@@ -108,7 +108,7 @@ ln \left( F_\text{CA$\cdot$Zn} \right)
 =
 -\frac{k_{d}K_{EML}\text{[L]}_0}{1+K_{EML}\text{[L]}_0}t
 \end{equation}
-Since $-\frac{k_{d}K_{EML}\text{[L]}_0}{1+K_{EML}\text{[L]}_0}$ is a constant for a given concentration of dipic, equation \eqref{eqn:integrated_rate_law_frac} exhibits linear behavior. Therefore, a linear least squares regression procedure can be performed for measurements of $ln \left( F_\text{CA$\cdot$Zn} \right)$ over time, and the slope, denoted $-k_{obs}$, will be 
+Since $-\frac{k_{d}K_{EML}\text{[L]}_0}{1+K_{EML}\text{[L]}_0}$ is a constant for a given concentration of dipic, equation \eqref{eqn:integrated_rate_law_frac} exhibits linear behavior while the solution contains active enzyme. Therefore, a linear least squares regression procedure can be performed for measurements of $ln \left( F_\text{CA$\cdot$Zn} \right)$ over time (until those measurements level off, which indicates that all the enzyme is used up), and the slope, denoted $-k_{obs}$, will be
 \begin{equation}\label{eqn:kobs_slope}
 -k_{obs}
 =
@@ -134,8 +134,14 @@ K_{EML}=\frac{b}{m}
 \end{equation}
 
 \subsection{Rate Measurements}
-While equations \eqref{eqn:integrated_rate_law_frac} and \eqref{eqn:kobs_slope} seem to imply that the determination of $k_{obs}$ requires knowing [CA$\cdot$Zn] or [apoCA] at any point in time, in reality a plot of $f(t)$ vs $t$, where $f(t)$ is proportional to $F_\text{CA$\cdot$Zn}$, will still exhibit the same slope $-k_{obs}$. The Michaelis-Menten kinetics model states that, for sufficiently large substrate concentrations, the enzyme is fully saturated and the reaction velocity asymptotically approaches a number, $V_{max}=k_{cat}\text{[CA$\cdot$Zn]}$, where $k_{cat}$ (the ``turnover number'') is amount of substrate that can be converted to product by a single saturated enzyme molecule in a given unit of time \cite{bib:lehninger_mm}. Thus for sufficiently large concentrations of substrate, the enzyme catalytic activity fulfills the requirement of proportionality to $F_\text{CA$\cdot$Zn}$. Ideally, the determination of the enzymatic activity from $V_{max}$, that is, an \underline{enzyme assay}, can be done using a substrate which is cheap, readily available, and easily measurable. As Figure \ref{fig:pnpa_reaction} shows, carbonic anhydrase happens to hydrolyze para-nitrophenyl acetate (pNPA):
+While equations \eqref{eqn:integrated_rate_law_frac} and \eqref{eqn:kobs_slope} seem to imply that the determination of $k_{obs}$ requires knowing [CA$\cdot$Zn] or [apoCA] at any point in time, in reality a plot of $f(t)$ vs $t$, where $f(t)$ is proportional to $F_\text{CA$\cdot$Zn}$, will still exhibit the same slope $-k_{obs}$. The Michaelis-Menten kinetics model states that, for sufficiently large substrate concentrations, the enzyme is fully saturated and the reaction velocity asymptotically approaches a number, $V_{max}=k_{cat}\text{[CA$\cdot$Zn]}$, where $k_{cat}$ (the ``turnover number'') is amount of substrate that can be converted to product by a single saturated enzyme molecule in a given unit of time \cite{bib:lehninger_mm}. Thus for sufficiently large concentrations of substrate, the enzyme catalytic activity fulfills the requirement of proportionality to $F_\text{CA$\cdot$Zn}$. Ideally, the determination of the enzymatic activity from $V_{max}$, that is, an \underline{enzyme assay}, can be done using a substrate which is cheap, readily available, and easily measurable. As Figure \ref{fig:pnpa_reaction} shows, carbonic anhydrase happens to hydrolyze para-nitrophenyl acetate (pNPA) to form para-nitrophenol and acetic acid:
 \begin{figure}[h]
   \includegraphics[width=.9\textwidth]{./Figures/pnpa_hydrolysis.jpg}\\
   \caption{Carbonic anhydrase-catalyzed hydrolysis of para-nitrophenyl acetate (pNPA) to para-nitrophenol and acetic acid \cite{bib:lab_manual}}\label{fig:pnpa_reaction}
 \end{figure}
+
+Para-nitrophenol absorbs strongly at 348nm. Recall that Beer's law states
+\begin{equation}\label{eqn:beers_law}
+A=\epsilon b c
+\end{equation}
+where $A$ is the measured absorbance at a particular wavelength, $\epsilon$ is the molar absorptivity, $b$ is the measurement path length, and $c$ is the concentration \cite{bib:quantitative_chem_anal_beer_law}. Therefore, $\frac{dA}{dt}$ is proportional to the change in para-nitrophenol (that is, the reaction velocity). Because the reaction occurs to a nontrivial extent without enzyme catalysis, a baseline correction is needed, $(\frac{dA}{dt})_{uncat}$, which can be obtained either from a solution containing only pNPA or a mixture of pNPA and apoCA (that is, after sufficient time has passed to inactivated all carbonic anhydrase before taking the assay). Thus, equation \eqref{eqn:integrated_rate_law_frac} can be implemented using $ln \left( \frac{ \frac{dA}{dt} }{ \left (\frac{dA}{dt}\right)_{uncat} } \right)$. 
