@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  16 JUN 2014 17:06
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  16 JUN 2014 17:10
 entering extended mode
 **Main.tex
 
@@ -915,13 +915,7 @@ Package mhchem Warning: You did not specify a 'version' option for the mhchem
 
 )
 ("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Main
-.aux"
-("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Intr
-oduction.aux")
-("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Proc
-edure.aux")
-("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Resu
-lts.aux"))
+.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
 LaTeX Font Info:    ... okay on input line 32.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
@@ -1004,36 +998,125 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 {Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/pdftex/config/pdftex.map}]
 ("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Intr
-oduction.tex" <./Figures/dipic.jpg, id=17, 569.12625pt x 323.2075pt>
+oduction.tex"
+
+LaTeX Warning: Reference `fig:dipic' on page 2 undefined on input line 8.
+
+<./Figures/dipic.jpg, id=17, 569.12625pt x 323.2075pt>
 File: ./Figures/dipic.jpg Graphic file (type jpg)
 
 <use ./Figures/dipic.jpg>
 Package pdftex.def Info: ./Figures/dipic.jpg used on input line 10.
 (pdftex.def)             Requested size: 284.56242pt x 161.60335pt.
- [2
+
+
+Package natbib Warning: Citation `bib:lab_manual' on page 2 undefined on input 
+line 11.
+
+
+Package natbib Warning: Citation `bib:lab_manual' on page 2 undefined on input 
+line 11.
+
+[2
 
  <Z:/home/pvnick/Downloads/Google Drive/pchem labs/lab5_carbonic_anhydrase/Figu
-res/dipic.jpg>] [3] [4] [5]
-<./Figures/pnpa_hydrolysis.jpg, id=38, 1251.67625pt x 162.6075pt>
+res/dipic.jpg>]
+
+LaTeX Warning: Reference `eqn:kd_reaction' on page 3 undefined on input line 40
+.
+
+
+LaTeX Warning: Reference `eqn:KEML_expression' on page 3 undefined on input lin
+e 40.
+
+[3]
+
+LaTeX Warning: Reference `eqn:KEML_expression_constant_L' on page 4 undefined o
+n input line 49.
+
+
+LaTeX Warning: Reference `eqn:kd_expression' on page 4 undefined on input line 
+58.
+
+
+LaTeX Warning: Reference `eqn:KEML_expression_constant_L' on page 4 undefined o
+n input line 58.
+
+
+LaTeX Warning: Reference `eqn:rate_apoCA_formation_wrt_kdkeml' on page 4 undefi
+ned on input line 62.
+
+
+LaTeX Warning: Reference `eqn:CAZnconc_EMLsub_rearrange' on page 4 undefined on
+ input line 62.
+
+[4]
+
+LaTeX Warning: Reference `eqn:long_integral' on page 5 undefined on input line 
+99.
+
+
+LaTeX Warning: Reference `eqn:kdkeml_integral' on page 5 undefined on input lin
+e 99.
+
+[5]
+
+LaTeX Warning: Reference `eqn:integrated_rate_law_frac' on page 6 undefined on 
+input line 111.
+
+
+LaTeX Warning: Reference `eqn:kobs_slope' on page 6 undefined on input line 118
+.
+
+
+LaTeX Warning: Reference `eqn:integrated_rate_law_frac' on page 6 undefined on 
+input line 137.
+
+
+LaTeX Warning: Reference `eqn:kobs_slope' on page 6 undefined on input line 137
+.
+
+
+Package natbib Warning: Citation `bib:lehninger_mm' on page 6 undefined on inpu
+t line 137.
+
+
+LaTeX Warning: Reference `fig:pnpa_reaction' on page 6 undefined on input line 
+137.
+
+<./Figures/pnpa_hydrolysis.jpg, id=39, 1251.67625pt x 162.6075pt>
 File: ./Figures/pnpa_hydrolysis.jpg Graphic file (type jpg)
 
 <use ./Figures/pnpa_hydrolysis.jpg>
 Package pdftex.def Info: ./Figures/pnpa_hydrolysis.jpg used on input line 139.
 (pdftex.def)             Requested size: 422.77698pt x 54.92355pt.
- [6]) [7 <Z:/home/pvnick/Downloads/Google Drive/pchem labs/lab5_carbonic_anhydr
-ase/Figures/pnpa_hydrolysis.jpg>]
+
+
+Package natbib Warning: Citation `bib:lab_manual' on page 6 undefined on input 
+line 140.
+
+
+Package natbib Warning: Citation `bib:lab_manual' on page 6 undefined on input 
+line 140.
+
+[6]
+
+Package natbib Warning: Citation `bib:quantitative_chem_anal_beer_law' on page 
+7 undefined on input line 147.
+
+
+LaTeX Warning: Reference `eqn:integrated_rate_law_frac' on page 7 undefined on 
+input line 147.
+
+) [7 <Z:/home/pvnick/Downloads/Google Drive/pchem labs/lab5_carbonic_anhydrase/
+Figures/pnpa_hydrolysis.jpg>]
 ("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Proc
-edure.tex"
-Missing character: There is no µ in font cmr12!
-Missing character: There is no µ in font cmr12!
-Missing character: There is no µ in font cmr12!
-Missing character: There is no µ in font cmr12!
-) [8
+edure.tex") [8
 
 
 ]
 ("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Resu
-lts.tex" <./Figures/20M_dipic_readings.png, id=49, 471.7625pt x 276.03125pt>
+lts.tex" <./Figures/20M_dipic_readings.png, id=50, 471.7625pt x 276.03125pt>
 File: ./Figures/20M_dipic_readings.png Graphic file (type png)
 
 <use ./Figures/20M_dipic_readings.png>
@@ -1041,7 +1124,7 @@ Package pdftex.def Info: ./Figures/20M_dipic_readings.png used on input line 4.
 
 (pdftex.def)             Requested size: 235.88066pt x 138.01527pt.
 
-<./Figures/10M_dipic_readings.png, id=50, 473.77pt x 276.03125pt>
+<./Figures/10M_dipic_readings.png, id=51, 473.77pt x 276.03125pt>
 File: ./Figures/10M_dipic_readings.png Graphic file (type png)
 
 <use ./Figures/10M_dipic_readings.png>
@@ -1052,7 +1135,7 @@ Package pdftex.def Info: ./Figures/10M_dipic_readings.png used on input line 11
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./Figures/05M_dipic_readings.png, id=51, 472.76625pt x 280.04625pt>
+<./Figures/05M_dipic_readings.png, id=52, 472.76625pt x 280.04625pt>
 File: ./Figures/05M_dipic_readings.png Graphic file (type png)
 
 <use ./Figures/05M_dipic_readings.png>
@@ -1063,7 +1146,7 @@ Package pdftex.def Info: ./Figures/05M_dipic_readings.png used on input line 16
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./Figures/032M_dipic_readings.png, id=52, 476.78125pt x 282.05376pt>
+<./Figures/032M_dipic_readings.png, id=53, 476.78125pt x 282.05376pt>
 File: ./Figures/032M_dipic_readings.png Graphic file (type png)
 
 <use ./Figures/032M_dipic_readings.png>
@@ -1074,7 +1157,7 @@ Package pdftex.def Info: ./Figures/032M_dipic_readings.png used on input line 2
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./Figures/016M_dipic_readings.png, id=53, 470.75874pt x 280.04625pt>
+<./Figures/016M_dipic_readings.png, id=54, 470.75874pt x 280.04625pt>
 File: ./Figures/016M_dipic_readings.png Graphic file (type png)
 
 <use ./Figures/016M_dipic_readings.png>
@@ -1095,6 +1178,9 @@ nloads/Google Drive/pchem labs/lab5_carbonic_anhydrase/Figures/05M_dipic_readin
 gs.png> <Z:/home/pvnick/Downloads/Google Drive/pchem labs/lab5_carbonic_anhydra
 se/Figures/032M_dipic_readings.png>] [11 <Z:/home/pvnick/Downloads/Google Drive
 /pchem labs/lab5_carbonic_anhydrase/Figures/016M_dipic_readings.png>]
+
+Package natbib Warning: There were undefined citations.
+
 [12
 
 ]
@@ -1105,39 +1191,52 @@ oduction.aux")
 ("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Proc
 edure.aux")
 ("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Resu
-lts.aux")) ) 
+lts.aux")
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 22335 strings out of 493921
- 430468 string characters out of 3138437
- 482336 words of memory out of 3000000
- 25253 multiletter control sequences out of 15000+200000
- 15557 words of font info for 59 fonts, out of 3000000 for 9000
+ 22328 strings out of 493921
+ 429932 string characters out of 3138437
+ 480505 words of memory out of 3000000
+ 25251 multiletter control sequences out of 15000+200000
+ 15866 words of font info for 60 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 60i,28n,94p,10321b,507s stack positions out of 5000i,500n,10000p,200000b,50000s
-<Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/publ
-ic/amsfonts/cm/cmbx10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fo
-nts/type1/public/amsfonts/cm/cmbx12.pfb><Z:/home/pvnick/Downloads/miktex-portab
-le-2.9.5105/fonts/type1/public/amsfonts/cm/cmex10.pfb><Z:/home/pvnick/Downloads
-/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmmi12.pfb><Z:/home/pv
-nick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmmi6.pf
-b><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfont
-s/cm/cmmi8.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/p
-ublic/amsfonts/cm/cmr10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/
-fonts/type1/public/amsfonts/cm/cmr12.pfb><Z:/home/pvnick/Downloads/miktex-porta
-ble-2.9.5105/fonts/type1/public/amsfonts/cm/cmr6.pfb><Z:/home/pvnick/Downloads/
-miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmr8.pfb><Z:/home/pvnic
-k/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmss12.pfb>
-<Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/
-cm/cmssbx10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/
-public/amsfonts/cm/cmsy10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.510
-5/fonts/type1/public/amsfonts/cm/cmsy7.pfb><Z:/home/pvnick/Downloads/miktex-por
-table-2.9.5105/fonts/type1/public/amsfonts/cm/cmsy8.pfb><Z:/home/pvnick/Downloa
-ds/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmti10.pfb><Z:/home/
-pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmti12
-.pfb>
-Output written on Main.pdf (12 pages, 331675 bytes).
+ 60i,28n,94p,10321b,504s stack positions out of 5000i,500n,10000p,200000b,50000s
+<Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfont
+s/cm/cmbx10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/
+public/amsfonts/cm/cmbx12.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.510
+5/fonts/type1/public/amsfonts/cm/cmbx8.pfb><Z:/home/pvnick/Downloads/miktex-por
+table-2.9.5105/fonts/type1/public/amsfonts/cm/cmex10.pfb><Z:/home/pvnick/Downlo
+ads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmmi12.pfb><Z:/home
+/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmmi6
+.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsf
+onts/cm/cmmi8.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type
+1/public/amsfonts/cm/cmr10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.51
+05/fonts/type1/public/amsfonts/cm/cmr12.pfb><Z:/home/pvnick/Downloads/miktex-po
+rtable-2.9.5105/fonts/type1/public/amsfonts/cm/cmr6.pfb><Z:/home/pvnick/Downloa
+ds/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmr8.pfb><Z:/home/pv
+nick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmss12.p
+fb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfon
+ts/cm/cmssbx10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/typ
+e1/public/amsfonts/cm/cmsy10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.
+5105/fonts/type1/public/amsfonts/cm/cmsy7.pfb><Z:/home/pvnick/Downloads/miktex-
+portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmsy8.pfb><Z:/home/pvnick/Down
+loads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmti10.pfb><Z:/ho
+me/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmt
+i12.pfb>
+Output written on Main.pdf (12 pages, 340218 bytes).
 PDF statistics:
- 119 PDF objects out of 1000 (max. 8388607)
+ 123 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  48 words of extra memory for PDF output out of 10000 (max. 10000000)
 
