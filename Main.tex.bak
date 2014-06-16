@@ -40,6 +40,7 @@ In the past decade, supervised activity recognition methods have been studied by
 
 %=============== Content ===================%
 \include{Introduction}
+\include{Procedure}
 \include{Results}
 
 %=============== Reference ===================%
@@ -63,11 +64,11 @@ In the past decade, supervised activity recognition methods have been studied by
   195 - 200.
 
 \bibitem{bib:quantitative_chem_anal_beer_law}
-    Harris, D. C. 
-    \emph{Quantitative Chemical Analysis}, 
-    7th Ed.; 
-    W. H. Freeman: New York, 
-    2006. 
+    Harris, D. C.
+    \emph{Quantitative Chemical Analysis},
+    7th Ed.;
+    W. H. Freeman: New York,
+    2006.
     381.
 
 \end{thebibliography}

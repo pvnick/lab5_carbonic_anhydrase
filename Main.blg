@@ -2,12 +2,18 @@ This is BibTeX, Version 0.99d (TeX Live 2013/W32TeX)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Main.aux
 The style file: achemso.bst
+A level-1 auxiliary file: Introduction.aux
+A level-1 auxiliary file: Procedure.aux
+A level-1 auxiliary file: Results.aux
 I found no \bibdata command---while reading file Main.aux
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--I didn't find a database entry for "achemso-control"
+Warning--I didn't find a database entry for "bib:lab_manual"
+Warning--I didn't find a database entry for "bib:lehninger_mm"
+Warning--I didn't find a database entry for "bib:quantitative_chem_anal_beer_law"
 You've used 0 entries,
             2478 wiz_defined-function locations,
-            732 strings with 6150 characters,
+            738 strings with 6255 characters,
 and the built_in function-call counts, 61 in all, are:
 = -- 0
 > -- 0
