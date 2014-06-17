@@ -16,7 +16,7 @@ v_{buff}&=v_{soln}-v_{CA}-v_L\\
 \end{split}
 \end{equation*}
 
-As Equation \eqref{eqn:baseline_correction} demonstrates, a baseline correction is needed to convert the raw absorbance velocity, $\left(\frac{dA}{dt}\right)_{t}$, to a proportion which can take the place of $F_\text{CA$\cdot$Zn}$ in Equation \eqref{eqn:integrated_rate_law_frac}. $\left(\frac{dA}{dt}\right)_{uncat}$ was found to be $3.18\times10^{-5}\ sec^{-1}$. One data point that was measured for the 0.10 M dipic concentration experiment was $\left(\frac{dA}{dt}\right)_{t=1.08\ min}=0.00295\ sec^{-1}$. Therefore, (\textbf{note: consider changing t in prior equation to be less ambiguous})
+As Equation \eqref{eqn:baseline_correction} demonstrates, a baseline correction is needed to convert the raw absorbance velocity, $\left(\frac{dA}{dt}\right)_{t}$, to a proportion which can take the place of $F_\text{CA$\cdot$Zn}$ in Equation \eqref{eqn:integrated_rate_law_frac}. $\left(\frac{dA}{dt}\right)_{uncat}$ was found to be $3.18\times10^{-5}\ sec^{-1}$. One data point that was measured for the 0.10 M dipic concentration experiment was $\left(\frac{dA}{dt}\right)_{t=1.08\ min}=0.00295\ sec^{-1}$. Therefore,
 \begin{equation*}
 \begin{split}
 ln \left(\frac{dA}{dt}\right)_{cat}
@@ -26,7 +26,7 @@ ln \left(\frac{dA}{dt}\right)_{cat}
 \end{split}
 \end{equation*}
 
-Recall from Equation \eqref{eqn:integrated_rate_law_frac} that $-k_{obs}$ is the slope obtained from a least-squares regression of multiple assay $ln \left(\frac{dA}{dt}\right)_{cat}$ readings versus CA/dipic reaction time. For 0.10 M dipic, this was found to be $-k_{obs}=-0.090 min^{-1}$ (so $k_{obs}=0.090 min^{-1})$.
+Recall from Equation \eqref{eqn:kobs_slope} that $-k_{obs}$ is the slope obtained from a least-squares regression of multiple assay $ln \left(\frac{dA}{dt}\right)_{cat}$ readings versus CA/dipic reaction time. For 0.10 M dipic, this was found to be $-k_{obs}=-0.090 min^{-1}$ (so $k_{obs}=0.090 min^{-1})$.
 
 Equation \eqref{eqn:kobs_slope_reciprocal} implies that a least-squares regression of $\frac{1}{k_{obs}}$ versus $\frac{1}{\text{[L]}_0}$ gives a slope, $m=\frac{1}{k_{d}K_{EML}}$, and intercept, $b=\frac{1}{k_{d}}$, which can be used to calculate $k_d$ and $K_{EML}$ for the dipic/CA reaction. Empirically, $m$ was found to have a value of $0.5372\ M\cdot{mins}$ ($0.50\ M\cdot{mins}$ rounded to accepted precision from error analysis), and b was found to be $8.513\ mins$ ($9.0\ mins$ rounded to accepted precision from error analysis). Thus,
 \begin{equation}\label{eqn:samp_calc_keml}

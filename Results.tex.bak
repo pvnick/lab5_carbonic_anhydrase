@@ -1,40 +1,49 @@
 \section{Data and Results}
-
+Five experiments were performed using a constant amount of carbonic anhydrase and varying concentrations of dipic. For each experiment, several measurements of CA-catalyzed pNPA hydrolysis velocities, $ln \left(\frac{dA}{dt}\right)_{cat}$, were taken using spectrophotometry and plotted against the CA/dipic reaction time. The results of these experiments are shown in Figure \ref{fig:kobs_results}.
 \begin{figure}[h]
-  \includegraphics[scale=0.5]{./Figures/20M_dipic_readings.png}\\
-  \caption{laksjdf askdfj asdkljfhaslkdjfhaklsdjfh asldkfjhasdlkjfhalksdjfhalksdjfh asldkfjhasdlkfjashdlfkajsdhflkajshdf asdfa sdiufhaisdu fas dfasd fasef asefasef asefas efasefkahsdkjfhaskldjfha sdfasldkfjhasdlfkjasdh falksdjfhalskdjfhasdlkfjah sdflkjashdlkfjah sdlkfjh aslkdjfh aslkdjfhalksdjfhalksjdh flkajsdhf alsdkjfash dflaskdjfah .}\label{fig:0.20M_dipic_readings}
+        \begin{subfigure}{0.5\textwidth}
+                \includegraphics[width=\textwidth]{./Figures/20M_dipic_readings.png}
+                \caption{0.20 M dipic}
+                \label{fig:0.20M_dipic_readings}
+        \end{subfigure}\begin{subfigure}{0.5\textwidth}
+                \includegraphics[width=\textwidth]{./Figures/10M_dipic_readings.png}
+                \caption{0.10 M dipic}
+                \label{fig:0.10M_dipic_readings}
+        \end{subfigure}
+        \begin{subfigure}{0.5\textwidth}
+                \includegraphics[width=\textwidth]{./Figures/05M_dipic_readings.png}
+                \caption{0.05 M dipic}
+                \label{fig:0.05M_dipic_readings}
+        \end{subfigure}\begin{subfigure}{0.5\textwidth}
+                \includegraphics[width=\textwidth]{./Figures/032M_dipic_readings.png}
+                \caption{0.032 M dipic}
+                \label{fig:0.032M_dipic_readings}
+        \end{subfigure}
+        \begin{subfigure}{0.5\textwidth}
+                \includegraphics[width=\textwidth]{./Figures/016M_dipic_readings.png}
+                \caption{0.016 M dipic}
+                \label{fig:0.016M_dipic_readings}
+        \end{subfigure}
+        \caption{$ln \left(\frac{dA}{dt}\right)_{cat}$ measurements versus CA/dipic reaction time for various concentrations of dipic. Slopes of the descending portions of these plots were used to assign values for $k_{obs}$.}\label{fig:kobs_results}
 \end{figure}
 
-In the past decade, supervised activity recognition methods have been studied by many researchers, however these methods still face many challenges in real world settings. Supervised activity recognition methods assume that we are provided with labeled training examples from a set of predefined activities. Annotating and hand labeling data is a very time consuming and laborious task. Also, the assumption of consistent pre-defined activities might not hold in reality. More importantly, these algorithms do not take into account the streaming nature of data, or the possibility that the patterns might change over time. In this chapter, we will provide an overview of the state of the art \emph{unsupervised} methods for activity recognition. In particular, we will describe a scalable activity discovery and recognition method for complex large real world datasets, based on sequential data mining and stream data mining methods.
+From the descending portions of the plots shown in Figure \ref{fig:kobs_results}, five values of $k_{obs}$ were calculated using the slopes determined by least squares regression. The reciprocals of $k_{obs}$ and $\text{[L]}_0$ (dipic concentration) were plotted against each other, as shown in Figure \ref{fig:kobs_vs_l}.
 
 \begin{figure}[h]
-  \includegraphics[scale=0.5]{./Figures/10M_dipic_readings.png}\\
-  \caption{blahblah.}\label{fig:0.10M_dipic_readings}
+  \includegraphics[scale=.5]{./Figures/kobs_vs_l.png}\\
+  \caption{Plot of $\frac{1}{k_{obs}}$ versus $\frac{1}{\text{[L]}_0}$. The slope and intercept of the line passing through these points were determined by least squares regression and used to calculate $K_{EML}$ and $k_d$, demonstrated by Equations \eqref{eqn:samp_calc_keml} and \eqref{eqn:samp_calc_kd} respectively.}\label{fig:kobs_vs_l}
 \end{figure}
 
-\begin{figure}[h]
-  \includegraphics[scale=0.5]{./Figures/05M_dipic_readings.png}\\
-  \caption{blahblah.}\label{fig:0.05M_dipic_readings}
-\end{figure}
+A least squares regression procedure was performed on the data shown in Figure \ref{fig:kobs_vs_l} to retrieve values for the slope and intercept of the line passing through those points. Equations \eqref{eqn:samp_calc_keml} and \eqref{eqn:samp_calc_kd} show how these were used to calculate $K_{EML}$ and $k_d$. Table \ref{tbl:summary} lists these values and their 95\% confidence intervals, as well as accepted values reported in literature.
 
-\begin{figure}[h]
-  \includegraphics[scale=0.5]{./Figures/032M_dipic_readings.png}\\
-  \caption{blahblah.}\label{fig:0.032M_dipic_readings}
-\end{figure}
-
-\begin{figure}[h]
-  \includegraphics[scale=0.5]{./Figures/016M_dipic_readings.png}\\
-  \caption{blahblah.}\label{fig:0.016M_dipic_readings}
-\end{figure}
-
-\begin{center}
-    \begin{tabular}{| l | l |}
+\begin{table}[h]
+    \begin{tabular}{| l | l | l |}
     \hline
     Constant & Empirical Value & Accepted Value \\ \hline
-    K_{EML} & (20\pm{18}){\ }M^{-1} & foobar \\ \hline
-    k_{d} & (0.10\pm{0.10}){\ }mins^{-1} & blah \\ 
+    $K_{EML}$ & $(20\pm{18}){\ }M^{-1}$ & foobar \\ \hline
+    $k_{d}$ & $(0.10\pm{0.10}){\ }mins^{-1}$ & blah \\ 
     \hline
     \end{tabular}
-    \caption[Table caption text]{Table \ref{tbl:summary}: }
+    \caption[Table caption text]{Values of $K_{EML}$ and $k_d$, as determined in this experiment as well as accepted values from literature}
     \label{tbl:summary}
-\end{center}
+\end{table}
