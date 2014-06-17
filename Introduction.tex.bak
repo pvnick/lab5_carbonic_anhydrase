@@ -43,7 +43,7 @@ This yields the following differential rate law:
 \begin{equation}\label{eqn:kd_expression}
 \frac{d[\text{apoCA}]}{dt}=k_{d}[\text{CA$\cdot$Zn$\cdot$L}]
 \end{equation}
-Note the difference in assumptions between this reaction and the Michaelis-Menten model; M-M kinetics assumes the enzyme is reformed and that only the substrate is modified, while \eqref{eqn:kd_reaction} shows that both the substrate and the enzyme are permanently modified. Recall that $\text{[L]} >> \text{[CA$\cdot$Zn]}$, so [L] can be assumed to stay constant at $\text{[L]}_0$, which is substituted into a rearranged form of equation \eqref{eqn:KEML_expression},
+Note the difference in assumptions between this reaction and the Michaelis-Menten model; M-M kinetics assumes the enzyme is reformed and that only the substrate is modified, while \eqref{eqn:kd_reaction} shows that both the substrate and the enzyme are permanently modified. Recall that $\text{[L]} >> \text{[CA$\cdot$Zn]}$, so [L] can be assumed to be a constant, $\text{[L]}_0$, which is substituted into a rearranged form of equation \eqref{eqn:KEML_expression},
 \begin{equation}\label{eqn:KEML_expression_constant_L}
 \text{[CA$\cdot$Zn$\cdot$L]}=K_{EML}\text{[CA$\cdot$Zn][L]}_0
 \end{equation}
@@ -150,6 +150,8 @@ Para-nitrophenol absorbs strongly at 348nm. Recall that Beer's law states
 \begin{equation}\label{eqn:beers_law}
 A=\epsilon b c
 \end{equation}
-where $A$ is the measured absorbance at a particular wavelength, $\epsilon$ is the molar absorptivity, $b$ is the measurement path length, and $c$ is the concentration \cite{bib:quantitative_chem_anal_beer_law}. Therefore, $\frac{dA}{dt}$ is proportional to the change in para-nitrophenol (that is, the reaction velocity). Because the reaction occurs to a nontrivial extent without enzyme catalysis, a baseline correction is needed, $(\frac{dA}{dt})_{uncat}$, which can be obtained either from a solution containing only pNPA or a mixture of pNPA and apoCA (that is, after sufficient time has passed to inactivated all carbonic anhydrase before taking the assay). Thus, equation \eqref{eqn:integrated_rate_law_frac} can be implemented using 
-
-$ln \left(\frac{dA}{dt}\right)_{cat} = ln \left( \frac{ \frac{dA}{dt} }{ \left (\frac{dA}{dt}\right)_{uncat} } \right)$. 
+where $A$ is the measured absorbance at a particular wavelength, $\epsilon$ is the molar absorptivity, $b$ is the measurement path length, and $c$ is the concentration \cite{bib:quantitative_chem_anal_beer_law}. Therefore, $\left(\frac{dA}{dt}\right)_{cat}$ is proportional to the change in para-nitrophenol (that is, the reaction velocity). Because the reaction occurs to a nontrivial extent without enzyme catalysis, a baseline correction is needed, $(\frac{dA}{dt})_{uncat}$, which can be obtained either from a solution containing only pNPA or a mixture of pNPA and apoCA (that is, after sufficient time has passed to inactivated all carbonic anhydrase before taking the assay). Thus, equation \eqref{eqn:integrated_rate_law_frac} can be implemented using
+\begin{equation}\label{eqn:baseline_correction}
+ln \left(\frac{dA}{dt}\right)_{cat} = ln \left( \frac{ \left (\frac{dA}{dt}\right)_{t} }{ \left (\frac{dA}{dt}\right)_{uncat} } \right)
+\end{equation} 
+(note: this also fulfills the logarithm function's unitless requirement.)

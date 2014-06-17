@@ -43,7 +43,7 @@ This yields the following differential rate law:
 \begin{equation}\label{eqn:kd_expression}
 \frac{d[\text{apoCA}]}{dt}=k_{d}[\text{CA$\cdot$Zn$\cdot$L}]
 \end{equation}
-Note the difference in assumptions between this reaction and the Michaelis-Menten model; M-M kinetics assumes the enzyme is reformed and that only the substrate is modified, while \eqref{eqn:kd_reaction} shows that both the substrate and the enzyme are permanently modified. Recall that $\text{[L]} >> \text{[CA$\cdot$Zn]}$, so [L] can be assumed to stay constant at $\text{[L]}_0$, which is substituted into a rearranged form of equation \eqref{eqn:KEML_expression},
+Note the difference in assumptions between this reaction and the Michaelis-Menten model; M-M kinetics assumes the enzyme is reformed and that only the substrate is modified, while \eqref{eqn:kd_reaction} shows that both the substrate and the enzyme are permanently modified. Recall that $\text{[L]} >> \text{[CA$\cdot$Zn]}$, so [L] can be treated as a constant, $\text{[L]}_0$, which is substituted into a rearranged form of equation \eqref{eqn:KEML_expression},
 \begin{equation}\label{eqn:KEML_expression_constant_L}
 \text{[CA$\cdot$Zn$\cdot$L]}=K_{EML}\text{[CA$\cdot$Zn][L]}_0
 \end{equation}
@@ -108,7 +108,7 @@ ln \left( \frac{\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}}{\text{[CA$\cdot$Zn]}_0}
 =
 -\frac{k_{d}K_{EML}\text{[L]}_0}{1+K_{EML}\text{[L]}_0}t
 \end{equation}
-Assuming steady-state conditions for CA$\cdot$Zn$\cdot$L, that is, [CA$\cdot$Zn$\cdot$L] is always negligible, then $\frac{\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}}{\text{[CA$\cdot$Zn]}_0}$ is simply the fraction of CA$\cdot$Zn remaining after reaction time $t$ and can be referred to as $F_\text{CA$\cdot$Zn}$:
+Assuming steady-state conditions for CA$\cdot$Zn$\cdot$L - that is, [CA$\cdot$Zn$\cdot$L] is always negligible - then $\frac{\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}}{\text{[CA$\cdot$Zn]}_0}$ is simply the fraction of CA$\cdot$Zn remaining after reaction time $t$ and can be referred to as $F_\text{CA$\cdot$Zn}$:
 \begin{equation}\label{eqn:integrated_rate_law_frac}
 ln \left( F_\text{CA$\cdot$Zn} \right)
 =
@@ -150,7 +150,7 @@ Para-nitrophenol absorbs strongly at 348nm. Recall that Beer's law states
 \begin{equation}\label{eqn:beers_law}
 A=\epsilon b c
 \end{equation}
-where $A$ is the measured absorbance at a particular wavelength, $\epsilon$ is the molar absorptivity, $b$ is the measurement path length, and $c$ is the concentration \cite{bib:quantitative_chem_anal_beer_law}. Therefore, $\left(\frac{dA}{dt}\right)_{cat}$ is proportional to the change in para-nitrophenol (that is, the reaction velocity). Because the reaction occurs to a nontrivial extent without enzyme catalysis, a baseline correction is needed, $(\frac{dA}{dt})_{uncat}$, which can be obtained either from a solution containing only pNPA or a mixture of pNPA and apoCA (that is, after sufficient time has passed to inactivated all carbonic anhydrase before taking the assay). Thus, equation \eqref{eqn:integrated_rate_law_frac} can be implemented using
+where $A$ is the measured absorbance at a particular wavelength, $\epsilon$ is the molar absorptivity, $b$ is the measurement path length, and $c$ is the concentration \cite{bib:quantitative_chem_anal_beer_law}. Since $b$ and $\epsilon$ stay constant, $A$ is dependent only on $c$. $c$ varies with time, therefore $\left(\frac{dA}{dt}\right)_{cat}$ is proportional to the change in para-nitrophenol (that is, the reaction velocity). Because the reaction occurs to a nontrivial extent without enzyme catalysis, a baseline correction is needed, $(\frac{dA}{dt})_{uncat}$, which can be obtained either from a solution containing only pNPA or a mixture of pNPA and apoCA (that is, after sufficient time has passed to inactivated all carbonic anhydrase before taking the assay). In this experiment, $(\frac{dA}{dt})_{uncat}$ was determined from the solution of pNPA with no enzyme added. Thus, equation \eqref{eqn:integrated_rate_law_frac} can be implemented using
 \begin{equation}\label{eqn:baseline_correction}
 ln \left(\frac{dA}{dt}\right)_{cat} = ln \left( \frac{ \left (\frac{dA}{dt}\right)_{t} }{ \left (\frac{dA}{dt}\right)_{uncat} } \right)
 \end{equation} 

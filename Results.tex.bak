@@ -26,3 +26,15 @@ In the past decade, supervised activity recognition methods have been studied by
   \includegraphics[scale=0.5]{./Figures/016M_dipic_readings.png}\\
   \caption{blahblah.}\label{fig:0.016M_dipic_readings}
 \end{figure}
+
+\begin{center}
+    \begin{tabular}{| l | l |}
+    \hline
+    Constant & Empirical Value & Accepted Value \\ \hline
+    K_{EML} & (20\pm{18}){\ }M^{-1} & foobar \\ \hline
+    k_{d} & (0.10\pm{0.10}){\ }mins^{-1} & blah \\ 
+    \hline
+    \end{tabular}
+    \caption[Table caption text]{Table \ref{tbl:summary}: }
+    \label{tbl:summary}
+\end{center}

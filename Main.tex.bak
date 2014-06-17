@@ -41,9 +41,10 @@ In the past decade, supervised activity recognition methods have been studied by
 
 %=============== Content ===================%
 \include{Introduction}
-%\include{Procedure}
+\include{Procedure}
 \include{SampleCalculations}
-%\include{Results}
+\include{ErrorAnalysis}
+\include{Results}
 
 %=============== Reference ===================%
 \newpage
