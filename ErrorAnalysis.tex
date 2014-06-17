@@ -26,25 +26,25 @@ Equation \eqref{eqn:calculating_keml} shows how to calculate $K_{EML}$ from the 
 K_{EML}=\left (\frac{b}{m}\pm\lambda_{K_{EML}}\right ){\ }M^{-1}
 \end{equation*}
 Therefore, a 95\% confidence interval can be established as follows:
-\begin{equation*}
+\begin{equation}\label{eqn:err_anal_keml}
 \begin{split}
 \lambda_{K_{EML}}&=\sqrt{\left (\frac{\partial{\ }K_{EML}}{\partial{\ }m}\right )^{2}\lambda_{m}^{2}+\left (\frac{\partial{\ }K_{EML}}{\partial{\ }b}\right )^{2}\lambda_{b}^{2}} \\
 &=\sqrt{\left (-{\ }\frac{b}{m^{2}}\right )^{2}\lambda_{m}^{2}+\left (\frac{1}{m}\right )^{2}\lambda_{b}^{2}} \\
 &=\sqrt{\left (-{\ }\frac{\left (9.0{\ }mins\right )}{\left (0.5{\ }M\cdot{mins}\right )^{2}}\right )^2\times\left (0.24{\ }M\cdot{mins}\right )^2+\left (\frac{1}{\left (0.5{\ }M\cdot{mins}\right )}\right )^2\times\left (8.0{\ }mins\right )^2} \\
 &=18\ M^{-1}
 \end{split}
-\end{equation*}
+\end{equation}
 
 To calculate $k_d$, use the y-intercept of the line passing through a plot of $\frac{1}{k_{obs}}$ versus $\frac{1}{\text{[L]}_0}$ as determined by Equation \eqref{eqn:err_analysis_b}. Combining that with Equation \eqref{eqn:calculating_kd},
 \begin{equation*}
 k_{d}=\left (\frac{1}{b}\pm\lambda_{k_{d}}\right ){\ }mins^{-1}
 \end{equation*}
 Therefore, a 95\% confidence interval can be established as follows:
-\begin{equation*}
+\begin{equation}\label{eqn:err_anal_kd}
 \begin{split}
 \lambda_{k_{d}}&=\sqrt{\left (\frac{\partial{\ }k_{d}}{\partial{\ }b}\right )^{2}\lambda_{b}^{2}}\\
 &=\sqrt{\left (-{\ }\frac{1}{b^{2}}\right )^{2}\lambda_{b}^{2}}\\
 &=\sqrt{\left (-{\ }\frac{1}{\left (9.0{\ }\right )^{2}}\right )^2\times\left (8.0{\ }\right )^2}\\
 &=0.10\ mins^{-1}
 \end{split}
-\end{equation*}
+\end{equation}
