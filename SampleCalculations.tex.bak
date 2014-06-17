@@ -12,17 +12,17 @@ ln \left(\frac{dA}{dt}\right)_{cat}
 Recall from Equation \eqref{eqn:integrated_rate_law_frac} that $-k_{obs}$ is the slope obtained from a least-squares regression of multiple assay $ln \left(\frac{dA}{dt}\right)_{cat}$ readings versus CA/dipic reaction time. For -10 M dipic, this was found to be $-k_{obs}=-0.090 min^{-1}$ (so $k_{obs}=0.090 min^{-1})$.
 
 Equation \eqref{eqn:kobs_slope_reciprocal} implies that a least-squares regression of $\frac{1}{k_{obs}}$ versus $\frac{1}{\text{[L]}_0}$ gives a slope, $m=\frac{1}{k_{d}K_{EML}}$, and intercept, $b=\frac{1}{k_{d}}$, which can be used to calculate $k_d$ and $K_{EML}$ for the dipic/CA reaction. Empirically, $m$ was found to have a value of $0.5372\ M\cdot{mins}$ ($0.50\ M\cdot{mins}$ rounded to accepted precision from error analysis), and b was found to be $8.513\ mins$ ($9.0\ mins$ rounded to accepted precision from error analysis). Thus,
-\begin{equation*}
+\begin{equation}\label{eqn:samp_calc_keml}
 \begin{split}
 K_{EML}&=\left(\frac{b}{m}\right){\ }\\
 &=\frac{\left (9.0{\ }\right )}{\left (0.5{\ }\right )}\\
 &=20
 \end{split}
-\end{equation*}
-\begin{equation*}
+\end{equation}
+\begin{equation}\label{eqn:samp_calc_kd}
 \begin{split}
 k_{d}&=\left(\frac{1}{b}\right){\ }mins^{-1}\\
 &=\frac{1}{\left (9.0{\ }\right )}\\
 &=0.1\ mins^{-1}
 \end{split}
-\end{equation*}
+\end{equation}
