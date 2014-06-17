@@ -1,1 +1,24 @@
 \section{Error Analysis}
+To determine $k_{obs}$, readings of $ln \left(\frac{dA}{dt}\right)_{cat}$ were plotted against CA/dipic reaction time, and a least squares regression was performed. From the analysis of 0.10 M dipic, $m=-0.0936{\ }{mins}^{-1}$ and $s_m=0.0207{\ }{mins}^{-1}$. There were 5 data points taken while active CA enzyme activity was detected, so 3 degrees of freedom were used to get calculate the 95\% confidence t-factor, $t_{95}=3.182$. From this, a 95\% confidence interval was calculated:
+\begin{equation*}
+\begin{split}
+-k_{obs}&=\left (-0.0936\pm\frac{0.0207\times{3.182}}{\sqrt{5}}\right ){\ }{mins}^{-1}\\
+&=\left (-0.090\pm0.029\right ){\ }{mins}^{-1}
+\end{split}
+\end{equation*}
+
+To calculate $k_{d}$ and $K_{EML}$, values of $\frac{1}{k_{obs}}$ were plotted against $\frac{1}{\text{[L]}_0}$, and a least squares regression determined $m=0.5372{\ }mins\cdot{M}$, $s_m=0.1675{\ }mins\cdot{M}$, $b=8.513{\ }{mins}$, and $s_b=5.507{\ }{mins}$. Since 5 runs were performed, there were 3 degrees of freedom. The 95\% confidence t-factor was $t_{95}=3.182$. Therefore,
+\begin{equation*}
+\begin{split}
+m_{95}&=\left (0.5372\pm\frac{0.1675\times{3.182}}{\sqrt{5}}\right ){\ }mins\cdot{M}\\
+&=\left (0.50\pm0.24\right ){\ }mins\cdot{M}
+\end{split}
+\end{equation*}
+\begin{equation*}
+\begin{split}
+b_{95}&=\left (8.513\pm\frac{5.507\times{3.182}}{\sqrt{5}}\right ){\ }{mins}\\
+&=\left (9\pm8\right ){\ }{mins}
+ \end{split}
+\end{equation*}
+
+The confidence interval for 
