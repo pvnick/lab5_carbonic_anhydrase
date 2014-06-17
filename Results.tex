@@ -1,5 +1,5 @@
 \section{Data and Results}
-Five experiments were performed using a constant amount of carbonic anhydrase and varying concentrations of dipic. For each experiment, several measurements of CA-catalyzed pNPA hydrolysis velocities, $ln \left(\frac{dA}{dt}\right)_{cat}$, were taken using spectrophotometry and plotted against the CA/dipic reaction time. From these plots, five values of $k_{obs}$ were calculated. The results of these experiments are shown in Figure \ref{fig:kobs_results}.
+Five experiments were performed using a constant amount of carbonic anhydrase and varying concentrations of dipic. For each experiment, several measurements of CA-catalyzed pNPA hydrolysis velocities, $ln \left(\frac{dA}{dt}\right)_{cat}$, were taken using spectrophotometry and plotted against the CA/dipic reaction time. The results of these experiments are shown in Figure \ref{fig:kobs_results}.
 \begin{figure}[h]
         \begin{subfigure}{0.5\textwidth}
                 \includegraphics[width=\textwidth]{./Figures/20M_dipic_readings.png}
@@ -26,6 +26,15 @@ Five experiments were performed using a constant amount of carbonic anhydrase an
         \end{subfigure}
         \caption{$ln \left(\frac{dA}{dt}\right)_{cat}$ measurements versus CA/dipic reaction time for various concentrations of dipic. Slopes of the descending portions of these plots were used to assign values for $k_{obs}$.}\label{fig:kobs_results}
 \end{figure}
+
+From the descending portions of the plots shown in Figure \ref{fig:kobs_results}, five values of $k_{obs}$ were calculated using the slopes determined by least squares regression. The reciprocals of $k_{obs}$ and $\text{[L]}_0$ (dipic concentration) were plotted against each other, as shown in Figure \ref{fig:kobs_vs_l}.
+
+\begin{figure}[h]
+  \includegraphics[scale=.5]{./Figures/kobs_vs_l.png}\\
+  \caption{Plot of $\frac{1}{k_{obs}}$ versus $\frac{1}{\text{[L]}_0}$. The slope and intercept from this plot were determined by least squares regression and used to calculate $K_{EML}$ and $k_d$, demonstrated by Equations \eqref{eqn:samp_calc_keml} and \eqref{eqn:samp_calc_kd} respectively.}\label{fig:kobs_vs_l}
+\end{figure}
+
+A least squares regression procedure was performed on the data shown in Figure \ref{fig:kobs_vs_l} to retrieve values for the slope and intercept of the line passing through those points. Equations \eqref{eqn:samp_calc_keml} and \eqref{eqn:samp_calc_kd} show how these were used to calculate $K_{EML}$ and $k_d$. Table \ref{tbl:summary} lists these values and their 95\% confidence intervals, as well as accepted values reported in literature.
 
 \begin{table}[h]
     \begin{tabular}{| l | l | l |}
