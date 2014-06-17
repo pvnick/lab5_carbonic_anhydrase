@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  17 JUN 2014 10:00
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  17 JUN 2014 10:16
 entering extended mode
 **Main.tex
 
@@ -1164,45 +1164,45 @@ Overfull \hbox (1.77695pt too wide) in paragraph at lines 36--36
 
 ]) [13]
 ("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Resu
-lts.tex" <./Figures/20M_dipic_readings.png, id=69, 471.7625pt x 276.03125pt>
+lts.tex" <./Figures/20M_dipic_readings.png, id=69, 508.90125pt x 280.04625pt>
 File: ./Figures/20M_dipic_readings.png Graphic file (type png)
 
 <use ./Figures/20M_dipic_readings.png>
 Package pdftex.def Info: ./Figures/20M_dipic_readings.png used on input line 5.
 
-(pdftex.def)             Requested size: 234.87769pt x 137.42982pt.
+(pdftex.def)             Requested size: 234.87769pt x 129.25441pt.
 
-<./Figures/10M_dipic_readings.png, id=70, 473.77pt x 276.03125pt>
+<./Figures/10M_dipic_readings.png, id=70, 507.8975pt x 280.04625pt>
 File: ./Figures/10M_dipic_readings.png Graphic file (type png)
 
 <use ./Figures/10M_dipic_readings.png>
 Package pdftex.def Info: ./Figures/10M_dipic_readings.png used on input line 9.
 
-(pdftex.def)             Requested size: 234.87769pt x 136.84438pt.
+(pdftex.def)             Requested size: 234.87769pt x 129.50653pt.
 
-<./Figures/05M_dipic_readings.png, id=71, 472.76625pt x 280.04625pt>
+<./Figures/05M_dipic_readings.png, id=71, 506.89375pt x 284.06125pt>
 File: ./Figures/05M_dipic_readings.png Graphic file (type png)
 
 <use ./Figures/05M_dipic_readings.png>
 Package pdftex.def Info: ./Figures/05M_dipic_readings.png used on input line 14
 .
-(pdftex.def)             Requested size: 234.87769pt x 139.13396pt.
+(pdftex.def)             Requested size: 234.87769pt x 131.62332pt.
 
-<./Figures/016M_dipic_readings.png, id=72, 470.75874pt x 280.04625pt>
+<./Figures/016M_dipic_readings.png, id=72, 509.905pt x 285.065pt>
 File: ./Figures/016M_dipic_readings.png Graphic file (type png)
 
 <use ./Figures/016M_dipic_readings.png>
 Package pdftex.def Info: ./Figures/016M_dipic_readings.png used on input line 1
 8.
-(pdftex.def)             Requested size: 234.87769pt x 139.72365pt.
+(pdftex.def)             Requested size: 234.87769pt x 131.30983pt.
 
-<./Figures/032M_dipic_readings.png, id=73, 476.78125pt x 282.05376pt>
+<./Figures/032M_dipic_readings.png, id=73, 508.90125pt x 285.065pt>
 File: ./Figures/032M_dipic_readings.png Graphic file (type png)
 
 <use ./Figures/032M_dipic_readings.png>
 Package pdftex.def Info: ./Figures/032M_dipic_readings.png used on input line 2
 3.
-(pdftex.def)             Requested size: 234.87769pt x 138.95209pt.
+(pdftex.def)             Requested size: 234.87769pt x 131.5708pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -1210,13 +1210,13 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 ) [14
 
 
-] [15 <Z:/home/pvnick/Downloads/Google Drive/pchem labs/lab5_carbonic_anhydrase
-/Figures/20M_dipic_readings.png> <Z:/home/pvnick/Downloads/Google Drive/pchem l
-abs/lab5_carbonic_anhydrase/Figures/10M_dipic_readings.png> <Z:/home/pvnick/Dow
-nloads/Google Drive/pchem labs/lab5_carbonic_anhydrase/Figures/05M_dipic_readin
-gs.png> <Z:/home/pvnick/Downloads/Google Drive/pchem labs/lab5_carbonic_anhydra
-se/Figures/016M_dipic_readings.png> <Z:/home/pvnick/Downloads/Google Drive/pche
-m labs/lab5_carbonic_anhydrase/Figures/032M_dipic_readings.png>] [16
+ <Z:/home/pvnick/Downloads/Google Drive/pchem labs/lab5_carbonic_anhydrase/Figu
+res/20M_dipic_readings.png> <Z:/home/pvnick/Downloads/Google Drive/pchem labs/l
+ab5_carbonic_anhydrase/Figures/10M_dipic_readings.png> <Z:/home/pvnick/Download
+s/Google Drive/pchem labs/lab5_carbonic_anhydrase/Figures/05M_dipic_readings.pn
+g> <Z:/home/pvnick/Downloads/Google Drive/pchem labs/lab5_carbonic_anhydrase/Fi
+gures/016M_dipic_readings.png> <Z:/home/pvnick/Downloads/Google Drive/pchem lab
+s/lab5_carbonic_anhydrase/Figures/032M_dipic_readings.png>] [15] [16
 
 ]
 ("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Main
@@ -1238,7 +1238,7 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Here is how much of TeX's memory you used:
  22847 strings out of 493921
  439807 string characters out of 3138437
- 486890 words of memory out of 3000000
+ 486949 words of memory out of 3000000
  25740 multiletter control sequences out of 15000+200000
  15894 words of font info for 60 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
@@ -1265,7 +1265,7 @@ miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmsy8.pfb><Z:/home/pvni
 ck/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmti10.pfb
 ><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts
 /cm/cmti12.pfb>
-Output written on Main.pdf (16 pages, 592122 bytes).
+Output written on Main.pdf (16 pages, 589733 bytes).
 PDF statistics:
  140 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
