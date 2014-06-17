@@ -1,0 +1,11 @@
+\section{Sample Calculations}
+As Equation \eqref{eqn:baseline_correction} demonstrates, a baseline correction is needed to convert the raw absorbance velocity, $\left(\frac{dA}{dt}\right)_{t}$, to a proportion which can take the place of $F_\text{CA$\cdot$Zn}$ in Equation \eqref{eqn:integrated_rate_law_frac}. $\left(\frac{dA}{dt}\right)_{uncat}$ was found to be $3.18\times10^{-5}\ sec^{-1}$. One data point that was measured for the 0.10 M dipic concentration experiment was $\left(\frac{dA}{dt}\right)_{t=1.08\ min}=0.00295\ sec^{-1}$. Therefore, (\textbf{note: consider changing t in prior equation to be less ambiguous}) 
+\begin{equation*}
+\begin{split}
+ln \left(\frac{dA}{dt}\right)_{cat} 
+&= ln \left( \frac{ \left (\frac{dA}{dt}\right)_{t} }{ \left (\frac{dA}{dt}\right)_{uncat} } \right) \\
+&= ln \left( \frac{ 0.00295\ sec^{-1} }{ 3.18\times10^{-5}\ sec^{-1} } \right) \\
+&= 4.530
+\end{split}
+\end{equation*} 
+
