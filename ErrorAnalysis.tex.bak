@@ -7,7 +7,7 @@ To determine $k_{obs}$, readings of $ln \left(\frac{dA}{dt}\right)_{cat}$ were p
 \end{split}
 \end{equation*}
 
-To calculate $k_{d}$ and $K_{EML}$, values of $\frac{1}{k_{obs}}$ were plotted against $\frac{1}{\text{[L]}_0}$, and a least squares regression determined $m=0.5372{\ }mins\cdot{M}$, $s_m=0.1675{\ }mins\cdot{M}$, $b=8.513{\ }{mins}$, and $s_b=5.507{\ }{mins}$. Since 5 runs were performed, there were 3 degrees of freedom. The 95\% confidence t-factor was $t_{95}=3.182$. Therefore,
+To calculate $k_{d}$ and $K_{EML}$, values of $\frac{1}{k_{obs}}$ retrieved from all five experiments were plotted against $\frac{1}{\text{[L]}_0}$. A least squares regression determined $m=0.5372{\ }mins\cdot{M}$, $s_m=0.1675{\ }mins\cdot{M}$, $b=8.513{\ }{mins}$, and $s_b=5.507{\ }{mins}$. Since 5 runs were performed, there were 3 degrees of freedom. The 95\% confidence t-factor was $t_{95}=3.182$. Therefore,
 \begin{equation*}
 \begin{split}
 m_{95}&=\left (0.5372\pm\frac{0.1675\times{3.182}}{\sqrt{5}}\right ){\ }mins\cdot{M}\\
@@ -21,4 +21,16 @@ b_{95}&=\left (8.513\pm\frac{5.507\times{3.182}}{\sqrt{5}}\right ){\ }{mins}\\
  \end{split}
 \end{equation*}
 
-The confidence interval for 
+From Equation \eqref{eqn:calculating_keml},
+\begin{equation*}
+K_{EML}=\left (\frac{b}{m}\pm\lambda_{K_{EML}}\right ){\ }M^{-1}
+\end{equation*}
+Therefore, a 95\% confidence interval can be established as follows:
+\begin{equation*}
+\begin{split}
+\lambda_{K_{EML}}&=\sqrt{\left (\frac{\partial{\ }K_{EML}}{\partial{\ }m}\right )^{2}\lambda_{m}^{2}+\left (\frac{\partial{\ }K_{EML}}{\partial{\ }b}\right )^{2}\lambda_{b}^{2}} \\
+&=\sqrt{\left (-{\ }\frac{b}{m^{2}}\right )^{2}\lambda_{m}^{2}+\left (\frac{1}{m}\right )^{2}\lambda_{b}^{2}} \\
+&=\sqrt{\left (-{\ }\frac{\left (9.0{\ }mins\right )}{\left (0.5{\ }M\cdot{mins}\right )^{2}}\right )^2\times\left (0.24{\ }M\cdot{mins}\right )^2+\left (\frac{1}{\left (0.5{\ }M\cdot{mins}\right )}\right )^2\times\left (8.0{\ }mins\right )^2} \\
+&=18M^{-1}
+ \end{split}
+\end{equation*}
