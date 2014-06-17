@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  17 JUN 2014 09:54
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  17 JUN 2014 10:00
 entering extended mode
 **Main.tex
 
@@ -1168,50 +1168,41 @@ lts.tex" <./Figures/20M_dipic_readings.png, id=69, 471.7625pt x 276.03125pt>
 File: ./Figures/20M_dipic_readings.png Graphic file (type png)
 
 <use ./Figures/20M_dipic_readings.png>
-Package pdftex.def Info: ./Figures/20M_dipic_readings.png used on input line 4.
+Package pdftex.def Info: ./Figures/20M_dipic_readings.png used on input line 5.
 
-(pdftex.def)             Requested size: 235.88066pt x 138.01527pt.
+(pdftex.def)             Requested size: 234.87769pt x 137.42982pt.
 
 <./Figures/10M_dipic_readings.png, id=70, 473.77pt x 276.03125pt>
 File: ./Figures/10M_dipic_readings.png Graphic file (type png)
 
 <use ./Figures/10M_dipic_readings.png>
-Package pdftex.def Info: ./Figures/10M_dipic_readings.png used on input line 11
-.
-(pdftex.def)             Requested size: 236.88441pt x 138.01527pt.
+Package pdftex.def Info: ./Figures/10M_dipic_readings.png used on input line 9.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
+(pdftex.def)             Requested size: 234.87769pt x 136.84438pt.
 
 <./Figures/05M_dipic_readings.png, id=71, 472.76625pt x 280.04625pt>
 File: ./Figures/05M_dipic_readings.png Graphic file (type png)
 
 <use ./Figures/05M_dipic_readings.png>
-Package pdftex.def Info: ./Figures/05M_dipic_readings.png used on input line 16
+Package pdftex.def Info: ./Figures/05M_dipic_readings.png used on input line 14
 .
-(pdftex.def)             Requested size: 236.38254pt x 140.02277pt.
+(pdftex.def)             Requested size: 234.87769pt x 139.13396pt.
 
+<./Figures/016M_dipic_readings.png, id=72, 470.75874pt x 280.04625pt>
+File: ./Figures/016M_dipic_readings.png Graphic file (type png)
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+<use ./Figures/016M_dipic_readings.png>
+Package pdftex.def Info: ./Figures/016M_dipic_readings.png used on input line 1
+8.
+(pdftex.def)             Requested size: 234.87769pt x 139.72365pt.
 
-<./Figures/032M_dipic_readings.png, id=72, 476.78125pt x 282.05376pt>
+<./Figures/032M_dipic_readings.png, id=73, 476.78125pt x 282.05376pt>
 File: ./Figures/032M_dipic_readings.png Graphic file (type png)
 
 <use ./Figures/032M_dipic_readings.png>
 Package pdftex.def Info: ./Figures/032M_dipic_readings.png used on input line 2
-1.
-(pdftex.def)             Requested size: 238.39003pt x 141.02652pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<./Figures/016M_dipic_readings.png, id=73, 470.75874pt x 280.04625pt>
-File: ./Figures/016M_dipic_readings.png Graphic file (type png)
-
-<use ./Figures/016M_dipic_readings.png>
-Package pdftex.def Info: ./Figures/016M_dipic_readings.png used on input line 2
-6.
-(pdftex.def)             Requested size: 235.3788pt x 140.02277pt.
+3.
+(pdftex.def)             Requested size: 234.87769pt x 138.95209pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -1219,14 +1210,13 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 ) [14
 
 
- <Z:/home/pvnick/Downloads/Google Drive/pchem labs/lab5_carbonic_anhydrase/Figu
-res/20M_dipic_readings.png>] [15 <Z:/home/pvnick/Downloads/Google Drive/pchem l
+] [15 <Z:/home/pvnick/Downloads/Google Drive/pchem labs/lab5_carbonic_anhydrase
+/Figures/20M_dipic_readings.png> <Z:/home/pvnick/Downloads/Google Drive/pchem l
 abs/lab5_carbonic_anhydrase/Figures/10M_dipic_readings.png> <Z:/home/pvnick/Dow
 nloads/Google Drive/pchem labs/lab5_carbonic_anhydrase/Figures/05M_dipic_readin
 gs.png> <Z:/home/pvnick/Downloads/Google Drive/pchem labs/lab5_carbonic_anhydra
-se/Figures/032M_dipic_readings.png>] [16 <Z:/home/pvnick/Downloads/Google Drive
-/pchem labs/lab5_carbonic_anhydrase/Figures/016M_dipic_readings.png>]
-[17
+se/Figures/016M_dipic_readings.png> <Z:/home/pvnick/Downloads/Google Drive/pche
+m labs/lab5_carbonic_anhydrase/Figures/032M_dipic_readings.png>] [16
 
 ]
 ("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Main
@@ -1240,40 +1230,44 @@ leCalculations.aux")
 ("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Erro
 rAnalysis.aux")
 ("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Resu
-lts.aux")) ) 
+lts.aux"))
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 22835 strings out of 493921
- 439510 string characters out of 3138437
+ 22847 strings out of 493921
+ 439807 string characters out of 3138437
  486890 words of memory out of 3000000
- 25728 multiletter control sequences out of 15000+200000
+ 25740 multiletter control sequences out of 15000+200000
  15894 words of font info for 60 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 60i,28n,94p,10342b,503s stack positions out of 5000i,500n,10000p,200000b,50000s
- <Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\fonts\pk\ljfour
-\jknappen\ec\dpi600\tcrm1200.pk><Z:/home/pvnick/Downloads/miktex-portable-2.9.5
-105/fonts/type1/public/amsfonts/cm/cmbx10.pfb><Z:/home/pvnick/Downloads/miktex-
-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmbx12.pfb><Z:/home/pvnick/Dow
-nloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmex10.pfb><Z:/h
-ome/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cm
-mi12.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/
-amsfonts/cm/cmmi6.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/
-type1/public/amsfonts/cm/cmmi8.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.
-9.5105/fonts/type1/public/amsfonts/cm/cmr10.pfb><Z:/home/pvnick/Downloads/mikte
-x-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmr12.pfb><Z:/home/pvnick/Do
-wnloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmr6.pfb><Z:/ho
-me/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmr
-8.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/ams
-fonts/cm/cmss12.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/ty
-pe1/public/amsfonts/cm/cmssbx10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2
-.9.5105/fonts/type1/public/amsfonts/cm/cmsy10.pfb><Z:/home/pvnick/Downloads/mik
-tex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmsy7.pfb><Z:/home/pvnick/
-Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmsy8.pfb><Z:
-/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/
-cmti10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/publi
-c/amsfonts/cm/cmti12.pfb>
-Output written on Main.pdf (17 pages, 591894 bytes).
+ 60i,28n,94p,10342b,561s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\fonts\pk\ljfour\jknappen\
+ec\dpi600\tcrm1200.pk><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/
+type1/public/amsfonts/cm/cmbx10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2
+.9.5105/fonts/type1/public/amsfonts/cm/cmbx12.pfb><Z:/home/pvnick/Downloads/mik
+tex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmex10.pfb><Z:/home/pvnick
+/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
+Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/c
+m/cmmi6.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/publ
+ic/amsfonts/cm/cmmi8.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fon
+ts/type1/public/amsfonts/cm/cmr10.pfb><Z:/home/pvnick/Downloads/miktex-portable
+-2.9.5105/fonts/type1/public/amsfonts/cm/cmr12.pfb><Z:/home/pvnick/Downloads/mi
+ktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmr6.pfb><Z:/home/pvnick/
+Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmr8.pfb><Z:/
+home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/c
+mss12.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public
+/amsfonts/cm/cmssbx10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fo
+nts/type1/public/amsfonts/cm/cmsy10.pfb><Z:/home/pvnick/Downloads/miktex-portab
+le-2.9.5105/fonts/type1/public/amsfonts/cm/cmsy7.pfb><Z:/home/pvnick/Downloads/
+miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmsy8.pfb><Z:/home/pvni
+ck/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmti10.pfb
+><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts
+/cm/cmti12.pfb>
+Output written on Main.pdf (16 pages, 592122 bytes).
 PDF statistics:
- 143 PDF objects out of 1000 (max. 8388607)
+ 140 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  53 words of extra memory for PDF output out of 10000 (max. 10000000)
 
