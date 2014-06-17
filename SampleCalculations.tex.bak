@@ -1,28 +1,41 @@
 \section{Sample Calculations}
-As Equation \eqref{eqn:baseline_correction} demonstrates, a baseline correction is needed to convert the raw absorbance velocity, $\left(\frac{dA}{dt}\right)_{t}$, to a proportion which can take the place of $F_\text{CA$\cdot$Zn}$ in Equation \eqref{eqn:integrated_rate_law_frac}. $\left(\frac{dA}{dt}\right)_{uncat}$ was found to be $3.18\times10^{-5}\ sec^{-1}$. One data point that was measured for the 0.10 M dipic concentration experiment was $\left(\frac{dA}{dt}\right)_{t=1.08\ min}=0.00295\ sec^{-1}$. Therefore, (\textbf{note: consider changing t in prior equation to be less ambiguous}) 
+In each experiment, a 500 {\textmu}L solution ($v_{soln}=500$ {\textmu}L) was prepared consisting of 250 {\textmu}L of carbonic anhydrase solution, a certain volume ($v_{buff}$) of phosphate buffer, and, just before measurements were started, a certain volume ($v_{L}$) of 0.4 M dipic ($\text{[L]}_{stock}=0.4$ M) needed to dilute the dipic to a specific concentration ($\text{[L]}_0$). To achieve 0.10 M dipic, as per Equations \eqref{eqn:dipic_dilution} and \eqref{eqn:buff_volume},
 \begin{equation*}
 \begin{split}
-ln \left(\frac{dA}{dt}\right)_{cat} 
+v_L&=\frac{v_{soln} \times \text{[L]}_0}{\text{[L]}_{stock}}\\
+&=\frac{500$\text{ {\textmu}L} \times 0.10\text{ M}}{0.4\text{ M}}\\
+&=125$\text{ {\textmu}L}
+\end{split}
+\end{equation*}
+The amount of phosphate buffer, $v_{buff}$, needed to bring the solution to $v_{soln}$, is simply
+\begin{equation}\label{eqn:buff_volume}
+v_{buff}=v_{soln}-v_L
+\end{equation}
+
+As Equation \eqref{eqn:baseline_correction} demonstrates, a baseline correction is needed to convert the raw absorbance velocity, $\left(\frac{dA}{dt}\right)_{t}$, to a proportion which can take the place of $F_\text{CA$\cdot$Zn}$ in Equation \eqref{eqn:integrated_rate_law_frac}. $\left(\frac{dA}{dt}\right)_{uncat}$ was found to be $3.18\times10^{-5}\ sec^{-1}$. One data point that was measured for the 0.10 M dipic concentration experiment was $\left(\frac{dA}{dt}\right)_{t=1.08\ min}=0.00295\ sec^{-1}$. Therefore, (\textbf{note: consider changing t in prior equation to be less ambiguous})
+\begin{equation*}
+\begin{split}
+ln \left(\frac{dA}{dt}\right)_{cat}
 &= ln \left( \frac{ \left (\frac{dA}{dt}\right)_{t} }{ \left (\frac{dA}{dt}\right)_{uncat} } \right) \\
 &= ln \left( \frac{ 0.00295\ sec^{-1} }{ 3.18\times10^{-5}\ sec^{-1} } \right) \\
 &= 4.530
 \end{split}
-\end{equation*} 
+\end{equation*}
 
-Recall from Equation \eqref{eqn:integrated_rate_law_frac} that $-k_{obs}$ is the slope obtained from a least-squares regression of multiple assay $ln \left(\frac{dA}{dt}\right)_{cat}$ readings versus CA/dipic reaction time. For -10 M dipic, this was found to be $-k_{obs}=-0.090 min^{-1}$ (so $k_{obs}=0.090 min^{-1})$.
+Recall from Equation \eqref{eqn:integrated_rate_law_frac} that $-k_{obs}$ is the slope obtained from a least-squares regression of multiple assay $ln \left(\frac{dA}{dt}\right)_{cat}$ readings versus CA/dipic reaction time. For 0.10 M dipic, this was found to be $-k_{obs}=-0.090 min^{-1}$ (so $k_{obs}=0.090 min^{-1})$.
 
 Equation \eqref{eqn:kobs_slope_reciprocal} implies that a least-squares regression of $\frac{1}{k_{obs}}$ versus $\frac{1}{\text{[L]}_0}$ gives a slope, $m=\frac{1}{k_{d}K_{EML}}$, and intercept, $b=\frac{1}{k_{d}}$, which can be used to calculate $k_d$ and $K_{EML}$ for the dipic/CA reaction. Empirically, $m$ was found to have a value of $0.5372\ M\cdot{mins}$ ($0.50\ M\cdot{mins}$ rounded to accepted precision from error analysis), and b was found to be $8.513\ mins$ ($9.0\ mins$ rounded to accepted precision from error analysis). Thus,
 \begin{equation}\label{eqn:samp_calc_keml}
 \begin{split}
-K_{EML}&=\left(\frac{b}{m}\right){\ }\\
-&=\frac{\left (9.0{\ }\right )}{\left (0.5{\ }\right )}\\
-&=20
+K_{EML}&=\left(\frac{b}{m}\right){\ }M^{-1}\\
+&=\frac{\left (9.0{\ }mins\right )}{\left (0.5{\ }M\cdot{mins}\right )}\\
+&=20\ M^{-1}\\
 \end{split}
 \end{equation}
 \begin{equation}\label{eqn:samp_calc_kd}
 \begin{split}
 k_{d}&=\left(\frac{1}{b}\right){\ }mins^{-1}\\
-&=\frac{1}{\left (9.0{\ }\right )}\\
-&=0.1\ mins^{-1}
+&=\frac{1}{\left (9.0{\ }mins\right )}\\
+&=0.1\ mins^{-1}\\
 \end{split}
 \end{equation}

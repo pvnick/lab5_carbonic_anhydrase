@@ -140,6 +140,16 @@ k_d=\frac{1}{b}
 K_{EML}=\frac{b}{m}
 \end{equation}
 
+Deriving $k_d$ and $K_{EML}$ using Equation \eqref{eqn:kobs_slope_reciprocal} requires varying the dipic concentration while holding constant the concentration of carbonic anhydrase. As stated in the procedure, a certain volume, $v_L$, of dipic with a given concentration, $\text{[L]}_{stock}$, is added to a solution of carbonic anhydrase and phosphate buffer in order to dilute the dipic to a desired concentration, $\text{[L]}_0$. The final volume of solution is $v_{soln}$. In order calculate the needed volumes,
+\begin{equation}\label{eqn:dipic_dilution}
+v_L=\frac{v_{soln} \times \text{[L]}_0}{\text{[L]}_{stock}}
+\end{equation}
+The amount of phosphate buffer, $v_{buff}$, needed to bring the solution to $v_{soln}$, is simply
+\begin{equation}\label{eqn:buff_volume}
+v_{buff}=v_{soln}-v_{CA}-v_L
+\end{equation}
+where $v_{CA}$ is the original carbonic anhydrase solution volume.
+
 \subsection{Rate Measurements}
 While Equation \eqref{eqn:kobs_slope} seems to imply that the determination of $k_{obs}$ requires knowing [CA$\cdot$Zn] or [apoCA] at any point in time, in reality a plot of $f(t)$ vs $t$, where $t$ refers to CA/dipic reaction time and $f(t)$ is proportional to $F_\text{CA$\cdot$Zn}$, will still exhibit the same slope $-k_{obs}$. The Michaelis-Menten kinetics model states that, for sufficiently large substrate concentrations, the enzyme is fully saturated and the reaction velocity asymptotically approaches a constant rate,
 \begin{equation}\label{eqn:vmax}

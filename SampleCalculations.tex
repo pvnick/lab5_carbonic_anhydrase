@@ -1,4 +1,21 @@
 \section{Sample Calculations}
+In each experiment, a 500 {\textmu}L solution ($v_{soln}=500$ {\textmu}L) was prepared consisting of 250 {\textmu}L of carbonic anhydrase solution, a certain volume ($v_{buff}$) of phosphate buffer, and, just before measurements were started, a certain volume ($v_{L}$) of 0.4 M dipic ($\text{[L]}_{stock}=0.4$ M) needed to dilute the dipic to a specific concentration ($\text{[L]}_0$). To achieve 0.10 M dipic, as per Equation \eqref{eqn:dipic_dilution},
+\begin{equation*}
+\begin{split}
+v_L&=\frac{v_{soln} \times \text{[L]}_0}{\text{[L]}_{stock}}\\
+&=\frac{500\text{ {\textmu}L} \times 0.10\text{ M}}{0.4\text{ M}}\\
+&=125\text{ {\textmu}L}
+\end{split}
+\end{equation*}
+Equation \eqref{eqn:buff_volume} gives the amount of phosphate buffer, $v_{buff}$, added to the carbonic anhydrase solution (volume $v_{CA}$) before placing in the water bath to equilibrate:
+\begin{equation*}
+\begin{split}
+v_{buff}&=v_{soln}-v_{CA}-v_L\\
+&=500\text{ {\textmu}L}-250\text{ {\textmu}L}-125\text{ {\textmu}L}\\
+&=125\text{ {\textmu}L}
+\end{split}
+\end{equation*}
+
 As Equation \eqref{eqn:baseline_correction} demonstrates, a baseline correction is needed to convert the raw absorbance velocity, $\left(\frac{dA}{dt}\right)_{t}$, to a proportion which can take the place of $F_\text{CA$\cdot$Zn}$ in Equation \eqref{eqn:integrated_rate_law_frac}. $\left(\frac{dA}{dt}\right)_{uncat}$ was found to be $3.18\times10^{-5}\ sec^{-1}$. One data point that was measured for the 0.10 M dipic concentration experiment was $\left(\frac{dA}{dt}\right)_{t=1.08\ min}=0.00295\ sec^{-1}$. Therefore, (\textbf{note: consider changing t in prior equation to be less ambiguous})
 \begin{equation*}
 \begin{split}
