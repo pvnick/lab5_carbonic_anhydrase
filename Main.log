@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  16 JUN 2014 19:44
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  16 JUN 2014 20:15
 entering extended mode
 **Main.tex
 
@@ -1231,7 +1231,16 @@ input line 153.
 ) [8 <Z:/home/pvnick/Downloads/Google Drive/pchem labs/lab5_carbonic_anhydrase/
 Figures/pnpa_hydrolysis.jpg>]
 ("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Samp
-leCalculations.tex") [9
+leCalculations.tex"
+
+LaTeX Warning: Reference `eqn:baseline_correction' on page 9 undefined on input
+ line 2.
+
+
+LaTeX Warning: Reference `eqn:integrated_rate_law_frac' on page 9 undefined on 
+input line 2.
+
+) [9
 
 
 ]
@@ -1260,10 +1269,10 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 22762 strings out of 493921
- 436264 string characters out of 3138437
+ 22763 strings out of 493921
+ 436289 string characters out of 3138437
  481924 words of memory out of 3000000
- 25685 multiletter control sequences out of 15000+200000
+ 25686 multiletter control sequences out of 15000+200000
  15866 words of font info for 60 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  60i,28n,94p,10342b,500s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1289,7 +1298,7 @@ portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmsy8.pfb><Z:/home/pvnick/Down
 loads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmti10.pfb><Z:/ho
 me/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmt
 i12.pfb>
-Output written on Main.pdf (10 pages, 544815 bytes).
+Output written on Main.pdf (10 pages, 546707 bytes).
 PDF statistics:
  115 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
