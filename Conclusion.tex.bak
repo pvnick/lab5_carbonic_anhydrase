@@ -1,0 +1,15 @@
+\section{Conclusion}
+In this experiment, kinetics were investigated for the removal of \ce{Zn^2+} from the active site of carbonic anhydrase by 2,6-pyridinecarboxylate (dipic). Concentrations of dipic were varied for constant concentrations of carbonic anhydrase, and the resulting catalytic activities were measured periodically over the course of holoenzyme depletion using spectrophotometry.
+
+Dipic forms an enzyme-metal-ligand complex at the carbonic anhydrase active site, and then either reverses back to the holoenzyme and dipic or proceeds to covalently bond with zinc, stripping it from the active site and converting the enzyme to the inactive form, apoCA:
+\begin{align}
+\ce{CA$\cdot$Zn + L
+<=>[\ce{K_{EML}}]
+CA$\cdot$Zn$\cdot$L}
+\end{align}
+\begin{align}\label{eqn:kd_reaction}
+\ce{CA$\cdot$Zn$\cdot$L
+->[\ce{k_{d}}]
+apoCA + ZnL}
+\end{align}
+$K_{EML}$ and $k_d$ were determined 
