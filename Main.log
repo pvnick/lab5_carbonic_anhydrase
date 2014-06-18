@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  18 JUN 2014 08:53
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  18 JUN 2014 09:25
 entering extended mode
 **Main.tex
 
@@ -1101,7 +1101,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 {Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/pdftex/config/pdftex.map}]
 ("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Intr
 oduction.tex"
-<./Figures/Carbonic_anhydrase_1CA2_active_site_gray.png, id=17, 1244.65pt x 124
+<./Figures/Carbonic_anhydrase_1CA2_active_site_gray.png, id=20, 1244.65pt x 124
 4.65pt>
 File: ./Figures/Carbonic_anhydrase_1CA2_active_site_gray.png Graphic file (type
  png)
@@ -1113,7 +1113,7 @@ Package pdftex.def Info: ./Figures/Carbonic_anhydrase_1CA2_active_site_gray.png
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./Figures/dipic.jpg, id=19, 569.12625pt x 323.2075pt>
+<./Figures/dipic.jpg, id=22, 569.12625pt x 323.2075pt>
 File: ./Figures/dipic.jpg Graphic file (type jpg)
 
 <use ./Figures/dipic.jpg>
@@ -1247,11 +1247,11 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 22877 strings out of 493921
- 440845 string characters out of 3138437
- 487580 words of memory out of 3000000
- 25760 multiletter control sequences out of 15000+200000
- 16571 words of font info for 62 fonts, out of 3000000 for 9000
+ 22880 strings out of 493921
+ 440905 string characters out of 3138437
+ 486580 words of memory out of 3000000
+ 25764 multiletter control sequences out of 15000+200000
+ 17473 words of font info for 66 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  60i,28n,94p,10342b,563s stack positions out of 5000i,500n,10000p,200000b,50000s
  <Z:\home\pvnick\Downloads\miktex-portable-2.9.5105\fonts\pk\ljfour\jknappen\
@@ -1259,24 +1259,24 @@ ec\dpi600\tcrm1200.pk><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/
 type1/public/amsfonts/cm/cmbx10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2
 .9.5105/fonts/type1/public/amsfonts/cm/cmbx12.pfb><Z:/home/pvnick/Downloads/mik
 tex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmex10.pfb><Z:/home/pvnick
-/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
+/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
 Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/c
-m/cmmi6.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/publ
-ic/amsfonts/cm/cmmi8.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fon
-ts/type1/public/amsfonts/cm/cmr10.pfb><Z:/home/pvnick/Downloads/miktex-portable
--2.9.5105/fonts/type1/public/amsfonts/cm/cmr12.pfb><Z:/home/pvnick/Downloads/mi
-ktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmr6.pfb><Z:/home/pvnick/
-Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmr8.pfb><Z:/
-home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/c
-mss12.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public
-/amsfonts/cm/cmssbx10.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fo
-nts/type1/public/amsfonts/cm/cmsy10.pfb><Z:/home/pvnick/Downloads/miktex-portab
-le-2.9.5105/fonts/type1/public/amsfonts/cm/cmsy7.pfb><Z:/home/pvnick/Downloads/
-miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmsy8.pfb><Z:/home/pvni
-ck/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmti10.pfb
+m/cmmi12.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/pub
+lic/amsfonts/cm/cmmi6.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fo
+nts/type1/public/amsfonts/cm/cmmi8.pfb><Z:/home/pvnick/Downloads/miktex-portabl
+e-2.9.5105/fonts/type1/public/amsfonts/cm/cmr10.pfb><Z:/home/pvnick/Downloads/m
+iktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmr12.pfb><Z:/home/pvnic
+k/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmr6.pfb><Z
+:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm
+/cmr8.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public
+/amsfonts/cm/cmss12.pfb><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/font
+s/type1/public/amsfonts/cm/cmssbx10.pfb><Z:/home/pvnick/Downloads/miktex-portab
+le-2.9.5105/fonts/type1/public/amsfonts/cm/cmsy10.pfb><Z:/home/pvnick/Downloads
+/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmsy7.pfb><Z:/home/pvn
+ick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmsy8.pfb
 ><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts
 /cm/cmti12.pfb>
-Output written on Main.pdf (19 pages, 606152 bytes).
+Output written on Main.pdf (19 pages, 607683 bytes).
 PDF statistics:
  151 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
