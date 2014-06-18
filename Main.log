@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  18 JUN 2014 08:49
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.6.7)  18 JUN 2014 08:53
 entering extended mode
 **Main.tex
 
@@ -1010,7 +1010,7 @@ lts.aux")
 ("Z:\home\pvnick\Downloads\Google Drive\pchem labs\lab5_carbonic_anhydrase\Conc
 lusion.aux"
 
-LaTeX Warning: Label `eqn:kd_reaction' multiply defined.
+LaTeX Warning: Label `eqn:integrated_rate_law' multiply defined.
 
 ))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
@@ -1249,7 +1249,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  22877 strings out of 493921
  440845 string characters out of 3138437
- 487581 words of memory out of 3000000
+ 487580 words of memory out of 3000000
  25760 multiletter control sequences out of 15000+200000
  16571 words of font info for 62 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
@@ -1276,7 +1276,7 @@ miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmsy8.pfb><Z:/home/pvni
 ck/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts/cm/cmti10.pfb
 ><Z:/home/pvnick/Downloads/miktex-portable-2.9.5105/fonts/type1/public/amsfonts
 /cm/cmti12.pfb>
-Output written on Main.pdf (19 pages, 606188 bytes).
+Output written on Main.pdf (19 pages, 606152 bytes).
 PDF statistics:
  151 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
