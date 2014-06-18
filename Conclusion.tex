@@ -2,17 +2,23 @@
 In this experiment, kinetics were investigated for the removal of \ce{Zn^2+} from the active site of carbonic anhydrase by 2,6-pyridinecarboxylate (dipic). Concentrations of dipic were varied for constant concentrations of carbonic anhydrase, and the resulting catalytic activities were measured periodically over the course of holoenzyme depletion using spectrophotometry.
 
 Dipic forms an enzyme-metal-ligand complex at the carbonic anhydrase active site, and then either reverses back to the holoenzyme and dipic or proceeds to covalently bond with zinc, stripping it from the active site and converting the enzyme to the inactive form, apoCA:
-\begin{align}
+\begin{align*}
 \ce{CA$\cdot$Zn + L
 <=>[\ce{K_{EML}}]
 CA$\cdot$Zn$\cdot$L}
-\end{align}
-\begin{align}\label{eqn:kd_reaction}
+\end{align*}
+\begin{align*}\label{eqn:kd_reaction}
 \ce{CA$\cdot$Zn$\cdot$L
 ->[\ce{k_{d}}]
 apoCA + ZnL}
-\end{align}
-$K_{EML}$ was determined to be $(20\pm{18}){\ }M^{-1}$, a relatively wide error range which includes the literature value, $(7.7\pm{1.5}){\ }M^{-1}$\cite{bib:easy_peasy_values}. The enzyme-metal-ligand complex is therefore thermodynamically favorable over the separated enzyme and the dipic ion by approximately a factor of ten. $k_{d}$ was measured at $(0.10\pm{0.10}){\ }mins^{-1}$, while the accepted value from literature, $(0.43\pm{0.08}){\ }mins^{-1}$, is slightly outside of that range. What this means is that of the enzyme-metal-ligand complex extant at any point, approximately $25-40\%$ is converted into apoCA and ZnL within a minute. A consequence of these data is that the assumption of negligible [CA$\cdot$Zn$\cdot$L] needed to convert Equation \eqref{eqn:integrated_rate_law} into \eqref{eqn:integrated_rate_law_frac} may not necessarily be accurate. The final effect on the accuracy of $K_{EML}$ and $k_{d}$ is difficult to determine and should be investigated further.
+\end{align*}
+$K_{EML}$ was determined to be $(20\pm{18}){\ }M^{-1}$, a relatively wide error range which includes the literature value, $(7.7\pm{1.5}){\ }M^{-1}$\cite{bib:easy_peasy_values}. The enzyme-metal-ligand complex is therefore thermodynamically favorable over the separated enzyme and the dipic ion by approximately a factor of ten. $k_{d}$ was measured at $(0.10\pm{0.10}){\ }mins^{-1}$, while the accepted value from literature, $(0.43\pm{0.08}){\ }mins^{-1}$, is slightly outside of that range. What this means is that of the enzyme-metal-ligand complex extant at any point, approximately $25-40\%$ is converted into apoCA and ZnL within a minute. A consequence of these data is that the assumption of negligible [CA$\cdot$Zn$\cdot$L] needed to convert Equation \eqref{eqn:integrated_rate_law} into \eqref{eqn:integrated_rate_law_frac} may not necessarily be accurate. Instead, Equation \eqref{eqn:integrated_rate_law} would translate into
+\begin{equation}\label{eqn:integrated_rate_law}
+ln \left( \frac{\text{[CA$\cdot$Zn]}_0 - \text{[apoCA]}}{\text{[CA$\cdot$Zn]}_0} \right)
+=
+ln \left( \frac{\text{[CA$\cdot$Zn]}_t + \text{[CA$\cdot$Zn$\cdot$L]}}{\text{[CA$\cdot$Zn]}_0} \right)
+\end{equation}
+where [CA$\cdot$Zn$\cdot$L] is a constant due to steady state approximation. The final effect on the accuracy of $K_{EML}$ and $k_{d}$ is difficult to determine and should be investigated further. It may turn out to be negligible.
 
 Besides the source of uncertainty just discussed, an obvious source of uncertainty is the subjective selection of usable data required. In order to determine values for $k_{obs}$, assay measurements were selected or discarded visually based on their conforming to a descending straight line, and due to the data set's relative sparsity it was difficult to determine the exact range of enzyme activity. One way to correct for this uncertainty is to simply collect more assay measurements. Rather than having five or six data points within the window of holoenzyme activity, using ten or twenty would increase the precision of the least squares regression. Instead of scrambling to quickly perform assays, the temperature may be lowered so that the reactions occur slower. 
 
