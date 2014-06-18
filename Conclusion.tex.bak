@@ -12,4 +12,7 @@ CA$\cdot$Zn$\cdot$L}
 ->[\ce{k_{d}}]
 apoCA + ZnL}
 \end{align}
-$K_{EML}$ and $k_d$ were determined 
+$K_{EML}$ was determined to be $(20\pm{18}){\ }M^{-1}$, a relatively wide error range which includes the literature value, $(7.7\pm{1.5}){\ }M^{-1}$\cite{bib:easy_peasy_values}. The enzyme-metal-ligand complex is therefore thermodynamically favorable over the separated enzyme and the dipic ion by approximately a factor of ten. $k_{d}$ was measured at $(0.10\pm{0.10}){\ }mins^{-1}$, while the accepted value from literature, $(0.43\pm{0.08}){\ }mins^{-1}$, is slightly outside of that range.
+
+%& $(7.7\pm{1.5}){\ }M^{-1}$ \ \ \cite{bib:easy_peasy_values} \\ \hline
+%    $k_{d}$ & $(0.10\pm{0.10}){\ }mins^{-1}$ & $(0.43\pm{0.08}){\ }mins^{-1}$ \ \ \cite{bib:easy_peasy_values} \\
